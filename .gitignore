@@ -1,5 +1,6 @@
 .venv/
 venv/
+env/
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -8,5 +9,17 @@ dist/
 build/
 .pytest_cache/
 .mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.cover
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+.env
+.env.*
 results.json
 index.html

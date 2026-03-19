@@ -20,6 +20,7 @@ from job_raider.merge import (
     sort_items_for_search,
 )
 from job_raider.models import AppConfig, Opportunity, SearchConfig
+from job_raider.storage import write_results_atomic
 
 
 def _cfg(*searches: SearchConfig) -> AppConfig:
@@ -80,8 +81,6 @@ def test_load_roundtrip_minimal(tmp_path):
         tool_version="0.1.0",
     )
     p = tmp_path / "out.json"
-    from job_raider.storage import write_results_atomic
-
     write_results_atomic(p, doc)
     state = load_results_state(p)
     assert "s1" in state
@@ -296,3 +295,32 @@ def test_merge_run_full(tmp_path):
     assert len(doc.searches[0].items) == 1
     it = doc.searches[0].items[0]
     assert it.last_seen_at.endswith("Z")
+
+
+def test_merge_run_file_preserves_last_seen_when_not_seen_second_run(tmp_path):
+    """Epic 7: second run with empty incoming does not bump last_seen_at."""
+    cfg = _cfg(SearchConfig(id="s1", name="One", keywords=("python",), sources=()))
+    p = tmp_path / "state.json"
+    t1 = datetime(2026, 1, 10, 12, 0, 0, tzinfo=timezone.utc)
+    t2 = datetime(2026, 1, 10, 18, 0, 0, tzinfo=timezone.utc)
+    o = _opp(did="https://x.com/1", sid="s1", sname="One", title="Python role")
+    doc1 = merge_run(previous_path=None, incoming=[o], app_config=cfg, run_at=t1)
+    write_results_atomic(p, doc1)
+    doc2 = merge_run(previous_path=p, incoming=[], app_config=cfg, run_at=t2)
+    write_results_atomic(p, doc2)
+    data = json.loads(p.read_text(encoding="utf-8"))
+    item = data["searches"][0]["items"][0]
+    assert item["last_seen_at"] == "2026-01-10T12:00:00Z"
+
+
+def test_merge_run_file_refreshes_last_seen_when_seen_again(tmp_path):
+    """Epic 7: item present again on a later run updates last_seen_at."""
+    cfg = _cfg(SearchConfig(id="s1", name="One", keywords=("python",), sources=()))
+    p = tmp_path / "state.json"
+    t1 = datetime(2026, 1, 10, 12, 0, 0, tzinfo=timezone.utc)
+    t2 = datetime(2026, 1, 11, 12, 0, 0, tzinfo=timezone.utc)
+    o = _opp(did="https://x.com/1", sid="s1", sname="One", title="Python role")
+    write_results_atomic(p, merge_run(previous_path=None, incoming=[o], app_config=cfg, run_at=t1))
+    write_results_atomic(p, merge_run(previous_path=p, incoming=[o], app_config=cfg, run_at=t2))
+    data = json.loads(p.read_text(encoding="utf-8"))
+    assert data["searches"][0]["items"][0]["last_seen_at"] == "2026-01-11T12:00:00Z"

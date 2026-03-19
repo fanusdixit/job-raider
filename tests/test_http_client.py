@@ -52,6 +52,37 @@ def test_retries_on_503_then_success():
     assert session.get.call_count == 3
 
 
+def test_retries_on_429_then_success():
+    session = MagicMock()
+    slow = MagicMock()
+    slow.status_code = 429
+    slow.raise_for_status = MagicMock(side_effect=requests.HTTPError())
+    good = MagicMock()
+    good.status_code = 200
+    good.raise_for_status = MagicMock()
+    session.get.side_effect = [slow, good]
+
+    client = HttpClient(session=session, polite_delay_ms_range=(1, 1))
+    with patch("job_raider.http_client.time.sleep"):
+        r = client.get("https://example.com/api")
+    assert r is good
+    assert session.get.call_count == 2
+
+
+def test_503_exhausted_after_max_attempts_raises():
+    session = MagicMock()
+    bad = MagicMock()
+    bad.status_code = 503
+    bad.raise_for_status = MagicMock(side_effect=requests.HTTPError())
+    session.get.side_effect = [bad, bad, bad]
+
+    client = HttpClient(session=session, polite_delay_ms_range=(1, 1))
+    with patch("job_raider.http_client.time.sleep"):
+        with pytest.raises(requests.HTTPError):
+            client.get("https://example.com/feed")
+    assert session.get.call_count == 3
+
+
 def test_connection_error_retry_then_success():
     session = MagicMock()
     good = MagicMock()

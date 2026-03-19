@@ -1,4 +1,11 @@
-# Example searches.yaml — validates with Epic 1 loader (E6 will expand docs).
+# Example searches.yaml — copy to `searches.yaml` and adjust.
+#
+# RSS: official Python job board feed (stable, public).
+# HTML: books.toscrape.com is a demo catalog (not jobs); it illustrates
+# `html_selectors` with a predictable page structure. Replace with your own
+# listing URLs in production.
+#
+# Respect each site’s terms of use and robots.txt; see README and docs/configuration.md.
 version: 1
 
 defaults:
@@ -6,27 +13,30 @@ defaults:
   polite_delay_ms: 1000
 
 searches:
-  - id: example_rss
-    name: "Example RSS search"
+  - id: python_jobs_rss
+    name: "Python.org job board (RSS)"
     keywords:
       - python
-      - lavoro
-    region: Lazio
+      - developer
+      - engineer
+      - remote
+    region: Italia
     sources:
       - adapter: rss
-        label: "Example feed"
-        url: "https://example.com/feed.xml"
+        label: "Python.org jobs feed"
+        url: "https://www.python.org/jobs/feed/rss/"
 
-  - id: example_html
-    name: "Example HTML listings"
+  - id: demo_html_catalog
+    name: "Demo HTML listings (books.toscrape)"
     keywords:
-      - comunicazione
+      - light
+      - girl
+      - souls
     sources:
       - adapter: html_selectors
-        label: "Example portal"
-        url: "https://example.com/listings"
-        item: "article.job"
-        title: "h2 a"
-        link: "h2 a"
-        date: "time[datetime]"
-        link_base: "https://example.com"
+        label: "books.toscrape.com (demo)"
+        url: "https://books.toscrape.com/"
+        item: "article.product_pod"
+        title: "h3 a"
+        link: "h3 a"
+        link_base: "https://books.toscrape.com"

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import textwrap
+from pathlib import Path
 
 import pytest
 
@@ -255,3 +256,12 @@ def test_load_searches_ok(tmp_path):
     p.write_text(_valid_minimal_yaml(), encoding="utf-8")
     cfg = load_searches(p)
     assert cfg.searches[0].id == "s1"
+
+
+def test_load_searches_example_from_repo():
+    """Epic 6: committed example must stay valid for copy-paste onboarding."""
+    root = Path(__file__).resolve().parents[1]
+    example = root / "searches.example.yaml"
+    cfg = load_searches(example)
+    assert len(cfg.searches) >= 1
+    assert {s.id for s in cfg.searches} >= {"python_jobs_rss", "demo_html_catalog"}
