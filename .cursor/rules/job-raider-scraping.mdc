@@ -1,0 +1,47 @@
+---
+description: Scraping rules for Job Raider — HTTP and source adapter code
+globs:
+  - job_raider/sources/**/*.py
+  - job_raider/http_client.py
+alwaysApply: false
+---
+
+# Job Raider — scraping & HTTP adapters
+
+- **Spacing between requests:** Always sleep between outbound HTTP calls with **jitter** (e.g. `random.uniform(base, base + spread)`), never fire requests back-to-back.
+- **Robots:** Before scraping a **new** host or path scope, check **robots.txt** with `urllib.robotparser.RobotFileParser` (fetch, `read()`, then `can_fetch(user_agent, url)`).
+- **User-Agent:** Always send a descriptive header: `JobRaider/{version}` (use `job_raider.__version__` or the package version constant — do not invent ad-hoc strings per call).
+- **Minimum delay:** Never hardcode delays **under 1 second** between requests to the same host (jittered base should be ≥ 1s unless robots.txt or documented source policy requires longer).
+- **Rate limits / overload:** On **HTTP 429** and **503**, retry with **exponential backoff** and jitter; cap retries and log clearly.
+- **Adapter errors:** Never let raw exceptions escape an adapter entrypoint — catch, log with context, and re-raise or wrap as **`AdapterError`** from `job_raider.exceptions`.
+- **Logging:** For each fetch, log **which source** (adapter id / search id as appropriate) is being requested and **how many items** were returned after parse.
+- **Config is law:** Do not scrape a source or URL that is **not** declared in the loaded **`searches.yaml`** (or the path passed to the run). Adapters run only for configured searches.
+
+## Examples
+
+```python
+import random
+import time
+import urllib.robotparser
+from job_raider import __version__
+from job_raider.exceptions import AdapterError
+
+USER_AGENT = f"JobRaider/{__version__}"
+
+def polite_delay_seconds(base: float = 1.0, spread: float = 0.75) -> None:
+    if base < 1.0:
+        raise ValueError("base delay must be >= 1.0s")
+    time.sleep(base + random.uniform(0.0, spread))
+
+# ❌ BAD — no jitter, too fast
+# time.sleep(0.2); session.get(url)
+
+# ❌ BAD — bare raise from adapter
+# response.raise_for_status()
+
+# ✅ GOOD — wrap failures
+try:
+    ...
+except (requests.RequestException, ValueError) as e:
+    raise AdapterError("rss fetch failed") from e
+```

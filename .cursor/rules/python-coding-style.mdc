@@ -1,0 +1,44 @@
+---
+description: Python coding style for Job Raider
+alwaysApply: true
+---
+
+# Python coding style (Job Raider)
+
+- Always use type hints on all function and method signatures.
+- Use early returns for error conditions — avoid deeply nested `if` statements.
+- Place the happy path last for readability.
+- Use guard clauses at the top of functions.
+- Prefer f-strings over `.format()` or `%` formatting.
+- Maximum function length: 30 lines — split into helpers if longer.
+- Use `dataclasses` or Pydantic models for structured data; do not use plain `dict`s for that shape.
+- Never use bare `except` — catch specific exception types (or a small, intentional tuple of types).
+- All **public** functions and methods must have a docstring (module-private helpers may omit if obvious).
+
+## Examples
+
+```python
+# ❌ BAD — bare except
+try:
+    risky()
+except:
+    pass
+
+# ✅ GOOD
+try:
+    risky()
+except (ValueError, OSError) as e:
+    logger.warning("risky failed", exc_info=e)
+    raise
+```
+
+```python
+# Guard clauses + happy path last
+def process(user_id: str) -> Result:
+    if not user_id:
+        return Result.error("missing id")
+    user = load_user(user_id)
+    if user is None:
+        return Result.error("not found")
+    return Result.ok(transform(user))
+```

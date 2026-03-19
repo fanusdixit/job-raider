@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fixture Jobs</title>
+    <item>
+      <title>Python Developer in Rome</title>
+      <link>https://jobs.example.com/p/1</link>
+      <description>We need PYTHON skills</description>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java Engineer</title>
+      <link>https://jobs.example.com/p/2</link>
+    </item>
+    <item>
+      <title>Relative posting</title>
+      <link>/relative/3</link>
+      <description>See site</description>
+    </item>
+    <item>
+      <title>No link skipped</title>
+    </item>
+  </channel>
+</rss>

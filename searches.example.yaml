@@ -1,0 +1,32 @@
+# Example searches.yaml — validates with Epic 1 loader (E6 will expand docs).
+version: 1
+
+defaults:
+  request_timeout_seconds: 30
+  polite_delay_ms: 1000
+
+searches:
+  - id: example_rss
+    name: "Example RSS search"
+    keywords:
+      - python
+      - lavoro
+    region: Lazio
+    sources:
+      - adapter: rss
+        label: "Example feed"
+        url: "https://example.com/feed.xml"
+
+  - id: example_html
+    name: "Example HTML listings"
+    keywords:
+      - comunicazione
+    sources:
+      - adapter: html_selectors
+        label: "Example portal"
+        url: "https://example.com/listings"
+        item: "article.job"
+        title: "h2 a"
+        link: "h2 a"
+        date: "time[datetime]"
+        link_base: "https://example.com"

@@ -1,0 +1,38 @@
+---
+description: Testing rules for Job Raider
+globs:
+  - tests/**/*.py
+alwaysApply: true
+---
+
+# Testing (Job Raider)
+
+- **Green mainline:** All tests must pass before moving to the next epic — never leave a failing test.
+- **Timing:** Write tests before or alongside implementation, never after.
+- **Adapters:** Use offline fixtures (static HTML/XML files) for adapter tests — never make real HTTP calls in tests.
+- **Coverage per function:** Every new function must have at least one test covering the happy path and one covering failure.
+- **Naming:** Test file names must mirror the module they test, e.g. `tests/test_rss.py` tests `job_raider/sources/rss.py`.
+- **Runner:** Use **pytest** only — no `unittest`.
+- **Time:** Never use `time.sleep()` in tests — mock time or use pytest fixtures / `freezegun` / `unittest.mock` as appropriate.
+
+## Examples
+
+```python
+# ❌ BAD — real network in test
+def test_fetch():
+    assert fetch("https://example.com/jobs") is not None
+
+# ✅ GOOD — fixture file + injected client or responses
+def test_fetch_parses_fixture(tmp_path):
+    html = (Path(__file__).parent / "fixtures" / "listing.html").read_text()
+    assert parse_listing(html)
+```
+
+```python
+# ❌ BAD
+time.sleep(2)
+
+# ✅ GOOD
+with patch("job_raider.module.time.sleep"):
+    ...
+```
