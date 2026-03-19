@@ -23,3 +23,4 @@ htmlcov/
 .env.*
 results.json
 index.html
+searches.yaml
