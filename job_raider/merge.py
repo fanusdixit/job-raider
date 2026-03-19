@@ -19,6 +19,7 @@ from job_raider.models import (
     ResultsDocument,
     SearchConfig,
     SearchResults,
+    SourceRunRecord,
 )
 
 SCHEMA_VERSION = 1
@@ -275,6 +276,7 @@ def build_results_document(
     app_config: AppConfig,
     run_at: datetime | None = None,
     tool_version: str | None = None,
+    source_runs: tuple[SourceRunRecord, ...] = (),
 ) -> ResultsDocument:
     """
     Build canonical ``ResultsDocument`` for configured searches only (orphan sections dropped).
@@ -304,6 +306,7 @@ def build_results_document(
         generated_at=format_utc_z(run_at),
         tool_version=tv,
         searches=blocks,
+        source_runs=source_runs,
     )
 
 
@@ -314,6 +317,7 @@ def merge_run(
     app_config: AppConfig,
     run_at: datetime | None = None,
     tool_version: str | None = None,
+    source_runs: tuple[SourceRunRecord, ...] = (),
 ) -> ResultsDocument:
     """
     Full Epic 3 pipeline: load → apply incoming → prune → build sorted document.
@@ -328,12 +332,13 @@ def merge_run(
         app_config=app_config,
         run_at=run_at,
         tool_version=tool_version,
+        source_runs=source_runs,
     )
 
 
 def document_to_json_dict(doc: ResultsDocument) -> dict[str, Any]:
     """Serialize ``ResultsDocument`` to a JSON-serializable dict."""
-    return {
+    out: dict[str, Any] = {
         "schema_version": doc.schema_version,
         "generated_at": doc.generated_at,
         "tool_version": doc.tool_version,
@@ -358,3 +363,15 @@ def document_to_json_dict(doc: ResultsDocument) -> dict[str, Any]:
             for s in doc.searches
         ],
     }
+    out["source_runs"] = [
+        {
+            "search_id": r.search_id,
+            "search_name": r.search_name,
+            "source_label": r.source_label,
+            "status": r.status,
+            "item_count": r.item_count,
+            "error_detail": r.error_detail,
+        }
+        for r in doc.source_runs
+    ]
+    return out

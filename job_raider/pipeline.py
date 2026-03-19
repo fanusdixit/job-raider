@@ -13,7 +13,7 @@ from job_raider.generate_dashboard import write_index_html
 from job_raider.http_client import DEFAULT_POLITE_DELAY_MS_RANGE, DEFAULT_TIMEOUT, HttpClient, USER_AGENT
 from job_raider.matching import build_source_context
 from job_raider.merge import merge_run
-from job_raider.models import AppConfig, Opportunity, SourceConfig
+from job_raider.models import AppConfig, Opportunity, SourceConfig, SourceRunRecord
 from job_raider.normalize import normalize_and_filter
 from job_raider.robots import RobotsPolicy
 from job_raider.sources.adapters import get_adapter
@@ -41,19 +41,39 @@ def _http_client_for_config(cfg: AppConfig) -> HttpClient:
     return HttpClient(timeout=timeout, polite_delay_ms_range=delay_range)
 
 
+def _run_record(
+    search_id: str,
+    search_name: str,
+    label: str,
+    *,
+    status: str,
+    item_count: int,
+    error_detail: str | None = None,
+) -> SourceRunRecord:
+    return SourceRunRecord(
+        search_id=search_id,
+        search_name=search_name,
+        source_label=label,
+        status=status,
+        item_count=item_count,
+        error_detail=error_detail,
+    )
+
+
 def collect_opportunities(
     cfg: AppConfig,
     http: HttpClient,
     robots: RobotsPolicy | None = None,
-) -> tuple[list[Opportunity], int]:
+) -> tuple[list[Opportunity], int, tuple[SourceRunRecord, ...]]:
     """
     Execute searches in **YAML order**; each source in YAML order.
 
-    Returns ``(incoming, source_error_count)``.
+    Returns ``(incoming, source_error_count, source_runs)``.
     """
     gate = robots or RobotsPolicy(USER_AGENT)
     incoming: list[Opportunity] = []
     errors = 0
+    runs: list[SourceRunRecord] = []
 
     for search in cfg.searches:
         for source in search.sources:
@@ -68,6 +88,16 @@ def collect_opportunities(
                     adapter_name,
                 )
                 errors += 1
+                runs.append(
+                    _run_record(
+                        search.id,
+                        search.name,
+                        label,
+                        status="error",
+                        item_count=0,
+                        error_detail="missing url in source params",
+                    )
+                )
                 continue
 
             if not gate.allowed(url):
@@ -79,6 +109,16 @@ def collect_opportunities(
                     url,
                 )
                 errors += 1
+                runs.append(
+                    _run_record(
+                        search.id,
+                        search.name,
+                        label,
+                        status="error",
+                        item_count=0,
+                        error_detail="robots.txt disallows fetch",
+                    )
+                )
                 continue
 
             try:
@@ -94,6 +134,15 @@ def collect_opportunities(
                     adapter_name,
                     len(opps),
                 )
+                runs.append(
+                    _run_record(
+                        search.id,
+                        search.name,
+                        label,
+                        status="ok",
+                        item_count=len(opps),
+                    )
+                )
             except AdapterError as e:
                 logger.error(
                     "search=%s source=%s adapter=%s status=error error=%s",
@@ -103,6 +152,16 @@ def collect_opportunities(
                     e,
                 )
                 errors += 1
+                runs.append(
+                    _run_record(
+                        search.id,
+                        search.name,
+                        label,
+                        status="error",
+                        item_count=0,
+                        error_detail=str(e),
+                    )
+                )
             except Exception as e:
                 logger.exception(
                     "search=%s source=%s adapter=%s status=error",
@@ -111,8 +170,18 @@ def collect_opportunities(
                     adapter_name,
                 )
                 errors += 1
+                runs.append(
+                    _run_record(
+                        search.id,
+                        search.name,
+                        label,
+                        status="error",
+                        item_count=0,
+                        error_detail=str(e),
+                    )
+                )
 
-    return incoming, errors
+    return incoming, errors, tuple(runs)
 
 
 def run(
@@ -140,7 +209,7 @@ def run(
     http = http_client or _http_client_for_config(cfg)
     robots = robots_policy if robots_policy is not None else RobotsPolicy(USER_AGENT)
 
-    incoming, source_errors = collect_opportunities(cfg, http, robots)
+    incoming, source_errors, source_runs = collect_opportunities(cfg, http, robots)
     if source_errors:
         logger.warning("Completed fetch with %d source error(s)", source_errors)
 
@@ -149,6 +218,7 @@ def run(
             previous_path=results_path,
             incoming=incoming,
             app_config=cfg,
+            source_runs=source_runs,
         )
         write_results_atomic(results_path, doc)
         write_index_html(index_path, doc)

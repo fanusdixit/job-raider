@@ -1,0 +1,12 @@
+# Example input for `python discover.py -f discover.example.yaml`
+# Copy to discover.yaml or pass `-f` explicitly.
+#
+# For each URL, the tool tries the URL as-is, then (if the path does not
+# already look like a feed) appends /feed/ — common for WordPress career blogs.
+
+urls:
+  - "https://www.python.org/jobs/"
+keywords:
+  - python
+  - developer
+  - remote

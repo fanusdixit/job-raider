@@ -23,6 +23,7 @@ class SourceContext:
     region: str | None
     source_label: str
     params: dict[str, Any]
+    max_age_days: int | None = None
 
 
 @runtime_checkable

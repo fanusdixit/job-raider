@@ -28,6 +28,8 @@ python run.py -v   # debug logs on stderr
 
 **Outputs (defaults):** `./results.json` and `./index.html`. Open `index.html` in a browser (`file://` is fine).
 
+**Discover RSS sources (optional):** `python discover.py` — validates candidate URLs against robots.txt and feedparser, runs keyword overlap, and suggests what to add to `searches.yaml`. Use `discover.example.yaml` as a template; `--json` for machine-readable output. See [docs/configuration.md](docs/configuration.md#feed-discovery-discoveryaml-optional-helper).
+
 - **Exit `0`:** both files were written. Partial source failures still yield **`0`** if merge + render succeed; check stderr logs.
 - **Exit `1`:** invalid config, unreadable/corrupt `results.json`, or an IO error writing outputs.
 
@@ -56,6 +58,7 @@ Job Raider performs **HTTP GET** requests only to URLs **you** list. You are res
 ## Implementation map
 
 - **CLI / pipeline:** `run.py`, `job_raider.pipeline`  
+- **Feed discovery (helper):** `discover.py`  
 - **Dashboard:** `job_raider.generate_dashboard` (`build_index_html` / `write_index_html`); optional alias `job_raider.render`  
 - **Config:** `job_raider.config.load_searches`  
 - **Adapters / HTTP:** `job_raider.sources`, `job_raider.http_client`

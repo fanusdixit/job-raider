@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from job_raider.models import OpportunityRecord, ResultsDocument, SearchResults
+from job_raider.models import OpportunityRecord, ResultsDocument, SearchResults, SourceRunRecord
 
 ROME = ZoneInfo("Europe/Rome")
 NEW_WINDOW_HOURS = 48
@@ -49,6 +49,29 @@ li {
 .badge--new { background: #e3f2fd; color: #0d47a1; }
 .muted { color: #666; font-size: 0.88rem; }
 footer { margin-top: 2rem; font-size: 0.8rem; color: #777; }
+details.run-report {
+  margin-bottom: 2rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  background: #fff;
+}
+details.run-report summary {
+  cursor: pointer;
+  font-weight: 600;
+  user-select: none;
+  list-style-position: outside;
+}
+details.run-report summary::-webkit-details-marker { color: #555; }
+.run-report__sub { font-size: 0.95rem; margin: 1rem 0 0.5rem; }
+.run-report__search { font-size: 0.88rem; margin: 0.85rem 0 0.35rem; color: #333; }
+.run-report__totals { margin: 0 0 0.5rem; padding-left: 1.1rem; }
+.run-report__totals li { margin: 0.25rem 0; }
+.run-report table { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin: 0.5rem 0 1rem; }
+.run-report th, .run-report td { text-align: left; padding: 0.4rem 0.5rem; border-bottom: 1px solid #eee; vertical-align: top; }
+.run-report th { color: #555; font-weight: 600; }
+.run-report__status-ok { color: #1b5e20; font-weight: 600; }
+.run-report__status-err { color: #b71c1c; font-weight: 600; }
 """
 
 
@@ -125,6 +148,69 @@ def _render_item(it: OpportunityRecord, doc: ResultsDocument) -> str:
     )
 
 
+def _group_source_runs(runs: tuple[SourceRunRecord, ...]) -> list[tuple[str, str, list[SourceRunRecord]]]:
+    """Preserve fetch order: first occurrence of ``search_id`` defines block order."""
+    seen: list[str] = []
+    buckets: dict[str, list[SourceRunRecord]] = {}
+    for r in runs:
+        if r.search_id not in buckets:
+            seen.append(r.search_id)
+            buckets[r.search_id] = []
+        buckets[r.search_id].append(r)
+    out: list[tuple[str, str, list[SourceRunRecord]]] = []
+    for sid in seen:
+        block = buckets[sid]
+        name = block[0].search_name if block else sid
+        out.append((sid, name, block))
+    return out
+
+
+def _render_run_report(doc: ResultsDocument) -> str:
+    """Collapsible HTML report: last run time, per-source status, totals per search category."""
+    esc_gen = html.escape(doc.generated_at)
+    totals_html = "".join(
+        f"<li><strong>{html.escape(s.name)}</strong>: {len(s.items)}</li>"
+        for s in doc.searches
+    )
+    inner = [
+        f'<p class="muted run-report__meta">Ultima esecuzione (UTC): '
+        f'<time datetime="{esc_gen}">{esc_gen}</time></p>',
+        '<h3 class="run-report__sub">Totale risultati per categoria (dopo merge)</h3>',
+        f"<ul class=\"run-report__totals\">{totals_html}</ul>",
+    ]
+    if doc.source_runs:
+        inner.append('<h3 class="run-report__sub">Fonti (ultima esecuzione)</h3>')
+        for _sid, sname, block in _group_source_runs(doc.source_runs):
+            inner.append(f'<h4 class="run-report__search">{html.escape(sname)}</h4>')
+            rows = []
+            for r in block:
+                st_class = "run-report__status-ok" if r.status == "ok" else "run-report__status-err"
+                st_label = "ok" if r.status == "ok" else "errore"
+                err = r.error_detail or ""
+                esc_err = html.escape(err) if err else "—"
+                rows.append(
+                    "<tr>"
+                    f"<td>{html.escape(r.source_label)}</td>"
+                    f'<td><span class="{st_class}">{html.escape(st_label)}</span></td>'
+                    f"<td>{r.item_count}</td>"
+                    f'<td class="muted">{esc_err}</td>'
+                    "</tr>"
+                )
+            inner.append(
+                '<table class="run-report"><thead><tr>'
+                "<th>Fonte</th><th>Stato</th><th>Item (filtrati)</th><th>Dettaglio</th>"
+                "</tr></thead><tbody>"
+                + "".join(rows)
+                + "</tbody></table>"
+            )
+    else:
+        inner.append(
+            '<p class="muted">Dettaglio per fonte non disponibile per questo file risultati.</p>'
+        )
+    body = "\n    ".join(inner)
+    return f'<details class="run-report">\n  <summary>Report ultima esecuzione</summary>\n  <div>\n    {body}\n  </div>\n</details>'
+
+
 def _render_section(block: SearchResults, doc: ResultsDocument) -> str:
     esc_name = html.escape(block.name)
     esc_id = html.escape(block.id, quote=True)
@@ -154,6 +240,7 @@ def build_index_html(doc: ResultsDocument) -> str:
     <h1>Job Raider</h1>
     <p class="meta">Aggiornato: <time datetime="{esc_gen}">{esc_gen}</time> UTC · v{esc_ver}</p>
   </header>
+  {_render_run_report(doc)}
   <main>
     {sections}
   </main>

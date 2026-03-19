@@ -1,0 +1,29 @@
+# PNRR / orientamento discovery — Roma & Lazio (.edu.it). Run: python3 discover.py -f discover.yaml
+# Last validated 2026-03-19 (see git history / sprint notes). Re-run after adding candidate URLs.
+urls:
+  - "https://www.ufficioscolasticoregionalelazio.it/category/aree-tematiche/orientamento/feed/"
+  - "https://www.ufficioscolasticoregionalelazio.it/tag/pnrr/feed/"
+  - "https://www.ufficioscolasticoregionalelazio.it/category/aree-tematiche/feed/"
+  - "https://danielemanin.edu.it/"
+  - "https://www.comprensivoceneda.edu.it/"
+  - "https://www.icdonati.edu.it/"
+  - "https://www.liceoterracina.edu.it/feed?view=ultime_news"
+  - "https://icgallicano.edu.it/feed/circolari.rss"
+  - "https://www.icguicciardiniroma.edu.it/"
+  - "https://www.liceovirgilio.edu.it/"
+  - "https://www.icsabin.edu.it/"
+  - "https://www.liceomontale.edu.it/"
+  - "https://icoctavia.edu.it/"
+  - "https://www.icdantealighieriroma.edu.it/"
+  - "https://www.icviaormea.edu.it/"
+  - "https://comprensivoviaolcese.edu.it/"
+keywords:
+  - orientamento
+  - esperto esterno
+  - tutor
+  - PNRR
+  - mentor
+  - selezione
+  - avviso
+  - Agenda Nord
+  - dispersione scolastica

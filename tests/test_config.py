@@ -258,6 +258,78 @@ def test_load_searches_ok(tmp_path):
     assert cfg.searches[0].id == "s1"
 
 
+def test_max_age_days_valid():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            max_age_days: 30
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    cfg = parse_searches_yaml(raw)
+    assert cfg.searches[0].max_age_days == 30
+
+
+def test_max_age_days_null_omits():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            max_age_days: null
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    cfg = parse_searches_yaml(raw)
+    assert cfg.searches[0].max_age_days is None
+
+
+def test_max_age_days_zero_invalid():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            max_age_days: 0
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    with pytest.raises(ConfigError, match="max_age_days must be >= 1"):
+        parse_searches_yaml(raw)
+
+
+def test_max_age_days_bool_invalid():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            max_age_days: true
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    with pytest.raises(ConfigError, match="max_age_days must be an integer"):
+        parse_searches_yaml(raw)
+
+
 def test_load_searches_example_from_repo():
     """Epic 6: committed example must stay valid for copy-paste onboarding."""
     root = Path(__file__).resolve().parents[1]

@@ -104,6 +104,16 @@ def test_pipeline_mocked_rss_writes_results_and_dashboard(tmp_path: Path) -> Non
 
     payload = json.loads(results.read_text(encoding="utf-8"))
     assert payload["schema_version"] == 1
+    assert payload["source_runs"] == [
+        {
+            "search_id": "integ",
+            "search_name": "Integration search",
+            "source_label": "FixtureFeed",
+            "status": "ok",
+            "item_count": 1,
+            "error_detail": None,
+        }
+    ]
     blocks = {s["id"]: s for s in payload["searches"]}
     assert "integ" in blocks
     items = blocks["integ"]["items"]
@@ -115,6 +125,9 @@ def test_pipeline_mocked_rss_writes_results_and_dashboard(tmp_path: Path) -> Non
     assert "Integration search" in html_out
     assert "Python Developer in Rome" in html_out
     assert "https://jobs.example.com/p/1" in html_out
+    assert '<details class="run-report">' in html_out
+    assert "FixtureFeed" in html_out
+    assert "run-report__status-ok" in html_out
     session.get.assert_called_once()
 
 
@@ -164,3 +177,5 @@ def test_pipeline_skips_rss_when_roots_disallow_all(tmp_path: Path) -> None:
     session.get.assert_not_called()
     payload = json.loads(results.read_text(encoding="utf-8"))
     assert payload["searches"][0]["items"] == []
+    assert payload["source_runs"][0]["status"] == "error"
+    assert payload["source_runs"][0]["source_label"] == "BlockedFeed"

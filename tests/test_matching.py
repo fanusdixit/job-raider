@@ -1,13 +1,19 @@
-"""OR keywords and region expansion (Epic 2 Story 2.4)."""
+"""OR keywords, max age, and region expansion (Epic 2 Story 2.4)."""
 
 from __future__ import annotations
+
+import datetime as dt
+from zoneinfo import ZoneInfo
 
 from job_raider.matching import (
     build_source_context,
     expand_keywords_for_filter,
     matches_raw_item,
+    raw_passes_max_age,
 )
 from job_raider.models import RawItem, SearchConfig, SourceConfig
+
+ROME = ZoneInfo("Europe/Rome")
 
 
 def test_or_keyword_title():
@@ -69,3 +75,65 @@ def test_build_source_context():
     assert ctx.search_id == "s1"
     assert ctx.expanded_keywords == ("kw", "Campania")
     assert ctx.source_label == "L"
+    assert ctx.max_age_days is None
+
+
+def test_build_source_context_passes_max_age_days():
+    search = SearchConfig(
+        id="s1",
+        name="S",
+        keywords=("kw",),
+        region=None,
+        sources=(),
+        max_age_days=14,
+    )
+    source = SourceConfig(adapter="rss", label="L", params={"url": "https://x/f.xml"})
+
+    class FakeAdapter:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, FakeAdapter())
+    assert ctx.max_age_days == 14
+
+
+def test_raw_passes_max_age_when_unset():
+    raw = RawItem(
+        title="T",
+        url="https://x/a",
+        published_at=dt.datetime(2000, 1, 1, tzinfo=dt.timezone.utc),
+    )
+    assert raw_passes_max_age(raw, max_age_days=None, now_rome=dt.datetime.now(ROME)) is True
+
+
+def test_raw_passes_max_age_null_published_always_passes():
+    raw = RawItem(title="T", url="https://x/a", published_at=None)
+    assert (
+        raw_passes_max_age(
+            raw,
+            max_age_days=1,
+            now_rome=dt.datetime(2024, 6, 15, tzinfo=ROME),
+        )
+        is True
+    )
+
+
+def test_raw_passes_max_age_within_window():
+    now = dt.datetime(2024, 6, 15, 12, 0, 0, tzinfo=ROME)
+    pub = dt.datetime(2024, 6, 12, 12, 0, 0, tzinfo=ROME)
+    raw = RawItem(title="T", url="https://x/a", published_at=pub)
+    assert raw_passes_max_age(raw, max_age_days=5, now_rome=now) is True
+
+
+def test_raw_passes_max_age_outside_window():
+    now = dt.datetime(2024, 6, 15, 12, 0, 0, tzinfo=ROME)
+    pub = dt.datetime(2024, 6, 8, 12, 0, 0, tzinfo=ROME)
+    raw = RawItem(title="T", url="https://x/a", published_at=pub)
+    assert raw_passes_max_age(raw, max_age_days=5, now_rome=now) is False
+
+
+def test_raw_passes_max_age_naive_published_interpreted_as_rome():
+    now = dt.datetime(2024, 6, 15, 12, 0, 0, tzinfo=ROME)
+    pub = dt.datetime(2024, 6, 14, 12, 0, 0)
+    raw = RawItem(title="T", url="https://x/a", published_at=pub)
+    assert raw_passes_max_age(raw, max_age_days=5, now_rome=now) is True

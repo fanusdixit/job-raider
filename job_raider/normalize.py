@@ -4,7 +4,9 @@ RawItem → Opportunity with absolute URL and ``dedupe_id`` (architecture §6.3,
 
 from __future__ import annotations
 
+from datetime import datetime
 from urllib.parse import urlparse, urljoin
+from zoneinfo import ZoneInfo
 
 from job_raider.dedupe import compute_dedupe_id
 from job_raider.exceptions import NormalizeError
@@ -75,17 +77,33 @@ def normalize_and_filter(
     ctx: SourceContext,
     *,
     keywords: tuple[str, ...],
+    now_rome: datetime | None = None,
 ) -> list[Opportunity]:
     """
-    Apply OR keyword filter, then normalize each surviving ``RawItem``.
+    Apply OR keyword filter, optional ``max_age_days`` (Europe/Rome via ``ctx``), then normalize.
+
+    ``now_rome`` is the reference instant for age filtering (any tz-aware or naive datetime;
+    naive values are treated as Europe/Rome). Defaults to ``datetime.now(Europe/Rome)``.
 
     Skips items that fail normalization (caller may log in pipeline E5).
     """
-    from job_raider.matching import matches_raw_item
+    from job_raider.matching import matches_raw_item, raw_passes_max_age
+
+    rome = ZoneInfo("Europe/Rome")
+    if now_rome is None:
+        now = datetime.now(rome)
+    else:
+        if not isinstance(now_rome, datetime):
+            raise TypeError("now_rome must be datetime or None")
+        now = now_rome
+        if now.tzinfo is None:
+            now = now.replace(tzinfo=rome)
 
     out: list[Opportunity] = []
     for raw in raws:
         if not matches_raw_item(raw, keywords):
+            continue
+        if not raw_passes_max_age(raw, max_age_days=ctx.max_age_days, now_rome=now):
             continue
         try:
             out.append(raw_to_opportunity(raw, ctx))

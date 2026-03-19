@@ -1,10 +1,15 @@
 """
-OR keyword matching and region-as-keyword expansion (PRD §1.1, architecture §6).
+OR keyword matching, optional max age filter, and region-as-keyword expansion.
 """
 
 from __future__ import annotations
 
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
 from job_raider.models import RawItem, SearchConfig, SourceConfig
+
+ROME = ZoneInfo("Europe/Rome")
 from job_raider.sources.base import SourceAdapter, SourceContext
 
 
@@ -46,6 +51,32 @@ def matches_raw_item(item: RawItem, keywords: tuple[str, ...]) -> bool:
     return False
 
 
+def raw_passes_max_age(
+    item: RawItem,
+    *,
+    max_age_days: int | None,
+    now_rome: datetime,
+) -> bool:
+    """
+    When ``max_age_days`` is set, drop items whose ``published_at`` is strictly older
+    than that many days compared to ``now_rome`` (both interpreted in Europe/Rome).
+
+    Items with ``published_at`` None always pass. When ``max_age_days`` is None, passes.
+    """
+    if max_age_days is None:
+        return True
+    if item.published_at is None:
+        return True
+    now_r = now_rome.astimezone(ROME)
+    pub = item.published_at
+    if pub.tzinfo is None:
+        pub_r = pub.replace(tzinfo=ROME)
+    else:
+        pub_r = pub.astimezone(ROME)
+    age = now_r - pub_r
+    return age <= timedelta(days=max_age_days)
+
+
 def build_source_context(
     search: SearchConfig,
     source: SourceConfig,
@@ -64,4 +95,5 @@ def build_source_context(
         region=search.region,
         source_label=source.label,
         params=dict(source.params),
+        max_age_days=search.max_age_days,
     )

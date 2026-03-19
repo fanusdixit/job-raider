@@ -40,6 +40,7 @@ Omitted fields use built-in defaults (see `job_raider.http_client`).
 | `keywords` | **Yes** | Non-empty list of non-empty strings. |
 | `sources` | **Yes** | Non-empty list of source blocks. |
 | `region` | No | Optional region hint (best-effort; see **Region** below). |
+| `max_age_days` | No | Positive integer. When set, drops items with a non-null `published_at` strictly older than this many days versus **now** in **Europe/Rome** (after keyword matching, before normalize). Items with `published_at: null` are **not** dropped by this rule. |
 
 Unknown keys under a search → error.
 
@@ -47,12 +48,14 @@ Unknown keys under a search → error.
 
 ## Keyword matching (OR)
 
-After fetch and normalization, an item is kept only if **at least one** keyword matches:
+After fetch, an item is kept only if **at least one** keyword matches:
 
 - Case-insensitive **substring** match against **title**.
 - If the adapter provided a **summary**, the same against **summary**.
 
 There is no implicit AND between keywords.
+
+If `max_age_days` is set, surviving rows are then filtered by publication age (see table above); `null` dates always pass this step.
 
 ---
 
@@ -121,6 +124,19 @@ Robots coverage does not replace site **terms of service** or legal review; oper
 
 - **Execution:** Searches run in **`searches.yaml` list order**; within each search, sources run in **YAML order**.
 - **Persisted `results.json`:** Search blocks are ordered by **`search_id` ascending** (stable diffs). See `docs/results-schema.md`.
+
+---
+
+## Feed discovery (`discover.yaml`, optional helper)
+
+The standalone script **`discover.py`** (repo root) helps validate candidate RSS/Atom URLs before you add them to `searches.yaml`. It is **not** part of the main `run.py` pipeline.
+
+- **Input file (optional):** `discover.yaml` in the current directory is used automatically if it exists; otherwise pass `-f path/to/file.yaml`. The file may define `urls:` (list of strings) and `keywords:` (list of strings).
+- **CLI URLs:** Positional arguments are merged with file URLs (order preserved, duplicates removed).
+- **Keywords:** `--keywords a,b,c` overrides keywords from the file when set.
+- **Behaviour:** For each URL, the tool tries the URL as-is, then (if the path does not already look like a feed) tries `…/feed/`. It checks **robots.txt**, **GET**s the candidate, validates with **feedparser** (same spirit as the RSS adapter), counts items, and counts how many items match your keywords (OR substring match on title/summary, like the main app). **`--json`** prints a machine-readable report on stdout.
+
+See `discover.example.yaml` for a minimal template.
 
 ---
 

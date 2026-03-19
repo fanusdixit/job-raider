@@ -37,6 +37,7 @@ class SearchConfig:
     keywords: tuple[str, ...]
     sources: tuple[SourceConfig, ...]
     region: str | None = None
+    max_age_days: int | None = None
 
 
 @dataclass(frozen=True)
@@ -95,6 +96,18 @@ class SearchResults:
     items: list[OpportunityRecord]
 
 
+@dataclass(frozen=True)
+class SourceRunRecord:
+    """One source fetch outcome from the latest pipeline run (for dashboard report)."""
+
+    search_id: str
+    search_name: str
+    source_label: str
+    status: str  # "ok" | "error"
+    item_count: int
+    error_detail: str | None = None
+
+
 @dataclass
 class RunMeta:
     """Top-level metadata for a persisted run (results.json)."""
@@ -112,3 +125,4 @@ class ResultsDocument:
     generated_at: str
     tool_version: str
     searches: list[SearchResults]
+    source_runs: tuple[SourceRunRecord, ...] = field(default_factory=tuple)

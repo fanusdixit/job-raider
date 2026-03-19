@@ -44,6 +44,7 @@ def test_atomic_write_and_read_json(tmp_path):
     assert data["generated_at"].endswith("Z")
     assert len(data["searches"]) == 1
     assert data["searches"][0]["items"][0]["dedupe_id"] == "https://x.com/1"
+    assert data["source_runs"] == []
 
 
 def test_write_creates_parent_dir(tmp_path):

@@ -6,7 +6,7 @@ import textwrap
 from datetime import datetime, timezone
 from pathlib import Path
 
-from job_raider.models import Opportunity
+from job_raider.models import Opportunity, SourceRunRecord
 from job_raider import pipeline as pipeline_mod
 
 
@@ -31,21 +31,28 @@ def test_pipeline_writes_json_and_html(tmp_path, monkeypatch):
     index = tmp_path / "index.html"
 
     def fake_collect(cfg, http, robots=None):  # noqa: ARG001
-        return (
-            [
-                Opportunity(
-                    dedupe_id="https://jobs.example/p/1",
-                    title="Role",
-                    source="L",
-                    url="https://jobs.example/p/1",
-                    search_id="t",
-                    search_name="T",
-                    published_at=datetime(2025, 1, 1, tzinfo=timezone.utc),
-                    last_seen_at=None,
-                )
-            ],
-            0,
+        opps = [
+            Opportunity(
+                dedupe_id="https://jobs.example/p/1",
+                title="Role",
+                source="L",
+                url="https://jobs.example/p/1",
+                search_id="t",
+                search_name="T",
+                published_at=datetime(2025, 1, 1, tzinfo=timezone.utc),
+                last_seen_at=None,
+            )
+        ]
+        runs = (
+            SourceRunRecord(
+                search_id="t",
+                search_name="T",
+                source_label="L",
+                status="ok",
+                item_count=1,
+            ),
         )
+        return opps, 0, runs
 
     monkeypatch.setattr(pipeline_mod, "collect_opportunities", fake_collect)
 
@@ -94,7 +101,7 @@ def test_run_with_paths_string(tmp_path, monkeypatch):
     monkeypatch.setattr(
         pipeline_mod,
         "collect_opportunities",
-        lambda *a, **k: ([], 0),
+        lambda *a, **k: ([], 0, ()),
     )
 
     assert (

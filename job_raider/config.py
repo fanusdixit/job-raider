@@ -117,9 +117,10 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
     name = _require_str(item, "name", path)
     keywords = _parse_keywords(item, path)
     region = _optional_str(item, "region", path)
+    max_age_days = _optional_max_age_days(item, path)
     sources = _parse_sources(item, path)
 
-    extra = set(item.keys()) - {"id", "name", "keywords", "region", "sources"}
+    extra = set(item.keys()) - {"id", "name", "keywords", "region", "sources", "max_age_days"}
     if extra:
         raise ConfigError(f"{path}: unknown keys: {', '.join(sorted(extra))}")
 
@@ -129,6 +130,7 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
         keywords=keywords,
         sources=sources,
         region=region,
+        max_age_days=max_age_days,
     )
 
 
@@ -139,6 +141,21 @@ def _require_str(m: Mapping[str, Any], key: str, path: str) -> str:
     if not isinstance(val, str) or not val.strip():
         raise ConfigError(f"{path}: {key!r} must be a non-empty string")
     return val.strip()
+
+
+def _optional_max_age_days(m: Mapping[str, Any], path: str) -> int | None:
+    if "max_age_days" not in m:
+        return None
+    v = m["max_age_days"]
+    if v is None:
+        return None
+    if not isinstance(v, int) or isinstance(v, bool):
+        raise ConfigError(
+            f"{path}: max_age_days must be an integer or null, got {type(v).__name__}"
+        )
+    if v < 1:
+        raise ConfigError(f"{path}: max_age_days must be >= 1 when set, got {v}")
+    return v
 
 
 def _optional_str(m: Mapping[str, Any], key: str, path: str) -> str | None:
