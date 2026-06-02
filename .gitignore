@@ -21,6 +21,4 @@ htmlcov/
 *.swo
 .env
 .env.*
-results.json
-index.html
 searches.yaml

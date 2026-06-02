@@ -1,22 +1,20 @@
-# PNRR / orientamento discovery — Roma & Lazio (.edu.it). Run: python3 discover.py -f discover.yaml
-# Last validated 2026-03-19 (see git history / sprint notes). Re-run after adding candidate URLs.
+# PNRR discovery — schools list (2026). Run: python3 discover.py -f discover.yaml
 urls:
-  - "https://www.ufficioscolasticoregionalelazio.it/category/aree-tematiche/orientamento/feed/"
-  - "https://www.ufficioscolasticoregionalelazio.it/tag/pnrr/feed/"
-  - "https://www.ufficioscolasticoregionalelazio.it/category/aree-tematiche/feed/"
-  - "https://danielemanin.edu.it/"
-  - "https://www.comprensivoceneda.edu.it/"
-  - "https://www.icdonati.edu.it/"
-  - "https://www.liceoterracina.edu.it/feed?view=ultime_news"
-  - "https://icgallicano.edu.it/feed/circolari.rss"
-  - "https://www.icguicciardiniroma.edu.it/"
-  - "https://www.liceovirgilio.edu.it/"
-  - "https://www.icsabin.edu.it/"
-  - "https://www.liceomontale.edu.it/"
-  - "https://icoctavia.edu.it/"
-  - "https://www.icdantealighieriroma.edu.it/"
-  - "https://www.icviaormea.edu.it/"
-  - "https://comprensivoviaolcese.edu.it/"
+  - "https://www.liceocatullo.edu.it/"                    # Liceo Catullo, Monterotondo (RM)
+  - "https://www.iissbattistivelletri.edu.it/"            # IISS Cesare Battisti, Velletri (RM)
+  - "https://comprensivosanpiov.edu.it/"                 # I.C. Largo San Pio V, Roma
+  - "https://www.icaretusa.edu.it/"                      # I.C. Via Aretusa, Roma
+  - "https://www.federicocaffe.edu.it/"                  # IIS Federico Caffè, Roma
+  - "https://www.iccittadeibambini.edu.it/"              # I.C. Città dei Bambini, Mentana (RM)
+  - "https://www.istitutocomprensivoviatedeschi.edu.it/" # I.C. Via Tedeschi, Roma
+  - "https://www.cpianapolicitta2.edu.it/"               # CPIA Napoli Città 2
+  - "https://www.ipsiapaolocolosimo.edu.it/"             # ISIS Paolo Colosimo, Napoli
+  - "https://www.liceomazzininapoli.edu.it/"             # Liceo Mazzini, Napoli
+  - "https://www.convittonapoli.edu.it/"                 # Convitto V. Emanuele II, Napoli
+  - "https://www.icaldomoronapoli.edu.it/"               # I.C. Aldo Moro, Napoli (città)
+  - "https://www.liceofonseca.edu.it/"                   # Liceo E. Fonseca, Napoli
+  - "https://www.liceosegre.edu.it/"                     # Liceo E. Segrè, Marano di Napoli
+  - "https://www.isisscontiaversa.edu.it/"               # ISISS Osvaldo Conti, Aversa (CE)
 keywords:
   - orientamento
   - esperto esterno
@@ -27,3 +25,4 @@ keywords:
   - avviso
   - Agenda Nord
   - dispersione scolastica
+  - mentoring

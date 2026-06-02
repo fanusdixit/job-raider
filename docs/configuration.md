@@ -41,6 +41,8 @@ Omitted fields use built-in defaults (see `job_raider.http_client`).
 | `sources` | **Yes** | Non-empty list of source blocks. |
 | `region` | No | Optional region hint (best-effort; see **Region** below). |
 | `max_age_days` | No | Positive integer. When set, drops items with a non-null `published_at` strictly older than this many days versus **now** in **Europe/Rome** (after keyword matching, before normalize). Items with `published_at: null` are **not** dropped by this rule. |
+| `require_keywords` | No | List of non-empty strings, or omit / `null`. When **non-empty**, an item must match **at least one** of these phrases (same substring rules as `keywords`) **in addition to** passing the main `keywords` OR filter. Use for “job signal” tokens (e.g. `bando`, `selezione`, `tutor`). |
+| `exclude_keywords` | No | List of non-empty strings, or omit / `null`. If **any** phrase appears in title or summary (case-insensitive substring), the item is **dropped**, even if it matched `keywords` and `require_keywords`. Evaluated **after** `require_keywords`. |
 
 Unknown keys under a search → error.
 
@@ -48,14 +50,36 @@ Unknown keys under a search → error.
 
 ## Keyword matching (OR)
 
-After fetch, an item is kept only if **at least one** keyword matches:
+After fetch, filters apply in this order:
 
-- Case-insensitive **substring** match against **title**.
-- If the adapter provided a **summary**, the same against **summary**.
+1. **`keywords` (required)** — item is kept only if **at least one** keyword matches:
+   - Case-insensitive **substring** match against **title**.
+   - If the adapter provided a **summary**, the same against **summary**.
+   - There is no implicit AND between `keywords`.
 
-There is no implicit AND between keywords.
+2. **`require_keywords` (optional)** — if the list is non-empty, the item must also match **at least one** required phrase (same substring rules). Omitted, `null`, or `[]` skips this step.
 
-If `max_age_days` is set, surviving rows are then filtered by publication age (see table above); `null` dates always pass this step.
+3. **`exclude_keywords` (optional)** — if **any** listed phrase appears in title or summary, the item is removed. Omitted, `null`, or `[]` skips this step.
+
+4. **`max_age_days`** — when set, surviving rows are filtered by publication age (see table above); `null` dates always pass this step.
+
+### Example (narrow PNRR / bandi)
+
+```yaml
+keywords:
+  - PNRR
+  - orientamento
+require_keywords:
+  - selezione
+  - avviso
+  - bando
+  - esperto
+  - tutor
+exclude_keywords:
+  - iscrizioni
+  - inaugurazione
+  - consiglio di istituto
+```
 
 ---
 

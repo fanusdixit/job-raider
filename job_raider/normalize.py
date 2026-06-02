@@ -80,14 +80,20 @@ def normalize_and_filter(
     now_rome: datetime | None = None,
 ) -> list[Opportunity]:
     """
-    Apply OR keyword filter, optional ``max_age_days`` (Europe/Rome via ``ctx``), then normalize.
+    Apply OR ``keywords`` filter, optional ``require_keywords`` / ``exclude_keywords`` (via ``ctx``),
+    optional ``max_age_days`` (Europe/Rome), then normalize.
 
     ``now_rome`` is the reference instant for age filtering (any tz-aware or naive datetime;
     naive values are treated as Europe/Rome). Defaults to ``datetime.now(Europe/Rome)``.
 
     Skips items that fail normalization (caller may log in pipeline E5).
     """
-    from job_raider.matching import matches_raw_item, raw_passes_max_age
+    from job_raider.matching import (
+        matches_raw_item,
+        raw_matches_any_exclude_keyword,
+        raw_passes_max_age,
+        raw_passes_require_keywords,
+    )
 
     rome = ZoneInfo("Europe/Rome")
     if now_rome is None:
@@ -102,6 +108,10 @@ def normalize_and_filter(
     out: list[Opportunity] = []
     for raw in raws:
         if not matches_raw_item(raw, keywords):
+            continue
+        if not raw_passes_require_keywords(raw, ctx.require_keywords):
+            continue
+        if raw_matches_any_exclude_keyword(raw, ctx.exclude_keywords):
             continue
         if not raw_passes_max_age(raw, max_age_days=ctx.max_age_days, now_rome=now):
             continue

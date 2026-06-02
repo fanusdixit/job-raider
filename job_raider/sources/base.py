@@ -24,6 +24,8 @@ class SourceContext:
     source_label: str
     params: dict[str, Any]
     max_age_days: int | None = None
+    require_keywords: tuple[str, ...] = ()
+    exclude_keywords: tuple[str, ...] = ()
 
 
 @runtime_checkable

@@ -9,7 +9,9 @@ from job_raider.matching import (
     build_source_context,
     expand_keywords_for_filter,
     matches_raw_item,
+    raw_matches_any_exclude_keyword,
     raw_passes_max_age,
+    raw_passes_require_keywords,
 )
 from job_raider.models import RawItem, SearchConfig, SourceConfig
 
@@ -76,6 +78,49 @@ def test_build_source_context():
     assert ctx.expanded_keywords == ("kw", "Campania")
     assert ctx.source_label == "L"
     assert ctx.max_age_days is None
+
+
+def test_raw_passes_require_keywords_empty_tuple_always_true():
+    raw = RawItem(title="Anything", url="https://x/a")
+    assert raw_passes_require_keywords(raw, ()) is True
+
+
+def test_raw_passes_require_keywords_or_in_title_or_summary():
+    raw = RawItem(title="News", url="https://x/a", summary="Avviso pubblico")
+    assert raw_passes_require_keywords(raw, ("bando",)) is False
+    assert raw_passes_require_keywords(raw, ("avviso",)) is True
+
+
+def test_raw_matches_exclude_keyword_in_title():
+    raw = RawItem(title="Premiato lo studente", url="https://x/a")
+    assert raw_matches_any_exclude_keyword(raw, ("premiato",)) is True
+    assert raw_matches_any_exclude_keyword(raw, ("iscrizioni",)) is False
+
+
+def test_raw_matches_exclude_empty_tuple_false():
+    raw = RawItem(title="X", url="https://x/a")
+    assert raw_matches_any_exclude_keyword(raw, ()) is False
+
+
+def test_build_source_context_passes_require_and_exclude():
+    search = SearchConfig(
+        id="s1",
+        name="S",
+        keywords=("kw",),
+        region=None,
+        sources=(),
+        require_keywords=("bando",),
+        exclude_keywords=("iscrizioni",),
+    )
+    source = SourceConfig(adapter="rss", label="L", params={"url": "https://x/f.xml"})
+
+    class FakeAdapter:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, FakeAdapter())
+    assert ctx.require_keywords == ("bando",)
+    assert ctx.exclude_keywords == ("iscrizioni",)
 
 
 def test_build_source_context_passes_max_age_days():

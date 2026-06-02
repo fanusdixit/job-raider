@@ -51,6 +51,37 @@ def matches_raw_item(item: RawItem, keywords: tuple[str, ...]) -> bool:
     return False
 
 
+def raw_passes_require_keywords(item: RawItem, require_keywords: tuple[str, ...]) -> bool:
+    """
+    When ``require_keywords`` is empty, returns True.
+
+    Otherwise the item must match **at least one** required phrase (same substring rules
+    as ``matches_raw_item``). Applied after the main ``keywords`` OR filter.
+    """
+    if not require_keywords:
+        return True
+    return matches_raw_item(item, require_keywords)
+
+
+def raw_matches_any_exclude_keyword(item: RawItem, exclude_keywords: tuple[str, ...]) -> bool:
+    """
+    True if **any** exclude phrase appears in title or summary (case-insensitive substring).
+
+    Used to drop generic news even when main keywords matched.
+    """
+    if not exclude_keywords:
+        return False
+    title_cf = item.title.casefold()
+    summary_cf = item.summary.casefold() if item.summary else ""
+    for kw in exclude_keywords:
+        kcf = kw.casefold()
+        if kcf in title_cf:
+            return True
+        if summary_cf and kcf in summary_cf:
+            return True
+    return False
+
+
 def raw_passes_max_age(
     item: RawItem,
     *,
@@ -96,4 +127,6 @@ def build_source_context(
         source_label=source.label,
         params=dict(source.params),
         max_age_days=search.max_age_days,
+        require_keywords=search.require_keywords,
+        exclude_keywords=search.exclude_keywords,
     )

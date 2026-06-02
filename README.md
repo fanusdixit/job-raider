@@ -45,6 +45,27 @@ Job Raider performs **HTTP GET** requests only to URLs **you** list. You are res
 | **Corrupt `results.json`** | You should see `ResultsLoadError` or invalid JSON in the message. Delete the file or repair JSON; see [docs/results-schema.md](docs/results-schema.md). |
 | **Empty sections** | Keywords use **OR** matching on title/summary; tighten or broaden `keywords`, or check logs for adapter errors. |
 
+## Automation (Phase 2)
+
+The repository includes [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml), which:
+
+- runs daily at **06:00 UTC** (07:00 CET in winter),
+- restores `searches.yaml` from the `SEARCHES_YAML` repository secret,
+- executes `python3 run.py searches.yaml`,
+- commits updated `results.json` and `index.html` to `main`, and
+- deploys `index.html` to GitHub Pages.
+
+One-time setup:
+
+1. Add **`SEARCHES_YAML`** in GitHub: **Settings -> Secrets and variables -> Actions**. Paste the full content of your local `searches.yaml`.
+2. Set GitHub Pages source to **GitHub Actions** in **Settings -> Pages**.
+3. If branch protection blocks workflow pushes to `main`, allow `github-actions[bot]` to bypass/push for this workflow (or use an explicit token strategy).
+4. Trigger the workflow once with **Run workflow** to bootstrap `results.json` / `index.html` and publish the site.
+
+Dashboard URL format: `https://<owner>.github.io/<repo>/`
+
+GitHub cron is UTC-only: during **CEST** (summer), the schedule will run at **08:00** local time.
+
 ## Documentation
 
 | Doc | Purpose |

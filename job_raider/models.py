@@ -38,6 +38,8 @@ class SearchConfig:
     sources: tuple[SourceConfig, ...]
     region: str | None = None
     max_age_days: int | None = None
+    require_keywords: tuple[str, ...] = field(default_factory=tuple)
+    exclude_keywords: tuple[str, ...] = field(default_factory=tuple)
 
 
 @dataclass(frozen=True)

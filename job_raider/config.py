@@ -118,9 +118,20 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
     keywords = _parse_keywords(item, path)
     region = _optional_str(item, "region", path)
     max_age_days = _optional_max_age_days(item, path)
+    require_keywords = _parse_optional_keyword_list(item, "require_keywords", path)
+    exclude_keywords = _parse_optional_keyword_list(item, "exclude_keywords", path)
     sources = _parse_sources(item, path)
 
-    extra = set(item.keys()) - {"id", "name", "keywords", "region", "sources", "max_age_days"}
+    extra = set(item.keys()) - {
+        "id",
+        "name",
+        "keywords",
+        "region",
+        "sources",
+        "max_age_days",
+        "require_keywords",
+        "exclude_keywords",
+    }
     if extra:
         raise ConfigError(f"{path}: unknown keys: {', '.join(sorted(extra))}")
 
@@ -131,6 +142,8 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
         sources=sources,
         region=region,
         max_age_days=max_age_days,
+        require_keywords=require_keywords,
+        exclude_keywords=exclude_keywords,
     )
 
 
@@ -167,6 +180,25 @@ def _optional_str(m: Mapping[str, Any], key: str, path: str) -> str | None:
     if not isinstance(val, str) or not val.strip():
         raise ConfigError(f"{path}: {key!r} must be a non-empty string when set")
     return val.strip()
+
+
+def _parse_optional_keyword_list(m: Mapping[str, Any], key: str, path: str) -> tuple[str, ...]:
+    """Parse optional ``require_keywords`` / ``exclude_keywords``: list of non-empty strings, or absent/null → ()."""
+    if key not in m:
+        return ()
+    kws = m[key]
+    if kws is None:
+        return ()
+    if not isinstance(kws, list):
+        raise ConfigError(
+            f"{path}: {key!r} must be a list or null, got {type(kws).__name__}"
+        )
+    out: list[str] = []
+    for j, kw in enumerate(kws):
+        if not isinstance(kw, str) or not kw.strip():
+            raise ConfigError(f"{path}: {key}[{j}] must be a non-empty string")
+        out.append(kw.strip())
+    return tuple(out)
 
 
 def _parse_keywords(m: Mapping[str, Any], path: str) -> tuple[str, ...]:

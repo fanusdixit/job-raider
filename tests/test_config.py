@@ -52,6 +52,8 @@ def test_parse_valid_minimal():
     assert s.id == "s1"
     assert s.name == "Search one"
     assert s.keywords == ("a", "b")
+    assert s.require_keywords == ()
+    assert s.exclude_keywords == ()
     assert len(s.sources) == 1
     src = s.sources[0]
     assert src.adapter == "rss"
@@ -327,6 +329,81 @@ def test_max_age_days_bool_invalid():
         """
     )
     with pytest.raises(ConfigError, match="max_age_days must be an integer"):
+        parse_searches_yaml(raw)
+
+
+def test_parse_require_and_exclude_keywords():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: jobs
+            name: "Jobs"
+            keywords: [scuola, PNRR]
+            require_keywords: [bando, selezione]
+            exclude_keywords: [iscrizioni, inaugurazione]
+            sources:
+              - adapter: rss
+                label: L
+                url: "https://example.com/f.xml"
+        """
+    ).strip()
+    cfg = parse_searches_yaml(raw)
+    s = cfg.searches[0]
+    assert s.require_keywords == ("bando", "selezione")
+    assert s.exclude_keywords == ("iscrizioni", "inaugurazione")
+
+
+def test_parse_require_keywords_null_means_empty():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: x
+            name: "X"
+            keywords: [k]
+            require_keywords: null
+            sources:
+              - adapter: rss
+                label: L
+                url: "https://example.com/f.xml"
+        """
+    ).strip()
+    s = parse_searches_yaml(raw).searches[0]
+    assert s.require_keywords == ()
+
+
+def test_parse_require_keywords_not_list_fails():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: x
+            name: "X"
+            keywords: [k]
+            require_keywords: bando
+            sources:
+              - adapter: rss
+                label: L
+                url: "https://example.com/f.xml"
+        """
+    ).strip()
+    with pytest.raises(ConfigError, match="require_keywords"):
+        parse_searches_yaml(raw)
+
+
+def test_parse_exclude_keywords_empty_string_fails():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: x
+            name: "X"
+            keywords: [k]
+            exclude_keywords: [""]
+            sources:
+              - adapter: rss
+                label: L
+                url: "https://example.com/f.xml"
+        """
+    ).strip()
+    with pytest.raises(ConfigError, match="exclude_keywords\\[0\\]"):
         parse_searches_yaml(raw)
 
 

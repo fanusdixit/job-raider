@@ -104,6 +104,83 @@ def test_normalize_and_filter_max_age_keeps_recent_and_null_published():
     assert {o.title for o in opps} == {"job fresh", "job undated"}
 
 
+def test_normalize_and_filter_require_keywords_filters_out():
+    search = SearchConfig(
+        id="s",
+        name="S",
+        keywords=("lavoro", "personale"),
+        region=None,
+        sources=(),
+        require_keywords=("bando", "selezione"),
+    )
+    source = SourceConfig("rss", "L", {"url": "https://x/f.xml"})
+
+    class _Fake:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, _Fake())
+    raws = [
+        RawItem(title="lavoro generico", url="https://x/1"),
+        RawItem(title="Selezione personale", url="https://x/2"),
+    ]
+    opps = normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords)
+    assert len(opps) == 1
+    assert opps[0].url == "https://x/2"
+
+
+def test_normalize_and_filter_exclude_keywords_drop_even_when_main_matches():
+    search = SearchConfig(
+        id="s",
+        name="S",
+        keywords=("PNRR",),
+        region=None,
+        sources=(),
+        exclude_keywords=("iscrizioni",),
+    )
+    source = SourceConfig("rss", "L", {"url": "https://x/f.xml"})
+
+    class _Fake:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, _Fake())
+    raws = [
+        RawItem(title="PNRR e iscrizioni aperte", url="https://x/1"),
+        RawItem(title="PNRR bando tutor", url="https://x/2"),
+    ]
+    opps = normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords)
+    assert len(opps) == 1
+    assert opps[0].title == "PNRR bando tutor"
+
+
+def test_normalize_and_filter_exclude_wins_over_require_match():
+    """Exclude is applied after require; a row matching both is dropped."""
+    search = SearchConfig(
+        id="s",
+        name="S",
+        keywords=("x",),
+        region=None,
+        sources=(),
+        require_keywords=("bando",),
+        exclude_keywords=("inaugurazione",),
+    )
+    source = SourceConfig("rss", "L", {"url": "https://x/f.xml"})
+
+    class _Fake:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, _Fake())
+    raws = [
+        RawItem(
+            title="Bando e inaugurazione",
+            url="https://x/1",
+        ),
+    ]
+    assert normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords) == []
+
+
 def test_normalize_and_filter_now_rome_type_error():
     search = SearchConfig(
         id="s",
