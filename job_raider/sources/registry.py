@@ -1,7 +1,7 @@
 """
 Registered adapter ids for searches.yaml (`adapter` field).
 
-Phase 1 built-ins: rss, html_selectors (see architecture §5–6).
+Built-ins: rss, html_selectors, playwright (see architecture §5–6).
 """
 
 from __future__ import annotations
@@ -9,12 +9,13 @@ from __future__ import annotations
 from typing import Any
 
 # Frozen set of adapters we ship or recognize in config validation (E1+).
-ADAPTER_NAMES = frozenset({"rss", "html_selectors"})
+ADAPTER_NAMES = frozenset({"rss", "html_selectors", "playwright"})
 
 # Required YAML params per adapter (beyond `adapter` and `label`).
 _ADAPTER_REQUIRED_PARAMS: dict[str, tuple[str, ...]] = {
     "rss": ("url",),
     "html_selectors": ("url", "item", "title", "link"),
+    "playwright": ("url", "item", "title", "link"),
 }
 
 

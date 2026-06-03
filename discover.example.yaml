@@ -3,6 +3,9 @@
 #
 # For each URL, the tool tries the URL as-is, then (if the path does not
 # already look like a feed) appends /feed/ — common for WordPress career blogs.
+#
+# Add --playwright to probe school listing paths when RSS is unavailable:
+#   python discover.py -f discover.yaml --playwright
 
 urls:
   - "https://www.python.org/jobs/"

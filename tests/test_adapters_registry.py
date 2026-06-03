@@ -9,6 +9,7 @@ from job_raider.matching import build_source_context
 from job_raider.models import SearchConfig, SourceConfig
 from job_raider.sources.adapters import get_adapter
 from job_raider.sources.html_selectors import HtmlSelectorsAdapter
+from job_raider.sources.playwright_adapter import PlaywrightAdapter
 from job_raider.sources.rss import RssAdapter
 
 
@@ -47,3 +48,7 @@ def test_get_adapter_html_selectors_fetch_minimal_html():
 
 def test_get_adapter_returns_rss():
     assert isinstance(get_adapter("rss"), RssAdapter)
+
+
+def test_get_adapter_returns_playwright():
+    assert isinstance(get_adapter("playwright"), PlaywrightAdapter)

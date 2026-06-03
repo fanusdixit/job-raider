@@ -14,6 +14,7 @@ from discover import (
     feed_candidates,
     load_discover_yaml,
     probe_feed_url,
+    probe_playwright_listing,
     raw_items_from_parsed,
     run_discover,
     suggest_lines,
@@ -21,6 +22,7 @@ from discover import (
 from job_raider.http_client import HttpClient
 
 FIXTURE_FEED = Path(__file__).resolve().parent / "fixtures" / "sample_feed.xml"
+FIXTURE_ALBO = Path(__file__).resolve().parent / "fixtures" / "albo_pretorio.html"
 
 
 @pytest.fixture(autouse=True)
@@ -36,6 +38,11 @@ class _AllowRobots:
 class _DenyRobots:
     def allowed(self, url: str) -> bool:
         return False
+
+
+class _AllowAlboOnly:
+    def allowed(self, url: str) -> bool:
+        return "/albo-pretorio/" in url
 
 
 class _MapHttp:
@@ -251,3 +258,139 @@ def test_main_json_stdout(capsys: pytest.CaptureFixture[str], tmp_path: Path) ->
     raw = capsys.readouterr().out
     assert "results" in raw
     assert "suggestions" in raw
+
+
+def test_probe_playwright_skipped_when_rss_ok() -> None:
+    feed = ProbeResult(
+        input_url="https://school.edu.it/",
+        resolved_feed_url="https://school.edu.it/feed/",
+        status="ok",
+        item_count=5,
+        keyword_match_count=1,
+        detail="ok",
+    )
+    http = _MapHttp({})
+    out = probe_playwright_listing("https://school.edu.it/", feed, http, _AllowRobots())  # type: ignore[arg-type]
+    assert out.playwright == "skipped"
+
+
+def test_probe_playwright_ok_on_albo_path() -> None:
+    feed = ProbeResult(
+        input_url="https://school.edu.it/",
+        resolved_feed_url=None,
+        status="error",
+        item_count=0,
+        keyword_match_count=None,
+        detail="no feed",
+    )
+    albo = "https://school.edu.it/albo-pretorio/"
+    http = _MapHttp({albo: FIXTURE_ALBO.read_bytes()})
+    out = probe_playwright_listing("https://school.edu.it/", feed, http, _AllowRobots())  # type: ignore[arg-type]
+    assert out.playwright == "ok"
+    assert out.playwright_url == albo
+    assert out.playwright_selectors is not None
+    assert out.playwright_selectors["item"] == ".albo-pretorio .documento"
+
+
+def test_probe_playwright_blocked() -> None:
+    feed = ProbeResult(
+        input_url="https://school.edu.it/",
+        resolved_feed_url=None,
+        status="error",
+        item_count=0,
+        keyword_match_count=None,
+        detail="no feed",
+    )
+    http = _MapHttp({})
+    out = probe_playwright_listing("https://school.edu.it/", feed, http, _DenyRobots())  # type: ignore[arg-type]
+    assert out.playwright == "blocked"
+
+
+def test_probe_playwright_no_match() -> None:
+    feed = ProbeResult(
+        input_url="https://school.edu.it/",
+        resolved_feed_url=None,
+        status="error",
+        item_count=0,
+        keyword_match_count=None,
+        detail="no feed",
+    )
+    albo = "https://school.edu.it/albo-pretorio/"
+    http = _MapHttp({albo: b"<html><body><p>empty</p></body></html>"})
+    out = probe_playwright_listing("https://school.edu.it/", feed, http, _AllowAlboOnly())  # type: ignore[arg-type]
+    assert out.playwright == "no-match"
+
+
+def test_run_discover_with_playwright_flag() -> None:
+    junk = b"<html>not a feed</html>"
+    albo = "https://school.edu.it/albo-pretorio/"
+    http = _MapHttp(
+        {
+            "https://school.edu.it/": junk,
+            "https://school.edu.it/feed/": junk,
+            albo: FIXTURE_ALBO.read_bytes(),
+            "https://school.edu.it/albo/": junk,
+            "https://school.edu.it/comunicati/": junk,
+            "https://school.edu.it/news/": junk,
+            "https://school.edu.it/circolari/": junk,
+        }
+    )
+    out = run_discover(
+        ["https://school.edu.it/"],
+        ("PNRR",),
+        http=http,  # type: ignore[arg-type]
+        robots=_AllowRobots(),
+        check_playwright=True,
+    )
+    assert len(out) == 1
+    assert out[0].playwright == "ok"
+
+
+def test_suggest_lines_includes_playwright_block() -> None:
+    ok = ProbeResult(
+        input_url="https://school.edu.it/",
+        resolved_feed_url=None,
+        status="error",
+        item_count=0,
+        keyword_match_count=None,
+        detail="no feed",
+        playwright="ok",
+        playwright_url="https://school.edu.it/albo-pretorio/",
+        playwright_selectors={
+            "item": ".albo-pretorio .documento",
+            "title": "a.titolo",
+            "link": "a.titolo",
+            "date": ".data-pubblicazione",
+        },
+        playwright_item_count=2,
+        playwright_detail="ok (...)",
+    )
+    lines = suggest_lines([ok], ())
+    assert any("PLAYWRIGHT" in line and "adapter: playwright" in line for line in lines)
+
+
+def test_main_json_playwright_stdout(capsys: pytest.CaptureFixture[str], tmp_path: Path) -> None:
+    junk = b"<html>not a feed</html>"
+    albo = "https://example.com/albo-pretorio/"
+
+    class _LocalHttp(HttpClient):
+        def get(self, url: str) -> MagicMock:
+            r = MagicMock()
+            if url == albo:
+                r.content = FIXTURE_ALBO.read_bytes()
+            else:
+                r.content = junk
+            return r
+
+    cfg = tmp_path / "d.yaml"
+    cfg.write_text('urls:\n  - "https://example.com/"\nkeywords:\n  - PNRR\n', encoding="utf-8")
+
+    monkeypatch = pytest.MonkeyPatch()
+    monkeypatch.setattr(discover, "HttpClient", lambda: _LocalHttp())
+    monkeypatch.setattr(discover, "RobotsPolicy", lambda _ua: _AllowRobots())
+    code = discover.main(["--json", "--playwright", "-f", str(cfg)])
+    monkeypatch.undo()
+    assert code == 0
+    raw = capsys.readouterr().out
+    assert '"playwright_enabled": true' in raw
+    assert '"playwright": "ok"' in raw

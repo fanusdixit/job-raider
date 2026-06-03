@@ -86,7 +86,7 @@ exclude_keywords:
 ## Region (best-effort)
 
 - Each adapter declares whether it supports **native** region filtering (`supports_native_region` in code).
-- Built-in adapters **`rss`** and **`html_selectors`** do **not** use `region` in the HTTP request.
+- Built-in adapters **`rss`**, **`html_selectors`**, and **`playwright`** do **not** use `region` in the HTTP request.
 - When `region` is set and the adapter does not support native region, the **region string** is appended to the **effective keyword list** for filtering (unless it duplicates an existing keyword, case-insensitive), so it can still influence which rows match.
 
 This is **heuristic**, not a geographic guarantee.
@@ -99,7 +99,7 @@ Every source must include:
 
 | Field | Description |
 |-------|-------------|
-| `adapter` | One of the registered adapter names (Phase 1: **`rss`**, **`html_selectors`**). Unknown values → error listing **allowed adapters**. |
+| `adapter` | One of the registered adapter names: **`rss`**, **`html_selectors`**, **`playwright`**. Unknown values → error listing **allowed adapters**. |
 | `label` | Non-empty string; stored as `source` on each opportunity and shown in the dashboard. |
 
 All other keys are adapter-specific parameters (see below). Unknown keys are **not** rejected—they become part of the adapter `params` dict.
@@ -132,6 +132,49 @@ Fetches a single HTML page and extracts repeating items with **BeautifulSoup** a
 
 ---
 
+## Adapter: `playwright`
+
+For **JavaScript-rendered** listing pages (common on Italian school `.edu.it` sites — Albo Pretorio, bandi PNRR) where a plain HTTP GET returns empty or incomplete HTML. Uses **headless Chromium** via [Playwright](https://playwright.dev/python/) to load the page, wait for listing rows, then extract items with the **same CSS selector parameters** as `html_selectors`.
+
+**Optional dependency:** If the `playwright` package is not installed, the source is **skipped** (warning logged, zero items) and the rest of the run continues. After `pip install playwright`, run **`playwright install chromium`** once to download the browser binary.
+
+| Parameter | Required | Description |
+|-----------|----------|-------------|
+| `url` | **Yes** | Listing page URL. |
+| `item` | **Yes** | Selector for each repeating row; also used to **wait** until content is present. |
+| `title` | **Yes** | Selector **relative to each** `item` for title text. |
+| `link` | **Yes** | Selector **relative to each** `item` for the detail-page `href`. |
+| `date` | No | Optional selector relative to `item` for publication date (same parsing as `html_selectors`). |
+| `link_base` | No | Base URL for resolving relative links. |
+
+### Example (Albo Pretorio — adjust selectors to the target site)
+
+```yaml
+searches:
+  - id: scuola_albo
+    name: "IIS Example — Albo Pretorio"
+    keywords:
+      - bando
+      - selezione
+      - PNRR
+      - tutor
+    require_keywords:
+      - avviso
+      - bando
+      - selezione
+    sources:
+      - adapter: playwright
+        label: "IIS Example Albo"
+        url: "https://www.iisexample.edu.it/albo-pretorio/"
+        item: "div.albo-row"
+        title: "a.titolo"
+        link: "a.titolo"
+        date: "span.data-pubblicazione"
+        link_base: "https://www.iisexample.edu.it"
+```
+
+---
+
 ## Robots.txt (NFR3)
 
 Before the first HTTP GET to each **origin** (`scheme://host[:port]`), Job Raider loads `robots.txt` using `urllib.robotparser` (`job_raider.robots.RobotsPolicy`).
@@ -159,6 +202,11 @@ The standalone script **`discover.py`** (repo root) helps validate candidate RSS
 - **CLI URLs:** Positional arguments are merged with file URLs (order preserved, duplicates removed).
 - **Keywords:** `--keywords a,b,c` overrides keywords from the file when set.
 - **Behaviour:** For each URL, the tool tries the URL as-is, then (if the path does not already look like a feed) tries `…/feed/`. It checks **robots.txt**, **GET**s the candidate, validates with **feedparser** (same spirit as the RSS adapter), counts items, and counts how many items match your keywords (OR substring match on title/summary, like the main app). **`--json`** prints a machine-readable report on stdout.
+- **Playwright probe (`--playwright`, slower):** When RSS is **unavailable** or **empty**, the tool also checks common Italian school listing paths (`/albo-pretorio/`, `/albo/`, `/comunicati/`, `/news/`, `/circolari/`) against **robots.txt**, fetches allowed pages, and tries to **auto-detect** listing CSS selectors. Output adds a **`playwright`** column (or JSON fields) with:
+  - **`ok (suggested selectors)`** — robots allow at least one path and a listing pattern was found (includes suggested `item` / `title` / `link` / `date` for a `playwright` adapter block).
+  - **`blocked`** — robots disallow all probed listing paths.
+  - **`no-match`** — paths are allowed but no known albo/news pattern matched.
+  - **`skipped (rss ok)`** — RSS feed already works; Playwright probe skipped.
 
 See `discover.example.yaml` for a minimal template.
 

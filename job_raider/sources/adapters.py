@@ -6,11 +6,13 @@ from __future__ import annotations
 
 from job_raider.sources.base import SourceAdapter
 from job_raider.sources.html_selectors import HtmlSelectorsAdapter
+from job_raider.sources.playwright_adapter import PlaywrightAdapter
 from job_raider.sources.rss import RssAdapter
 
 _ADAPTERS: dict[str, SourceAdapter] = {
     "rss": RssAdapter(),
     "html_selectors": HtmlSelectorsAdapter(),
+    "playwright": PlaywrightAdapter(),
 }
 
 

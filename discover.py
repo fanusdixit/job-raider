@@ -5,6 +5,9 @@ Discover and validate RSS feed URLs for Job Raider (standalone helper).
 Reads URLs from ``discover.yaml`` and/or CLI, probes each URL (and ``/feed/``
 when the path does not already look like a feed), checks robots.txt, validates
 RSS/Atom with feedparser, and scores keyword overlap with configured keywords.
+
+With ``--playwright``, also probes common Italian school listing paths for
+Playwright / ``html_selectors`` when RSS is unavailable or blocked.
 """
 
 from __future__ import annotations
@@ -20,12 +23,20 @@ from urllib.parse import urljoin, urlparse
 import feedparser
 import yaml
 
+from discover_html import (
+    SelectorSuggestion,
+    detect_listing_selectors,
+    format_playwright_ok,
+    school_path_candidates,
+    selectors_as_dict,
+)
 from job_raider.http_client import USER_AGENT, HttpClient
 from job_raider.matching import matches_raw_item
 from job_raider.models import RawItem
 from job_raider.robots import RobotsPolicy
 
 FeedStatus = Literal["ok", "error", "malformed", "robots"]
+PlaywrightStatus = Literal["ok", "blocked", "no-match", "skipped"]
 
 
 @dataclass(frozen=True)
@@ -46,6 +57,11 @@ class ProbeResult:
     item_count: int
     keyword_match_count: int | None
     detail: str
+    playwright: PlaywrightStatus | None = None
+    playwright_url: str | None = None
+    playwright_selectors: dict[str, str] | None = None
+    playwright_detail: str | None = None
+    playwright_item_count: int | None = None
 
 
 def load_discover_yaml(path: Path) -> DiscoverFileConfig:
@@ -238,6 +254,116 @@ def probe_feed_url(
     )
 
 
+def _rss_usable(feed: ProbeResult) -> bool:
+    return feed.status == "ok" and feed.item_count > 0
+
+
+def _link_base_for(url: str) -> str:
+    parsed = urlparse(url)
+    return f"{parsed.scheme}://{parsed.netloc}"
+
+
+def probe_playwright_listing(
+    input_url: str,
+    feed: ProbeResult,
+    http: HttpClient,
+    robots: RobotsPolicy,
+) -> ProbeResult:
+    """
+    When RSS is missing or blocked, try school listing paths and detect HTML structure.
+
+    Sets ``playwright`` to ``ok`` / ``blocked`` / ``no-match`` / ``skipped``.
+    """
+    if _rss_usable(feed):
+        return ProbeResult(
+            **{**asdict(feed), "playwright": "skipped", "playwright_detail": "rss ok"}
+        )
+
+    candidates = school_path_candidates(input_url)
+    if not candidates:
+        return ProbeResult(
+            **{
+                **asdict(feed),
+                "playwright": "no-match",
+                "playwright_detail": "invalid base URL",
+            }
+        )
+
+    allowed = [u for u in candidates if robots.allowed(u)]
+    if not allowed:
+        return ProbeResult(
+            **{
+                **asdict(feed),
+                "playwright": "blocked",
+                "playwright_detail": "robots disallow all school listing paths",
+            }
+        )
+
+    last_fetch_error = "no listing pattern on allowed paths"
+    for page_url in allowed:
+        try:
+            response = http.get(page_url)
+        except Exception as e:
+            last_fetch_error = f"HTTP error for {page_url}: {e}"
+            continue
+
+        suggestion = detect_listing_selectors(response.content, page_url)
+        if suggestion is None:
+            continue
+
+        return ProbeResult(
+            **{
+                **asdict(feed),
+                "playwright": "ok",
+                "playwright_url": suggestion.page_url,
+                "playwright_selectors": selectors_as_dict(suggestion),
+                "playwright_item_count": suggestion.item_count,
+                "playwright_detail": format_playwright_ok(suggestion),
+            }
+        )
+
+    return ProbeResult(
+        **{**asdict(feed), "playwright": "no-match", "playwright_detail": last_fetch_error}
+    )
+
+
+def playwright_display(result: ProbeResult) -> str:
+    """Short label for the ``playwright`` table column."""
+    if result.playwright is None:
+        return "—"
+    if result.playwright == "ok":
+        return result.playwright_detail or "ok (suggested selectors)"
+    if result.playwright == "skipped":
+        return "skipped (rss ok)"
+    return result.playwright
+
+
+def suggest_playwright_lines(results: Sequence[ProbeResult]) -> list[str]:
+    """YAML hints for playwright adapter blocks."""
+    lines: list[str] = []
+    for r in results:
+        if r.playwright == "blocked":
+            lines.append(f"PLAYWRIGHT BLOCKED {r.input_url} — {r.playwright_detail}")
+            continue
+        if r.playwright == "no-match" and r.status != "ok":
+            lines.append(f"PLAYWRIGHT NO-MATCH {r.input_url} — {r.playwright_detail}")
+            continue
+        if r.playwright != "ok" or not r.playwright_url or not r.playwright_selectors:
+            continue
+        sel = r.playwright_selectors
+        date_part = f'\n        date: "{sel["date"]}"' if sel.get("date") else ""
+        lines.append(
+            f"PLAYWRIGHT {r.input_url}\n"
+            f"  adapter: playwright\n"
+            f'  url: "{r.playwright_url}"\n'
+            f'  item: "{sel["item"]}"\n'
+            f'  title: "{sel["title"]}"\n'
+            f'  link: "{sel["link"]}"{date_part}\n'
+            f'  link_base: "{_link_base_for(r.playwright_url)}"'
+        )
+    return lines
+
+
 def suggest_lines(results: Sequence[ProbeResult], keywords: tuple[str, ...]) -> list[str]:
     """Short recommendations for updating ``searches.yaml``."""
     lines: list[str] = []
@@ -262,23 +388,53 @@ def suggest_lines(results: Sequence[ProbeResult], keywords: tuple[str, ...]) -> 
                 else ""
             )
         )
+    lines.extend(suggest_playwright_lines(results))
     return lines
 
 
-def _print_table(results: Sequence[ProbeResult], keywords: tuple[str, ...]) -> None:
+def _print_table(
+    results: Sequence[ProbeResult],
+    keywords: tuple[str, ...],
+    *,
+    show_playwright: bool,
+) -> None:
     """Print a human-readable result table to stdout."""
-    print(f"{'URL':<44} {'status':<10} {'items':>6} {'kw matches':>10} detail")
-    print("-" * 120)
-    for r in results:
-        kw_cell = "—" if r.keyword_match_count is None else str(r.keyword_match_count)
-        url_show = r.input_url[:43] + "…" if len(r.input_url) > 44 else r.input_url
-        detail = (r.detail[:50] + "…") if len(r.detail) > 53 else r.detail
+    if show_playwright:
         print(
-            f"{url_show:<44} {r.status:<10} {r.item_count:>6} {kw_cell:>10} {detail}"
+            f"{'URL':<36} {'rss':<10} {'items':>5} {'kw':>4} "
+            f"{'playwright':<28} detail"
         )
-        if r.resolved_feed_url and r.resolved_feed_url != r.input_url:
-            print(f"  → resolved: {r.resolved_feed_url}")
-    print()
+        print("-" * 130)
+        for r in results:
+            kw_cell = "—" if r.keyword_match_count is None else str(r.keyword_match_count)
+            url_show = r.input_url[:35] + "…" if len(r.input_url) > 36 else r.input_url
+            pw = playwright_display(r)
+            if len(pw) > 27:
+                pw = pw[:26] + "…"
+            detail = r.detail if r.status != "ok" else (r.playwright_detail or r.detail)
+            detail = (detail[:40] + "…") if len(detail) > 43 else detail
+            print(
+                f"{url_show:<36} {r.status:<10} {r.item_count:>5} {kw_cell:>4} "
+                f"{pw:<28} {detail}"
+            )
+            if r.resolved_feed_url and r.resolved_feed_url != r.input_url:
+                print(f"  → rss: {r.resolved_feed_url}")
+            if r.playwright_url:
+                print(f"  → playwright: {r.playwright_url} ({r.playwright_item_count} rows)")
+        print()
+    else:
+        print(f"{'URL':<44} {'status':<10} {'items':>6} {'kw matches':>10} detail")
+        print("-" * 120)
+        for r in results:
+            kw_cell = "—" if r.keyword_match_count is None else str(r.keyword_match_count)
+            url_show = r.input_url[:43] + "…" if len(r.input_url) > 44 else r.input_url
+            detail = (r.detail[:50] + "…") if len(r.detail) > 53 else r.detail
+            print(
+                f"{url_show:<44} {r.status:<10} {r.item_count:>6} {kw_cell:>10} {detail}"
+            )
+            if r.resolved_feed_url and r.resolved_feed_url != r.input_url:
+                print(f"  → resolved: {r.resolved_feed_url}")
+        print()
     print("Suggestions for searches.yaml")
     print("-" * 60)
     for line in suggest_lines(results, keywords):
@@ -291,9 +447,16 @@ def run_discover(
     *,
     http: HttpClient,
     robots: RobotsPolicy,
+    check_playwright: bool = False,
 ) -> list[ProbeResult]:
     """Probe each URL and return results in order."""
-    return [probe_feed_url(u, http, robots, keywords) for u in urls]
+    out: list[ProbeResult] = []
+    for u in urls:
+        feed = probe_feed_url(u, http, robots, keywords)
+        if check_playwright:
+            feed = probe_playwright_listing(u, feed, http, robots)
+        out.append(feed)
+    return out
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -323,6 +486,14 @@ def main(argv: list[str] | None = None) -> int:
         "--json",
         action="store_true",
         help="Emit machine-readable JSON on stdout",
+    )
+    parser.add_argument(
+        "--playwright",
+        action="store_true",
+        help=(
+            "When RSS is unavailable or blocked, probe common school listing paths "
+            "(/albo-pretorio/, /albo/, …) and suggest CSS selectors (slower)"
+        ),
     )
     args = parser.parse_args(argv)
 
@@ -359,11 +530,18 @@ def main(argv: list[str] | None = None) -> int:
     http = HttpClient()
     robots = RobotsPolicy(USER_AGENT)
 
-    results = run_discover(url_list, keywords, http=http, robots=robots)
+    results = run_discover(
+        url_list,
+        keywords,
+        http=http,
+        robots=robots,
+        check_playwright=args.playwright,
+    )
 
     if args.json:
         payload = {
             "keywords": list(keywords),
+            "playwright_enabled": args.playwright,
             "results": [asdict(r) for r in results],
             "suggestions": suggest_lines(results, keywords),
         }
@@ -371,8 +549,10 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     print(f"Keywords: {', '.join(keywords) if keywords else '—'}")
+    if args.playwright:
+        print("Playwright path probe: enabled")
     print()
-    _print_table(results, keywords)
+    _print_table(results, keywords, show_playwright=args.playwright)
     return 0
 
 
