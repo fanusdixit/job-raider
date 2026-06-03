@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-03T22:01:44Z",
+  "generated_at": "2026-06-03T22:29:04Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -13,7 +13,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/via-al-cloud-e-ai-act-la-mossa-europea-per-riprendersi-la-sovranita-digitale/",
           "published_at": "2026-06-03T13:48:20Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +23,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/spaceconomy/osservazione-della-terra-la-domanda-pubblica-traina-i-servizi-satellitari/",
           "published_at": "2026-06-03T11:23:22Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +33,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/quantum-lappello-del-quadrato-della-radio-servono-subito-200-milioni/",
           "published_at": "2026-06-03T10:31:43Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +43,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/eolo-rafforza-la-governance-andrea-crenna-e-il-nuovo-chief-financial-investment-officer/",
           "published_at": "2026-06-03T09:56:23Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +53,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/cavi-fibra-e-ai-laustralia-diventa-snodo-strategico-del-pacifico-digitale/",
           "published_at": "2026-06-03T09:51:16Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +63,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/europa/ai-act-bruxelles-battezza-il-panel-scientifico-e-forum-consultivo-ecco-i-nomi/",
           "published_at": "2026-06-03T09:18:00Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +73,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/chip-made-in-europe-via-allimpianto-da-50-milioni-di-componenti-lanno/",
           "published_at": "2026-06-03T09:15:02Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +83,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/spaceconomy/leo-cargo-return-la-sfida-europea-per-riportare-a-terra-il-valore-dello-spazio/",
           "published_at": "2026-06-03T08:54:08Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/d2d-satellitare-ecco-il-primo-reality-check-traffico-ancora-marginale/",
           "published_at": "2026-06-03T07:59:54Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/europa/gigabit-infrastructure-act-prezzi-e-accesso-dividono-operatori-tower-company-e-autorita/",
           "published_at": "2026-06-03T07:50:31Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +113,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vaticano-la-comunicazione-e-donna/",
           "published_at": "2026-06-02T16:13:57Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +123,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-troccoli-magna-graecia-il-valore-e-una-virtu/",
           "published_at": "2026-06-02T12:27:38Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +133,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/plinio-perilli-poeta-dellanima-e-custode-della-parola/",
           "published_at": "2026-06-01T21:49:08Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +143,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alberto-cicero-signore-del-giornalismo/",
           "published_at": "2026-06-01T20:59:44Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -253,7 +253,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tutti-al-fianco-del-giornalista-adriano-cappellari/",
           "published_at": "2026-05-31T19:36:37Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -263,7 +263,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/esami-giornalisti-prove-orali-dal-23-giugno/",
           "published_at": "2026-05-30T20:04:45Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -273,7 +273,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/e-il-giorno-del-40-premio-troccoli-magna-graecia/",
           "published_at": "2026-05-30T10:28:24Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -283,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/andrea-titti-la-vista-e-solo-una-convenzione/",
           "published_at": "2026-05-29T21:19:32Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +293,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/piano-immobiliare-rai-per-un-ecosistema-mediale/",
           "published_at": "2026-05-29T08:12:03Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -303,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/nomina-commissione-tecnica-fondo-psmsad/",
           "published_at": "2026-05-27T16:41:44Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-poesia-di-serena-maffia-esperienza-viva/",
           "published_at": "2026-05-27T10:40:02Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-sport-redazione-a-valanga-per-lollobrigida/",
           "published_at": "2026-05-26T10:46:19Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -360,6 +360,16 @@
       ]
     },
     {
+      "id": "comunicazione_pa",
+      "name": "Comunicazione PA e Ufficio Stampa",
+      "items": []
+    },
+    {
+      "id": "concorsi_comunicazione",
+      "name": "Concorsi PA — Roma e Lazio",
+      "items": []
+    },
+    {
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
@@ -369,7 +379,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/03/graduatoria-adaa-regione-lazio-ddg-2938-2025/",
           "published_at": "2026-06-03T13:10:47Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -379,7 +389,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/03/graduatorie-a008-regioni-lazio-sardegna-toscana-e-umbria-ddg-2939-2025/",
           "published_at": "2026-06-03T11:03:56Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -389,7 +399,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/01/graduatorie-a040-regioni-campania-e-lazio-ddg-2939-2025/",
           "published_at": "2026-06-01T10:32:44Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -399,7 +409,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/01/graduatoria-b015-regione-lazio-ddg-2939-2025/",
           "published_at": "2026-06-01T10:25:59Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -409,7 +419,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/01/graduatoria-b014-regione-lazio-ddg-2939-2025/",
           "published_at": "2026-06-01T10:19:01Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -446,6 +456,11 @@
       ]
     },
     {
+      "id": "orientamento_lavoro",
+      "name": "Orientamento e Politiche del Lavoro",
+      "items": []
+    },
+    {
       "id": "pnrr_orientamento",
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
@@ -465,7 +480,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -475,7 +490,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -485,7 +500,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/22/avviso-pubblico-prot-n-55134-22-05-2026-assegnazione-di-fondi-per-progetti-dedicati-alla-prevenzione-e-contrasto-del-bullismo-cyberbullismo-e-corretto-uso-di-internet-decreto-dip-16-aprile-2026/",
           "published_at": "2026-05-22T17:02:09Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T22:29:04Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -495,7 +510,7 @@
           "source": "IC Dante Alighieri (Roma)",
           "url": "https://www.icdantealighieriroma.edu.it/2026/05/05/bit-e-il-viaggio-delle-mani-curiose/",
           "published_at": "2026-05-05T16:28:54Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T21:36:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -505,7 +520,7 @@
           "source": "IIS Federico Caffè (Roma)",
           "url": "https://www.federicocaffe.edu.it/2026/olimpiadi-italiane-di-informatica-2026-liis-federico-caffe-ospita-la-selezione-territoriale",
           "published_at": "2026-04-08T11:24:41Z",
-          "last_seen_at": "2026-06-03T22:01:44Z",
+          "last_seen_at": "2026-06-03T21:36:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -520,11 +535,6 @@
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         }
       ]
-    },
-    {
-      "id": "terzo_settore",
-      "name": "Terzo settore",
-      "items": []
     }
   ],
   "source_runs": [
@@ -548,9 +558,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Daniele Manin (Roma)",
-      "status": "error",
+      "status": "ok",
       "item_count": 0,
-      "error_detail": "IC Daniele Manin (Roma): HTTP error fetching 'https://danielemanin.edu.it/feed/': HTTPSConnectionPool(host='danielemanin.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='danielemanin.edu.it', port=443) at 0x7fccf1e09990>, 'Connection to danielemanin.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": null
     },
     {
       "search_id": "pnrr_orientamento",
@@ -595,14 +605,6 @@
     {
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
-      "source_label": "IC Sabin (Roma)",
-      "status": "error",
-      "item_count": 0,
-      "error_detail": "IC Sabin (Roma): HTTP error fetching 'https://www.icsabin.edu.it/feed/': 415 Client Error: Unsupported Media Type for url: https://www.icsabin.edu.it/feed/"
-    },
-    {
-      "search_id": "pnrr_orientamento",
-      "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Montale (Roma)",
       "status": "ok",
       "item_count": 0,
@@ -629,7 +631,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Dante Alighieri (Roma)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -639,14 +641,6 @@
       "status": "ok",
       "item_count": 0,
       "error_detail": null
-    },
-    {
-      "search_id": "pnrr_orientamento",
-      "search_name": "PNRR — Orientatrice / Esperto esterno",
-      "source_label": "IC Via Olcese (Roma)",
-      "status": "error",
-      "item_count": 0,
-      "error_detail": "IC Via Olcese (Roma): HTTP error fetching 'https://comprensivoviaolcese.edu.it/feed/': 415 Client Error: Unsupported Media Type for url: https://comprensivoviaolcese.edu.it/feed/"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -676,16 +670,16 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Via Aretusa (Roma)",
-      "status": "error",
+      "status": "ok",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Read timed out. (read timeout=30.0)"
+      "error_detail": null
     },
     {
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IIS Federico Caffè (Roma)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -705,14 +699,6 @@
       "error_detail": null
     },
     {
-      "search_id": "terzo_settore",
-      "search_name": "Terzo settore",
-      "source_label": "Vita.it",
-      "status": "error",
-      "item_count": 0,
-      "error_detail": "Vita.it: HTTP error fetching 'https://www.vita.it/feed/': 403 Client Error: Forbidden for url: https://www.vita.it/feed/"
-    },
-    {
       "search_id": "comunicazione",
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
@@ -726,6 +712,46 @@
       "source_label": "Corriere Comunicazioni",
       "status": "ok",
       "item_count": 10,
+      "error_detail": null
+    },
+    {
+      "search_id": "comunicazione_pa",
+      "search_name": "Comunicazione PA e Ufficio Stampa",
+      "source_label": "USR Lazio",
+      "status": "ok",
+      "item_count": 0,
+      "error_detail": null
+    },
+    {
+      "search_id": "comunicazione_pa",
+      "search_name": "Comunicazione PA e Ufficio Stampa",
+      "source_label": "Giornalisti Italia",
+      "status": "ok",
+      "item_count": 0,
+      "error_detail": null
+    },
+    {
+      "search_id": "orientamento_lavoro",
+      "search_name": "Orientamento e Politiche del Lavoro",
+      "source_label": "USR Lazio — Orientamento",
+      "status": "ok",
+      "item_count": 0,
+      "error_detail": null
+    },
+    {
+      "search_id": "orientamento_lavoro",
+      "search_name": "Orientamento e Politiche del Lavoro",
+      "source_label": "Vita.it",
+      "status": "ok",
+      "item_count": 0,
+      "error_detail": null
+    },
+    {
+      "search_id": "concorsi_comunicazione",
+      "search_name": "Concorsi PA — Roma e Lazio",
+      "source_label": "USR Lazio",
+      "status": "ok",
+      "item_count": 0,
       "error_detail": null
     }
   ]
