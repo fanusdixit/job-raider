@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-05T09:34:40Z",
+  "generated_at": "2026-06-06T08:26:30Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,72 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.giornalistitalia.it/andrea-purgatori-rinviati-a-giudizio-4-medici/",
+          "title": "Andrea Purgatori: rinviati a giudizio 4 medici",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/andrea-purgatori-rinviati-a-giudizio-4-medici/",
+          "published_at": "2026-06-05T20:52:27Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-alfredo-dagnese/",
+          "title": "Addio al giornalista Alfredo d’Agnese",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-al-giornalista-alfredo-dagnese/",
+          "published_at": "2026-06-05T17:48:28Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/figec-telenorba-rispetti-i-diritti-dei-lavoratori/",
+          "title": "Figec: “Telenorba rispetti i diritti dei lavoratori”",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/figec-telenorba-rispetti-i-diritti-dei-lavoratori/",
+          "published_at": "2026-06-05T16:10:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-di-franco-non-solo-cloud-e-data-center-la-sfida-si-vince-sulle-architetture/",
+          "title": "Sovranità digitale, Di Franco: “Non solo cloud e data center, la sfida si vince sulle architetture”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-di-franco-non-solo-cloud-e-data-center-la-sfida-si-vince-sulle-architetture/",
+          "published_at": "2026-06-05T13:14:42Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/figec-e-unirai-grave-discriminazione-dalla-rai/",
+          "title": "Figec e Unirai: “Grave discriminazione dalla Rai”",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/figec-e-unirai-grave-discriminazione-dalla-rai/",
+          "published_at": "2026-06-05T11:45:05Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/il-cloud-non-e-una-scusa-la-sovranita-del-dato-resta-un-tema-da-considerare/",
+          "title": "Il cloud non è una scusa: la sovranità del dato resta un tema da considerare",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/il-cloud-non-e-una-scusa-la-sovranita-del-dato-resta-un-tema-da-considerare/",
+          "published_at": "2026-06-05T08:50:47Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/rosius-il-programma-spaziale-ue-e-uno-dei-piu-grandi-successi-collettivi-delleuropa/",
           "title": "Rosius: “Il programma spaziale Ue è uno dei più grandi successi collettivi dell’Europa”",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/rosius-il-programma-spaziale-ue-e-uno-dei-piu-grandi-successi-collettivi-delleuropa/",
           "published_at": "2026-06-05T08:34:15Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +83,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/argo-alliance-porta-la-crittografia-quantistica-sulle-reti-italiane/",
           "published_at": "2026-06-05T08:09:49Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/ultrabroadband-fibercop-pubblica-il-primo-assessment-sulla-biodiversita/",
           "published_at": "2026-06-05T07:58:50Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/report/edge-computing-taglio-del-35-alle-stime-ai-e-casi-duso-industriali-per-invertire-la-rotta/",
           "published_at": "2026-06-05T07:55:58Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/compute-ai-la-corsa-globale-si-gioca-su-energia-chip-e-data-center/",
           "published_at": "2026-06-05T07:48:06Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/europa/sovranita-digitale-leuropa-a-caccia-del-difficile-equilibrio-tra-autonomia-e-mercato/",
           "published_at": "2026-06-05T07:45:20Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +133,17 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/tlc-carollo-e-di-raimondo-inclusione-leva-industriale-non-tema-reputazionale/",
           "published_at": "2026-06-05T07:30:00Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/rapita-in-casa-la-giornalista-roxana-guzman/",
+          "title": "Rapita in casa la giornalista Roxana Guzmán",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/rapita-in-casa-la-giornalista-roxana-guzman/",
+          "published_at": "2026-06-04T21:33:21Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-eccellenze-mediterranee-a-pierfranco-bruni/",
           "published_at": "2026-06-04T20:06:51Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +163,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/guide/migliori-esim-cina/",
           "published_at": "2026-06-04T16:51:10Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-carola-frediani/",
           "published_at": "2026-06-03T18:02:33Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -263,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-ansmes-roma-2026-a-saverio-montingelli/",
           "published_at": "2026-06-03T08:08:17Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +363,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vaticano-la-comunicazione-e-donna/",
           "published_at": "2026-06-02T16:13:57Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -303,7 +373,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-troccoli-magna-graecia-il-valore-e-una-virtu/",
           "published_at": "2026-06-02T12:27:38Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +383,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/plinio-perilli-poeta-dellanima-e-custode-della-parola/",
           "published_at": "2026-06-01T21:49:08Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +393,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alberto-cicero-signore-del-giornalismo/",
           "published_at": "2026-06-01T20:59:44Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -433,7 +503,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tutti-al-fianco-del-giornalista-adriano-cappellari/",
           "published_at": "2026-05-31T19:36:37Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -443,7 +513,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/esami-giornalisti-prove-orali-dal-23-giugno/",
           "published_at": "2026-05-30T20:04:45Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -553,6 +623,36 @@
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/05/graduatorie-b007-regioni-calabria-lazio-liguria-e-sardegna-ddg-2939-2025/",
+          "title": "Graduatorie B007 – Regioni Calabria, Lazio, Liguria e Sardegna – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/05/graduatorie-b007-regioni-calabria-lazio-liguria-e-sardegna-ddg-2939-2025/",
+          "published_at": "2026-06-05T15:02:41Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/05/graduatorie-a031-regioni-lazio-e-sicilia-ddg-2939-2025/",
+          "title": "Graduatorie A031 – Regioni Lazio e Sicilia – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/05/graduatorie-a031-regioni-lazio-e-sicilia-ddg-2939-2025/",
+          "published_at": "2026-06-05T12:49:39Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/05/graduatorie-a034-regioni-lazio-molise-e-umbria-ddg-2939-2025/",
+          "title": "Graduatorie A034 – Regioni Lazio, Molise e Umbria – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/05/graduatorie-a034-regioni-lazio-molise-e-umbria-ddg-2939-2025/",
+          "published_at": "2026-06-05T12:09:34Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
         {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/04/graduatorie-a038-regioni-campania-lazio-lombardia-piemonte-puglia-e-sardegna-ddg-2939-2025/",
           "title": "Graduatorie A038 – Regioni Campania, Lazio, Lombardia, Piemonte, Puglia e Sardegna – DDG 2939/2025",
@@ -670,7 +770,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/04/d-d-g-28-maggio-2026-n-609-commissione-valutazione-progetti-avviso-n-55134-del-22-maggio-2026-prevenzione-e-contrasto-del-bullismo-cyberbullismo-e-corretto-uso-della-rete/",
           "published_at": "2026-06-04T07:15:30Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -690,7 +790,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -700,7 +800,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-05T09:34:40Z",
+          "last_seen_at": "2026-06-06T08:26:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -768,9 +868,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Daniele Manin (Roma)",
-      "status": "ok",
+      "status": "error",
       "item_count": 0,
-      "error_detail": null
+      "error_detail": "robots.txt disallows fetch"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -905,7 +1005,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 3,
       "error_detail": null
     },
     {
@@ -913,7 +1013,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 12,
+      "item_count": 14,
       "error_detail": null
     },
     {
