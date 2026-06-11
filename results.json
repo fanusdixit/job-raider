@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-10T09:47:05Z",
+  "generated_at": "2026-06-11T10:09:45Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,132 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telemarketing-aggressivo-scatta-il-divieto-anche-per-le-tlc/",
+          "title": "Telemarketing aggressivo, scatta il divieto anche per le Tlc",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telemarketing-aggressivo-scatta-il-divieto-anche-per-le-tlc/",
+          "published_at": "2026-06-11T09:57:58Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/report/mega-data-center-ai-il-nuovo-rischio-e-assicurativo/",
+          "title": "Mega data center AI, il nuovo rischio è assicurativo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/report/mega-data-center-ai-il-nuovo-rischio-e-assicurativo/",
+          "published_at": "2026-06-11T09:23:45Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/report/connettivita-b2b-la-crescita-passa-da-fibra-ai-e-servizi-sicuri/",
+          "title": "Connettività B2B: la crescita passa da fibra, AI e servizi sicuri",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/report/connettivita-b2b-la-crescita-passa-da-fibra-ai-e-servizi-sicuri/",
+          "published_at": "2026-06-11T09:17:26Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/edge-computing-lai-inferencing-spinge-il-mercato-verso-i-274-miliardi-entro-il-2030/",
+          "title": "Edge computing: l’AI inferencing spinge il mercato verso i 274 miliardi entro il 2030",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/edge-computing-lai-inferencing-spinge-il-mercato-verso-i-274-miliardi-entro-il-2030/",
+          "published_at": "2026-06-11T09:16:10Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/delobelle-grundfos-data-center-critici-per-la-competitivita-ue-serve-una-gestione-integrata-acqua-energia/",
+          "title": "Delobelle (Grundfos): “Data center critici per la competitività Ue, serve una gestione integrata acqua-energia”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/delobelle-grundfos-data-center-critici-per-la-competitivita-ue-serve-una-gestione-integrata-acqua-energia/",
+          "published_at": "2026-06-11T06:00:00Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/ia-e-giornalismo-tra-etica-e-umanesimo-digitale/",
+          "title": "IA e giornalismo tra etica e umanesimo digitale",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/ia-e-giornalismo-tra-etica-e-umanesimo-digitale/",
+          "published_at": "2026-06-10T18:29:14Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/esa-sceglie-thales-alenia-space-per-i-nuovi-satelliti-sentinel-1/",
+          "title": "Esa sceglie Thales Alenia Space per i nuovi satelliti Sentinel-1",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/esa-sceglie-thales-alenia-space-per-i-nuovi-satelliti-sentinel-1/",
+          "published_at": "2026-06-10T15:30:00Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/come-proteggere-gli-anziani-dalla-truffe/",
+          "title": "Come proteggere gli anziani dalla truffe?",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/come-proteggere-gli-anziani-dalla-truffe/",
+          "published_at": "2026-06-10T15:06:26Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-il-governo-vara-la-cornice-italiana-governance-ad-agid-e-acn/",
+          "title": "Intelligenza artificiale, il governo vara la cornice italiana: governance ad Agid e Acn",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-il-governo-vara-la-cornice-italiana-governance-ad-agid-e-acn/",
+          "published_at": "2026-06-10T14:48:32Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/spazio-asse-esa-ue-per-i-servizi-in-orbita-missione-pilota-entro-il-2030/",
+          "title": "Spazio, asse Esa-Ue per i servizi in orbita: missione pilota entro il 2030",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/spazio-asse-esa-ue-per-i-servizi-in-orbita-missione-pilota-entro-il-2030/",
+          "published_at": "2026-06-10T14:04:56Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/artemis-iii-luca-parmitano-pilota-nella-missione-nasa-che-prepara-il-ritorno-sulla-luna/",
+          "title": "Artemis III: Luca Parmitano pilota nella missione Nasa che prepara il ritorno sulla Luna",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/artemis-iii-luca-parmitano-pilota-nella-missione-nasa-che-prepara-il-ritorno-sulla-luna/",
+          "published_at": "2026-06-10T11:32:41Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/fastweb-vodafone-svolta-cloud-sovrana-fastcloud-diventa-open-source/",
+          "title": "Fastweb + Vodafone, svolta cloud sovrano: FASTCloud diventa open source",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/fastweb-vodafone-svolta-cloud-sovrana-fastcloud-diventa-open-source/",
+          "published_at": "2026-06-10T10:47:33Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/danneggiata-lauto-del-giornalista-michele-inserra/",
           "title": "Danneggiata l’auto del giornalista Michele Inserra",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/danneggiata-lauto-del-giornalista-michele-inserra/",
           "published_at": "2026-06-10T09:37:54Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-un-dovere-garantire-imparzialita-e-pluralismo/",
           "published_at": "2026-06-09T21:33:38Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-rai-elimina-il-requisito-delliscrizione-alla-fnsi/",
           "published_at": "2026-06-09T10:11:37Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vivere-rettamente-lamaro-dubbio-di-corrado-alvaro/",
           "published_at": "2026-06-08T20:00:05Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -203,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/serrone-rende-omaggio-a-giancarlo-flavi/",
           "published_at": "2026-06-08T14:37:33Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +433,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-cristina-casari/",
           "published_at": "2026-06-07T20:13:26Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tutelare-le-professioni-per-far-crescere-la-previdenza/",
           "published_at": "2026-06-07T19:27:46Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/con-peppo-sacchi-niente-fu-piu-come-prima/",
           "published_at": "2026-06-06T12:43:36Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lavoro-e-legalita-amendolara-e-lo-spartiacque/",
           "published_at": "2026-06-06T11:23:52Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -363,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/andrea-purgatori-rinviati-a-giudizio-4-medici/",
           "published_at": "2026-06-05T20:52:27Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -373,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-alfredo-dagnese/",
           "published_at": "2026-06-05T17:48:28Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -383,7 +503,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/figec-telenorba-rispetti-i-diritti-dei-lavoratori/",
           "published_at": "2026-06-05T16:10:40Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -974,12 +1094,32 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/10/graduatorie-a013-regioni-abruzzo-lazio-molise-ddg-2939-2025/",
+          "title": "Graduatorie A013 – Regioni Abruzzo, Lazio, Molise – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/10/graduatorie-a013-regioni-abruzzo-lazio-molise-ddg-2939-2025/",
+          "published_at": "2026-06-10T15:02:44Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/10/graduatorie-a018-regioni-abruzzo-lazio-molise-e-sardegna-ddg-2939-2025/",
+          "title": "Graduatorie A018 – Regioni Abruzzo, Lazio, Molise e Sardegna – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/10/graduatorie-a018-regioni-abruzzo-lazio-molise-e-sardegna-ddg-2939-2025/",
+          "published_at": "2026-06-10T12:56:22Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/09/graduatorie-a005-regioni-campania-emilia-romagna-lazio-marche-piemonte-sicilia-toscana-e-veneto-ddg-2939-2025/",
           "title": "Graduatorie A005 – Regioni Campania, Emilia Romagna, Lazio, Marche, Piemonte, Sicilia, Toscana e Veneto – DDG 2939/2025",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/09/graduatorie-a005-regioni-campania-emilia-romagna-lazio-marche-piemonte-sicilia-toscana-e-veneto-ddg-2939-2025/",
           "published_at": "2026-06-09T15:12:40Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -989,7 +1129,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/09/graduatorie-b012-regioni-abruzzo-lazio-sardegna-toscana-e-umbria-ddg-2939-2025/",
           "published_at": "2026-06-09T13:12:21Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -999,7 +1139,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/09/graduatorie-a051-regioni-abruzzo-emilia-romagna-lazio-marche-e-umbria-ddg-2939-2025/",
           "published_at": "2026-06-09T11:03:20Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -1160,7 +1300,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/04/d-d-g-28-maggio-2026-n-609-commissione-valutazione-progetti-avviso-n-55134-del-22-maggio-2026-prevenzione-e-contrasto-del-bullismo-cyberbullismo-e-corretto-uso-della-rete/",
           "published_at": "2026-06-04T07:15:30Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1180,7 +1320,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1190,7 +1330,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-10T09:47:05Z",
+          "last_seen_at": "2026-06-11T10:09:45Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1372,7 +1512,7 @@
       "source_label": "IC Via Aretusa (Roma)",
       "status": "error",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7f147b259350>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': 415 Client Error: Unsupported Media Type for url: https://www.icaretusa.edu.it/feed/"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -1395,7 +1535,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 4,
+      "item_count": 5,
       "error_detail": null
     },
     {
