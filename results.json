@@ -1,12 +1,142 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-11T10:09:45Z",
+  "generated_at": "2026-06-12T10:03:27Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/mourad-zeghidi-fa-lo-sciopero-della-fame/",
+          "title": "Mourad Zeghidi fa lo sciopero della fame",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/mourad-zeghidi-fa-lo-sciopero-della-fame/",
+          "published_at": "2026-06-12T08:52:46Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-ai-la-cina-accelera-sulle-reti-autonome-obiettivo-2028/",
+          "title": "Telco AI, la Cina accelera sulle reti autonome: obiettivo 2028",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telco-ai-la-cina-accelera-sulle-reti-autonome-obiettivo-2028/",
+          "published_at": "2026-06-12T08:16:50Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/report/mobile-gender-gap-810-milioni-di-donne-restano-offline/",
+          "title": "Mobile gender gap: 810 milioni di donne restano offline",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/report/mobile-gender-gap-810-milioni-di-donne-restano-offline/",
+          "published_at": "2026-06-12T08:14:25Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/ai-ran-ericsson-porta-lintelligenza-artificiale-dentro-le-reti-5g/",
+          "title": "AI Ran: Ericsson porta l’intelligenza artificiale dentro le reti 5G",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/ai-ran-ericsson-porta-lintelligenza-artificiale-dentro-le-reti-5g/",
+          "published_at": "2026-06-12T07:30:00Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/smart-network-nokia-lancia-lai-agentica-per-reti-ip-multivendor/",
+          "title": "Smart network, Nokia lancia l’AI agentica per reti IP multivendor",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/smart-network-nokia-lancia-lai-agentica-per-reti-ip-multivendor/",
+          "published_at": "2026-06-12T07:15:00Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/siotto-fibreconnect-per-la-fibra-serve-piu-sinergia-non-reti-parallele/",
+          "title": "Siotto, FibreConnect: “Per la fibra serve più sinergia, non reti parallele”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/siotto-fibreconnect-per-la-fibra-serve-piu-sinergia-non-reti-parallele/",
+          "published_at": "2026-06-12T07:00:00Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/adnkronos-mia-grassi-e-jole-saggese-vicedirettori/",
+          "title": "Adnkronos: Mia Grassi e Jole Saggese vicedirettori",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/adnkronos-mia-grassi-e-jole-saggese-vicedirettori/",
+          "published_at": "2026-06-11T21:01:52Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/quanto-e-moderno-corrado-alvaro/",
+          "title": "Quanto è moderno Corrado Alvaro",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/quanto-e-moderno-corrado-alvaro/",
+          "published_at": "2026-06-11T17:55:31Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/canone-1998-tim-incassa-il-miliardo-riconosciuto-dalla-cassazione/",
+          "title": "Canone 1998, Tim incassa il miliardo riconosciuto dalla Cassazione",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/canone-1998-tim-incassa-il-miliardo-riconosciuto-dalla-cassazione/",
+          "published_at": "2026-06-11T13:52:34Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/colt-e-ciena-firmano-il-record-della-trasmissione-dati-quantistica-sicura-sullatlantico/",
+          "title": "Colt e Ciena firmano il record della trasmissione dati quantistica sicura sull’Atlantico",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/colt-e-ciena-firmano-il-record-della-trasmissione-dati-quantistica-sicura-sullatlantico/",
+          "published_at": "2026-06-11T13:28:10Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ntt-via-allo-iown-ai-fund-sul-piatto-500-milioni-di-dollari/",
+          "title": "Ntt, via allo Iown AI Fund: sul piatto 500 milioni di dollari",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ntt-via-allo-iown-ai-fund-sul-piatto-500-milioni-di-dollari/",
+          "published_at": "2026-06-11T11:00:15Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/contratto-tlc-di-raimondo-accompagnera-levoluzione-digitale-fino-al-2028/",
+          "title": "Contratto Tlc, Di Raimondo: “Accompagnerà l’evoluzione digitale fino al 2028”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/contratto-tlc-di-raimondo-accompagnera-levoluzione-digitale-fino-al-2028/",
+          "published_at": "2026-06-11T10:57:33Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/iliad-offerta/",
+          "title": "Offerta Iliad con 300 GB a 12,99 euro per sempre + Amazon Prime (12 mesi)",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/iliad-offerta/",
+          "published_at": "2026-06-11T10:41:22Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telemarketing-aggressivo-scatta-il-divieto-anche-per-le-tlc/",
           "title": "Telemarketing aggressivo, scatta il divieto anche per le Tlc",
@@ -63,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-e-giornalismo-tra-etica-e-umanesimo-digitale/",
           "published_at": "2026-06-10T18:29:14Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/come-proteggere-gli-anziani-dalla-truffe/",
           "published_at": "2026-06-10T15:06:26Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +263,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/danneggiata-lauto-del-giornalista-michele-inserra/",
           "published_at": "2026-06-10T09:37:54Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-un-dovere-garantire-imparzialita-e-pluralismo/",
           "published_at": "2026-06-09T21:33:38Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +373,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-rai-elimina-il-requisito-delliscrizione-alla-fnsi/",
           "published_at": "2026-06-09T10:11:37Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vivere-rettamente-lamaro-dubbio-di-corrado-alvaro/",
           "published_at": "2026-06-08T20:00:05Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/serrone-rende-omaggio-a-giancarlo-flavi/",
           "published_at": "2026-06-08T14:37:33Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -433,7 +563,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-cristina-casari/",
           "published_at": "2026-06-07T20:13:26Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -443,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tutelare-le-professioni-per-far-crescere-la-previdenza/",
           "published_at": "2026-06-07T19:27:46Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +583,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/con-peppo-sacchi-niente-fu-piu-come-prima/",
           "published_at": "2026-06-06T12:43:36Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +593,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lavoro-e-legalita-amendolara-e-lo-spartiacque/",
           "published_at": "2026-06-06T11:23:52Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -1094,6 +1224,46 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a028-regione-lazio-ddg-2939-2025/",
+          "title": "Graduatoria A028 – Regione Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a028-regione-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-11T15:19:25Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a047-regione-lazio-ddg-2939-2025/",
+          "title": "Graduatoria A047 – Regione Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a047-regione-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-11T15:13:02Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a045-regione-lazio-ddg-2939-2025/",
+          "title": "Graduatoria A045 – Regione Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a045-regione-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-11T13:09:05Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a011-regione-lazio-ddg-2939-2025/",
+          "title": "Graduatoria A011 – Regione Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/11/graduatoria-a011-regione-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-11T12:54:52Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/10/graduatorie-a013-regioni-abruzzo-lazio-molise-ddg-2939-2025/",
           "title": "Graduatorie A013 – Regioni Abruzzo, Lazio, Molise – DDG 2939/2025",
           "source": "USR Lazio",
@@ -1295,12 +1465,22 @@
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
+          "title": "Indicazioni per l’apertura delle funzioni per i questionari relativi al monitoraggio dei percorsi di formazione scuola lavoro (ex PCTO) e indicazioni per la loro somministrazione ai docenti tutor interni e ai docenti coordinatore di progettazione.",
+          "source": "USR Lazio — Aree tematiche",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
+          "published_at": "2026-06-12T08:58:35Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/04/d-d-g-28-maggio-2026-n-609-commissione-valutazione-progetti-avviso-n-55134-del-22-maggio-2026-prevenzione-e-contrasto-del-bullismo-cyberbullismo-e-corretto-uso-della-rete/",
           "title": "D.D.G. 28 maggio 2026, n. 609 – Commissione valutazione progetti Avviso n. 55134 del 22 maggio 2026 – prevenzione e contrasto del bullismo-cyberbullismo e corretto uso della rete",
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/04/d-d-g-28-maggio-2026-n-609-commissione-valutazione-progetti-avviso-n-55134-del-22-maggio-2026-prevenzione-e-contrasto-del-bullismo-cyberbullismo-e-corretto-uso-della-rete/",
           "published_at": "2026-06-04T07:15:30Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1320,7 +1500,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1330,7 +1510,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-11T10:09:45Z",
+          "last_seen_at": "2026-06-12T10:03:27Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1383,7 +1563,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Orientamento",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 2,
       "error_detail": null
     },
     {
@@ -1487,7 +1667,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 3,
       "error_detail": null
     },
     {
@@ -1512,7 +1692,7 @@
       "source_label": "IC Via Aretusa (Roma)",
       "status": "error",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': 415 Client Error: Unsupported Media Type for url: https://www.icaretusa.edu.it/feed/"
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7f5d4a3c71d0>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -1535,7 +1715,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 5,
+      "item_count": 4,
       "error_detail": null
     },
     {
