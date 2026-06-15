@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-14T09:25:23Z",
+  "generated_at": "2026-06-15T11:49:20Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,112 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/europa/sovranita-digitale-europea-nasce-safenet-i-router-entrano-nel-dossier-strategico-delle-reti/",
+          "title": "Sovranità digitale europea, i router entrano nel dossier strategico delle reti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/europa/sovranita-digitale-europea-nasce-safenet-i-router-entrano-nel-dossier-strategico-delle-reti/",
+          "published_at": "2026-06-15T10:35:16Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/green-economy/iliad-spinge-sulla-sostenibilita-avanti-tutta-su-reti-green-inclusione-e-competenze-digitali/",
+          "title": "Iliad spinge sulla sostenibilità: avanti tutta su reti green, inclusione e competenze digitali",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/green-economy/iliad-spinge-sulla-sostenibilita-avanti-tutta-su-reti-green-inclusione-e-competenze-digitali/",
+          "published_at": "2026-06-15T10:31:19Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-data-center-data4-punta-sul-nord-della-francia-con-un-campus-da-5-miliardi/",
+          "title": "AI data center: Data4 punta sul Nord della Francia con un campus da 5 miliardi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-data-center-data4-punta-sul-nord-della-francia-con-un-campus-da-5-miliardi/",
+          "published_at": "2026-06-15T10:29:01Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-nel-customer-care-ma-la-fiducia-frena-la-scalata-in-europa/",
+          "title": "Intelligenza artificiale nel customer care, ma la fiducia frena la scalata in Europa",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-nel-customer-care-ma-la-fiducia-frena-la-scalata-in-europa/",
+          "published_at": "2026-06-15T10:27:02Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-inizia-il-conto-alla-rovescia-per-la-summer-edition-ecco-lagenda/",
+          "title": "Telco per l’Italia, inizia il conto alla rovescia per la summer edition: ecco l’agenda",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-inizia-il-conto-alla-rovescia-per-la-summer-edition-ecco-lagenda/",
+          "published_at": "2026-06-15T09:50:11Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/russo-le-mafie-non-terminano-con-una-sentenza/",
+          "title": "Russo: “Le mafie non terminano con una sentenza”",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/russo-le-mafie-non-terminano-con-una-sentenza/",
+          "published_at": "2026-06-15T09:49:28Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/whitepaper/telco-whitepaper/reti-tlc-dalla-corsa-alla-fibra-alla-sfida-dellefficienza-operativa/",
+          "title": "Reti Tlc, dalla corsa alla fibra alla sfida dell’efficienza operativa",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/whitepaper/telco-whitepaper/reti-tlc-dalla-corsa-alla-fibra-alla-sfida-dellefficienza-operativa/",
+          "published_at": "2026-06-15T08:53:41Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-e-ai-nel-2026-consumi-energetici-al-galoppo/",
+          "title": "Data center e AI, nel 2026 consumi energetici al galoppo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-e-ai-nel-2026-consumi-energetici-al-galoppo/",
+          "published_at": "2026-06-15T07:56:24Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-mino-allione/",
+          "title": "Addio al giornalista Mino Allione",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-al-giornalista-mino-allione/",
+          "published_at": "2026-06-14T19:57:06Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/lantifascismo-non-si-dichiara-si-pratica/",
+          "title": "L’antifascismo non si dichiara, si pratica",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/lantifascismo-non-si-dichiara-si-pratica/",
+          "published_at": "2026-06-14T18:15:55Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/universita-di-urbino-cerca-web-content-specialist/",
           "title": "Università di Urbino cerca Web content specialist",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/universita-di-urbino-cerca-web-content-specialist/",
           "published_at": "2026-06-13T15:58:03Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +123,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/laura-magli-osservare-e-comprendere-mai-giudicare/",
           "published_at": "2026-06-13T11:22:33Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +133,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ansfisa-paradossale-ricerca-di-capo-ufficio-stampa/",
           "published_at": "2026-06-12T15:08:40Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +143,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/spaceconomy/space-difesa-e-dual-use-la-nuova-accomandita-alla-prova-del-capitale-paziente/",
           "published_at": "2026-06-12T12:11:55Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +153,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/protagonisti/ntt-data-kazuhiko-nakayama-nuovo-presidente-e-ceo-del-gruppo/",
           "published_at": "2026-06-12T11:51:18Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +163,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/spaceconomy/leonardo-prima-azienda-italiana-nelleuropean-defence-fund-2025/",
           "published_at": "2026-06-12T11:14:57Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/zerocalcare-due-spicci-e-il-coraggio-della-verita/",
           "published_at": "2026-06-12T10:24:41Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +203,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/mourad-zeghidi-fa-lo-sciopero-della-fame/",
           "published_at": "2026-06-12T08:52:46Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +273,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/adnkronos-mia-grassi-e-jole-saggese-vicedirettori/",
           "published_at": "2026-06-11T21:01:52Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/quanto-e-moderno-corrado-alvaro/",
           "published_at": "2026-06-11T17:55:31Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +393,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-e-giornalismo-tra-etica-e-umanesimo-digitale/",
           "published_at": "2026-06-10T18:29:14Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/come-proteggere-gli-anziani-dalla-truffe/",
           "published_at": "2026-06-10T15:06:26Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -363,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/danneggiata-lauto-del-giornalista-michele-inserra/",
           "published_at": "2026-06-10T09:37:54Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -423,7 +523,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-un-dovere-garantire-imparzialita-e-pluralismo/",
           "published_at": "2026-06-09T21:33:38Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-rai-elimina-il-requisito-delliscrizione-alla-fnsi/",
           "published_at": "2026-06-09T10:11:37Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -1319,7 +1419,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ansfisa-paradossale-ricerca-di-capo-ufficio-stampa/",
           "published_at": "2026-06-12T15:08:40Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         }
@@ -1591,7 +1691,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1621,7 +1721,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1631,7 +1731,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-14T09:25:23Z",
+          "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1813,7 +1913,7 @@
       "source_label": "IC Via Aretusa (Roma)",
       "status": "error",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7fbda7f83c10>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': 415 Client Error: Unsupported Media Type for url: https://www.icaretusa.edu.it/feed/"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -1836,7 +1936,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
