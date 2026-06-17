@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-16T11:14:38Z",
+  "generated_at": "2026-06-17T10:33:08Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,132 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ecommerce/iliad-internet-casa-offerta/",
+          "title": "Iliad internet casa: fibra FTTH a 22,99 euro per sempre con Wi-Fi 7 incluso",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ecommerce/iliad-internet-casa-offerta/",
+          "published_at": "2026-06-17T10:20:22Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/sovranita-digitale-cubbit-e-commvault-alleate-per-backup-e-resilienza-delle-imprese-italiane/",
+          "title": "Sovranità digitale: Cubbit e Commvault alleate per backup e resilienza delle imprese italiane",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/sovranita-digitale-cubbit-e-commvault-alleate-per-backup-e-resilienza-delle-imprese-italiane/",
+          "published_at": "2026-06-17T10:12:27Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/data-governance-la-scarsa-accessibilita-frena-la-corsa-delle-telco-allai/",
+          "title": "Data governance, la scarsa accessibilità frena la corsa delle telco all’AI",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/data-governance-la-scarsa-accessibilita-frena-la-corsa-delle-telco-allai/",
+          "published_at": "2026-06-17T10:09:48Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/videosorveglianza-a-limone-piemonte-la-sicurezza-urbana-diventa-intelligente/",
+          "title": "Videosorveglianza, a Limone Piemonte la sicurezza urbana diventa intelligente",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/videosorveglianza-a-limone-piemonte-la-sicurezza-urbana-diventa-intelligente/",
+          "published_at": "2026-06-17T09:55:37Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/smart-infrastructures-in-italia-la-digitalizzazione-di-reti-e-strade-vale-136-miliardi-di-euro/",
+          "title": "Smart Infrastructures: in Italia la digitalizzazione di reti e strade vale 1,36 miliardi di euro",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/smart-infrastructures-in-italia-la-digitalizzazione-di-reti-e-strade-vale-136-miliardi-di-euro/",
+          "published_at": "2026-06-17T09:24:12Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/ai-e-inferenza-le-aziende-preferiscono-il-cloud-privato-costi-prevedibili-piu-sicurezza/",
+          "title": "Ai e inferenza, le aziende preferiscono il cloud privato: costi prevedibili, più sicurezza",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/ai-e-inferenza-le-aziende-preferiscono-il-cloud-privato-costi-prevedibili-piu-sicurezza/",
+          "published_at": "2026-06-17T08:51:22Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/missori-ericsson-italia-le-telco-una-commodity-magari-lo-fossero/",
+          "title": "Missori, Ericsson Italia: “Le telco una commodity? Magari lo fossero”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/missori-ericsson-italia-le-telco-una-commodity-magari-lo-fossero/",
+          "published_at": "2026-06-17T08:45:31Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/bruno-palermo-rubato-il-tesoro-della-madonna/",
+          "title": "Bruno Palermo: “Rubato il tesoro della Madonna”",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/bruno-palermo-rubato-il-tesoro-della-madonna/",
+          "published_at": "2026-06-17T06:49:55Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-e-chip-per-leuropa-e-possibile-e-conveniente-lautonomia-tecnologica/",
+          "title": "Sovranità digitale e chip, per l’Europa è possibile (e conveniente) l’autonomia tecnologica?",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-e-chip-per-leuropa-e-possibile-e-conveniente-lautonomia-tecnologica/",
+          "published_at": "2026-06-16T14:41:47Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/tutti-al-fianco-della-giornalista-paola-polidoro/",
+          "title": "Tutti al fianco della giornalista Paola Polidoro",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/tutti-al-fianco-della-giornalista-paola-polidoro/",
+          "published_at": "2026-06-16T14:41:24Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/dna-appello-di-operatori-e-sindacati-piu-ambizione-su-investimenti-concorrenza-e-lavoro/",
+          "title": "Dna, appello di operatori e sindacati: “Più ambizione su investimenti, concorrenza e lavoro”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/dna-appello-di-operatori-e-sindacati-piu-ambizione-su-investimenti-concorrenza-e-lavoro/",
+          "published_at": "2026-06-16T13:07:01Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/europa/digital-networks-act-fibra-cybersecurity/",
+          "title": "Digital Networks Act: il Ftth Council Europe spinge su fibra, rame e cybersecurity",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/europa/digital-networks-act-fibra-cybersecurity/",
+          "published_at": "2026-06-16T11:46:19Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/premio-biagio-agnes-al-mondo-dellinformazione/",
           "title": "Premio Biagio Agnes al mondo dell’informazione",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-biagio-agnes-al-mondo-dellinformazione/",
           "published_at": "2026-06-16T10:43:22Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/comunicazione-camera-di-commercio-cerca-esperto/",
           "published_at": "2026-06-15T14:37:48Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/russo-le-mafie-non-terminano-con-una-sentenza/",
           "published_at": "2026-06-15T09:49:28Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-mino-allione/",
           "published_at": "2026-06-14T19:57:06Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -223,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lantifascismo-non-si-dichiara-si-pratica/",
           "published_at": "2026-06-14T18:15:55Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -233,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/universita-di-urbino-cerca-web-content-specialist/",
           "published_at": "2026-06-13T15:58:03Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +363,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/laura-magli-osservare-e-comprendere-mai-giudicare/",
           "published_at": "2026-06-13T11:22:33Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -253,7 +373,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ansfisa-paradossale-ricerca-di-capo-ufficio-stampa/",
           "published_at": "2026-06-12T15:08:40Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -303,7 +423,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/zerocalcare-due-spicci-e-il-coraggio-della-verita/",
           "published_at": "2026-06-12T10:24:41Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/mourad-zeghidi-fa-lo-sciopero-della-fame/",
           "published_at": "2026-06-12T08:52:46Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -393,7 +513,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/adnkronos-mia-grassi-e-jole-saggese-vicedirettori/",
           "published_at": "2026-06-11T21:01:52Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -403,7 +523,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/quanto-e-moderno-corrado-alvaro/",
           "published_at": "2026-06-11T17:55:31Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -513,7 +633,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-e-giornalismo-tra-etica-e-umanesimo-digitale/",
           "published_at": "2026-06-10T18:29:14Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -533,7 +653,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/come-proteggere-gli-anziani-dalla-truffe/",
           "published_at": "2026-06-10T15:06:26Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -1539,7 +1659,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ansfisa-paradossale-ricerca-di-capo-ufficio-stampa/",
           "published_at": "2026-06-12T15:08:40Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         }
@@ -1554,6 +1674,16 @@
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/procedura-di-selezione-n-65-unita-di-personale-docente-da-destinare-ai-progetti-nazionali-ai-sensi-dellart-1-comma-65-legge-n-107-del-2015-a-s-2026-27-usr-lazio/",
+          "title": "Procedura di selezione n. 65 unità di personale docente da destinare ai progetti nazionali ai sensi dell’art. 1 comma 65, Legge n. 107 del 2015 a.s. 2026/27-USR Lazio",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/procedura-di-selezione-n-65-unita-di-personale-docente-da-destinare-ai-progetti-nazionali-ai-sensi-dellart-1-comma-65-legge-n-107-del-2015-a-s-2026-27-usr-lazio/",
+          "published_at": "2026-06-16T16:29:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
         {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/15/graduatoria-a021-regioni-abruzzo-e-lazio-ddg-2939-2025/",
           "title": "Graduatoria A021 Regioni Abruzzo e Lazio – DDG 2939/2025",
@@ -1846,12 +1976,22 @@
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/d-d-g-del-15-giugno-2026-n-749-istituzioni-scolastiche-beneficiarie-dei-fondi-avviso-n-55134-del-22-maggio-2026-decreto-dipartimentale-n-661_2026-assegnazione-fondi-per-cont/",
+          "title": "D.D.G. del 15 giugno 2026, n. 749 – Istituzioni scolastiche beneficiarie dei fondi Avviso n. 55134 del 22 maggio 2026 – Decreto Dipartimentale n. 661_2026 – Assegnazione fondi per contrastare il fenomeno del bullismo-cyberbullismo e promuovere il corretto uso di internet",
+          "source": "USR Lazio — Aree tematiche",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/d-d-g-del-15-giugno-2026-n-749-istituzioni-scolastiche-beneficiarie-dei-fondi-avviso-n-55134-del-22-maggio-2026-decreto-dipartimentale-n-661_2026-assegnazione-fondi-per-cont/",
+          "published_at": "2026-06-16T11:19:45Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "title": "Indicazioni per l’apertura delle funzioni per i questionari relativi al monitoraggio dei percorsi di formazione scuola lavoro (ex PCTO) e indicazioni per la loro somministrazione ai docenti tutor interni e ai docenti coordinatore di progettazione.",
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1881,7 +2021,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -1891,7 +2031,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-16T11:14:38Z",
+          "last_seen_at": "2026-06-17T10:33:08Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2048,7 +2188,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 2,
       "error_detail": null
     },
     {
@@ -2073,7 +2213,7 @@
       "source_label": "IC Via Aretusa (Roma)",
       "status": "error",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Read timed out. (read timeout=30.0)"
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7f0ac64847d0>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -2096,7 +2236,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 4,
+      "item_count": 1,
       "error_detail": null
     },
     {
