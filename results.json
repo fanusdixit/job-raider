@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-22T11:42:13Z",
+  "generated_at": "2026-06-23T09:01:37Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,102 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/ericsson-accelera-sul-6g-in-svezia-via-al-test-center/",
+          "title": "Ericsson accelera sul 6G: in Svezia via al test center",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/ericsson-accelera-sul-6g-in-svezia-via-al-test-center/",
+          "published_at": "2026-06-23T07:43:54Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-inizia-il-conto-alla-rovescia-per-la-summer-edition-ecco-lagenda/",
+          "title": "Telco per l’Italia, domani la summer edition: ecco chi ci sarà",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-inizia-il-conto-alla-rovescia-per-la-summer-edition-ecco-lagenda/",
+          "published_at": "2026-06-23T07:30:00Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-alla-giornalista-milena-bonaparte/",
+          "title": "Addio alla giornalista Milena Bonaparte",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-alla-giornalista-milena-bonaparte/",
+          "published_at": "2026-06-23T07:12:56Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/presidenza-del-consiglio-concorso-per-130-posti/",
+          "title": "Presidenza del Consiglio: concorso per 130 posti",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/presidenza-del-consiglio-concorso-per-130-posti/",
+          "published_at": "2026-06-22T19:26:26Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/anas-assume-giornalista-a-tempo-indeterminato/",
+          "title": "Anas assume giornalista a tempo indeterminato",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/anas-assume-giornalista-a-tempo-indeterminato/",
+          "published_at": "2026-06-22T17:27:01Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/guide/connessioni-internet-windtre-iliad/",
+          "title": "Connessioni internet: confronto Iliad Vs. WindTre, quale conviene",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/guide/connessioni-internet-windtre-iliad/",
+          "published_at": "2026-06-22T14:38:40Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/open-fiber-la-sostenibilita-passa-dalla-fibra-persone-e-ambiente-al-centro-della-crescita/",
+          "title": "Open Fiber, la sostenibilità passa dalla fibra: persone e ambiente al centro della crescita",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/open-fiber-la-sostenibilita-passa-dalla-fibra-persone-e-ambiente-al-centro-della-crescita/",
+          "published_at": "2026-06-22T14:28:15Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/cloud-sovrano-il-mercato-accelera-con-lai-oltre-1-300-miliardi-di-dollari-entro-il-2034/",
+          "title": "Cloud sovrano, il mercato accelera con l’AI: oltre 1.300 miliardi di dollari entro il 2034",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/cloud-sovrano-il-mercato-accelera-con-lai-oltre-1-300-miliardi-di-dollari-entro-il-2034/",
+          "published_at": "2026-06-22T12:54:29Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/butti-sulle-reti-litalia-corre-ora-vincere-la-sfida-del-capitale-umano/",
+          "title": "Butti: “Sulle reti l’Italia corre, ora vincere la sfida del capitale umano”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/butti-sulle-reti-litalia-corre-ora-vincere-la-sfida-del-capitale-umano/",
+          "published_at": "2026-06-22T12:46:14Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/dal-fotone-allai-fibercop-testa-le-reti-quamtum-safe/",
-          "title": "Dal fotone all’AI: FiberCop testa le reti quamtum safe",
+          "title": "Dal fotone all’AI: FiberCop testa le reti quantum safe",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/dal-fotone-allai-fibercop-testa-le-reti-quamtum-safe/",
           "published_at": "2026-06-22T11:36:09Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/italtel-e-octaipipe-portano-lai-nei-data-center-consumi-di-raffreddamento-giu-del-30/",
           "published_at": "2026-06-22T10:20:10Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/dove-guardare-wimbledon-now-tv-offerta-19-99-euro-12-mesi/",
           "published_at": "2026-06-22T10:08:30Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +133,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/cyber-security/cybersicurezza-perche-la-nuova-superficie-dattacco-arriva-fino-allo-spazio/",
           "published_at": "2026-06-22T09:58:11Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -78,12 +168,22 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
+          "dedupe_id": "https://www.giornalistitalia.it/minacce-di-morte-alla-giornalista-rita-cavallaro/",
+          "title": "Minacce di morte alla giornalista Rita Cavallaro",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/minacce-di-morte-alla-giornalista-rita-cavallaro/",
+          "published_at": "2026-06-21T21:21:16Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/vii-premio-giornalistico-umberto-rosa/",
           "title": "VII Premio Giornalistico Umberto Rosa",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vii-premio-giornalistico-umberto-rosa/",
           "published_at": "2026-06-21T18:48:47Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/associazione-ex-parlamentari-soriero-presidente/",
           "published_at": "2026-06-20T19:42:16Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +203,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/san-benedetto-torna-inclusione-da_mare/",
           "published_at": "2026-06-19T19:49:33Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-mezzogiorno-dal-locale-al-globale/",
           "published_at": "2026-06-19T16:03:14Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -163,7 +263,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/aggredita-la-giornalista-annamaria-parisi/",
           "published_at": "2026-06-19T11:00:14Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/francesca-de-martino-alla-guida-di-rai-parlamento/",
           "published_at": "2026-06-18T20:01:48Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -253,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-tpm-ad-alma-manera-per-crossover/",
           "published_at": "2026-06-18T15:43:33Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -263,7 +363,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/piazza-di-spagna-e-dedicata-a-bianca-garufi/",
           "published_at": "2026-06-18T14:57:20Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/un-altro-addetto-stampa-a-scelta-del-sindaco/",
           "published_at": "2026-06-18T11:24:04Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -363,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/carlo-ginzburg-la-chiave-nel-particolare-anomalo/",
           "published_at": "2026-06-17T17:18:11Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -373,7 +473,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vero-bella-la-verita-non-ha-filtri/",
           "published_at": "2026-06-17T15:45:24Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -703,16 +803,6 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-nel-customer-care-ma-la-fiducia-frena-la-scalata-in-europa/",
           "published_at": "2026-06-15T10:27:02Z",
-          "last_seen_at": "2026-06-15T11:49:20Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-inizia-il-conto-alla-rovescia-per-la-summer-edition-ecco-lagenda/",
-          "title": "Telco per l’Italia, inizia il conto alla rovescia per la summer edition: ecco l’agenda",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-inizia-il-conto-alla-rovescia-per-la-summer-edition-ecco-lagenda/",
-          "published_at": "2026-06-15T09:50:11Z",
           "last_seen_at": "2026-06-15T11:49:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
@@ -2079,7 +2169,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/un-altro-addetto-stampa-a-scelta-del-sindaco/",
           "published_at": "2026-06-18T11:24:04Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -2104,6 +2194,46 @@
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2c-lazio-ddg-2939-2025/",
+          "title": "Graduatoria AM2C – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2c-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-22T14:53:31Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2b-lazio-ddg-2939-2025/",
+          "title": "Graduatoria AM2B – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2b-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-22T14:44:14Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-as2c-lazio-ddg-2939-2025/",
+          "title": "Graduatoria AS2C – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-as2c-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-22T12:14:32Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2a-lazio-ddg-2939-2025/",
+          "title": "Graduatoria AM2A – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2a-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-22T11:58:03Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
         {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am01-lazio-ddg-2939-2025/",
           "title": "Graduatoria AM01 – Lazio – DDG 2939/2025",
@@ -2461,7 +2591,17 @@
           "source": "IC Ceneda (Roma)",
           "url": "https://www.comprensivoceneda.edu.it/2026/06/22/procedura-per-la-selezione-n-65-unita-di-personale-docente/",
           "published_at": "2026-06-22T08:35:31Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
+          "dedupe_id": "https://www.liceoterracina.edu.it/pagine/atp-latina---decreto-del-ministro-dellistruzione-e-del-merito-n-247-del-10-dicembre-2025--avviso-apertura-funzioni-telematiche-per-la-presentazione-delle-istanze",
+          "title": "Atp Latina - Decreto del Ministro dell’istruzione e del merito n. 247 del 10 dicembre 2025 – Avviso apertura funzioni telematiche per la presentazione delle istanze",
+          "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
+          "url": "https://www.liceoterracina.edu.it/pagine/atp-latina---decreto-del-ministro-dellistruzione-e-del-merito-n-247-del-10-dicembre-2025--avviso-apertura-funzioni-telematiche-per-la-presentazione-delle-istanze",
+          "published_at": "2026-06-22T00:00:00Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2471,7 +2611,7 @@
           "source": "IC Guicciardini (Roma)",
           "url": "https://www.icguicciardiniroma.edu.it/2026/06/19/avviso-nuovi-iscritti-scuola-secondaria-di-primo-grado-consegna-documentazione-3/",
           "published_at": "2026-06-19T14:20:37Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2491,7 +2631,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/d-d-g-del-15-giugno-2026-n-749-istituzioni-scolastiche-beneficiarie-dei-fondi-avviso-n-55134-del-22-maggio-2026-decreto-dipartimentale-n-661_2026-assegnazione-fondi-per-cont/",
           "published_at": "2026-06-16T11:19:45Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2501,7 +2641,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2531,7 +2671,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2541,7 +2681,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-22T11:42:13Z",
+          "last_seen_at": "2026-06-23T09:01:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2626,7 +2766,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Leonardo da Vinci — Terracina (ultime news)",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 1,
       "error_detail": null
     },
     {
@@ -2721,9 +2861,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Via Aretusa (Roma)",
-      "status": "error",
+      "status": "ok",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7fc2aa046bd0>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": null
     },
     {
       "search_id": "pnrr_orientamento",
