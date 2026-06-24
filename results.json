@@ -1,12 +1,152 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-23T09:01:37Z",
+  "generated_at": "2026-06-24T08:59:30Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/vero-bella-e-i-ladri-di-biciclette/",
+          "title": "Vero Bella e i Ladri di biciclette",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/vero-bella-e-i-ladri-di-biciclette/",
+          "published_at": "2026-06-24T08:37:20Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-spunta-lasse-esprine-dectar/",
+          "title": "Sovranità digitale, spunta l’asse Esprine-Dectar",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-spunta-lasse-esprine-dectar/",
+          "published_at": "2026-06-24T08:00:00Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/italpress-sbarca-in-australia-con-il-globo-tv/",
+          "title": "Italpress sbarca in Australia con Il Globo TV",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/italpress-sbarca-in-australia-con-il-globo-tv/",
+          "published_at": "2026-06-24T07:37:20Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/cyber-security/llm-e-cybersecurity-cefriel-il-vero-rischio-e-leccesso-di-fiducia-nellintelligenza-artificiale/",
+          "title": "LLM e cybersecurity, Cefriel: il vero rischio è l’eccesso di fiducia nell’intelligenza artificiale",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/cyber-security/llm-e-cybersecurity-cefriel-il-vero-rischio-e-leccesso-di-fiducia-nellintelligenza-artificiale/",
+          "published_at": "2026-06-24T07:00:00Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/tlc-satellitari-la-partita-dellai-first-si-vince-sul-controllo-delle-decisioni/",
+          "title": "Tlc satellitari, la partita dell’AI-first si vince sul controllo delle decisioni",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/tlc-satellitari-la-partita-dellai-first-si-vince-sul-controllo-delle-decisioni/",
+          "published_at": "2026-06-24T07:00:00Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/disney-plus-offerta/",
+          "title": "Disney+ offerta: serie TV, Originals e grandi successi a partire da 5,99 euro al mese",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/disney-plus-offerta/",
+          "published_at": "2026-06-24T06:55:24Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-torna-a-roma-lo-storico-summit-dedicato-alla-filiera/",
+          "title": "Telco per l’Italia, torna a Roma lo storico summit dedicato alla filiera",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telco-per-litalia-torna-a-roma-lo-storico-summit-dedicato-alla-filiera/",
+          "published_at": "2026-06-24T06:00:00Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/franco-abruzzo-la-verita-prima-di-tutto/",
+          "title": "Franco Abruzzo: “La verità prima di tutto”",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/franco-abruzzo-la-verita-prima-di-tutto/",
+          "published_at": "2026-06-23T16:57:23Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/carceri-oltre-le-appartenenze-diritti-e-sicurezza/",
+          "title": "Carceri oltre le appartenenze: diritti e sicurezza",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/carceri-oltre-le-appartenenze-diritti-e-sicurezza/",
+          "published_at": "2026-06-23T15:36:31Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/open-fibe-nonno-dichiarante-e-rotunno-nei-board-di-ftth-council/",
+          "title": "Open Fiber: Nonno, Dichiarante e Rotunno nei board di FTTH Council",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/open-fibe-nonno-dichiarante-e-rotunno-nei-board-di-ftth-council/",
+          "published_at": "2026-06-23T14:22:01Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/cavi-sottomarini-scatta-il-piano-ue-italia-alla-guida-dellhub-nel-mediterraneo/",
+          "title": "Cavi sottomarini, scatta il piano Ue: Italia alla guida dell’hub nel Mediterraneo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/cavi-sottomarini-scatta-il-piano-ue-italia-alla-guida-dellhub-nel-mediterraneo/",
+          "published_at": "2026-06-23T13:03:33Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/reti-autonome-nokia-e-google-cloud-lanciano-un-ecosistema-multi-agente/",
+          "title": "Reti autonome, Nokia e Google Cloud lanciano un ecosistema multi-agente",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/reti-autonome-nokia-e-google-cloud-lanciano-un-ecosistema-multi-agente/",
+          "published_at": "2026-06-23T11:51:19Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/dati-sovrani-e-potenza-di-calcolo-cosi-i-neocloud-sfidano-gli-hyperscaler/",
+          "title": "Dati sovrani e potenza di calcolo, così i neocloud sfidano gli hyperscaler",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/dati-sovrani-e-potenza-di-calcolo-cosi-i-neocloud-sfidano-gli-hyperscaler/",
+          "published_at": "2026-06-23T11:21:32Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-e-reti-mobili-ecco-perche-il-traffico-in-uplink-diventera-la-vera-sfida-del-5g/",
+          "title": "Intelligenza artificiale e reti mobili, ecco perché il traffico in uplink diventerà la vera sfida del 5G",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-e-reti-mobili-ecco-perche-il-traffico-in-uplink-diventera-la-vera-sfida-del-5g/",
+          "published_at": "2026-06-23T11:11:44Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/ericsson-accelera-sul-6g-in-svezia-via-al-test-center/",
           "title": "Ericsson accelera sul 6G: in Svezia via al test center",
@@ -33,7 +173,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-milena-bonaparte/",
           "published_at": "2026-06-23T07:12:56Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/presidenza-del-consiglio-concorso-per-130-posti/",
           "published_at": "2026-06-22T19:26:26Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/anas-assume-giornalista-a-tempo-indeterminato/",
           "published_at": "2026-06-22T17:27:01Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/minacce-di-morte-alla-giornalista-rita-cavallaro/",
           "published_at": "2026-06-21T21:21:16Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vii-premio-giornalistico-umberto-rosa/",
           "published_at": "2026-06-21T18:48:47Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/associazione-ex-parlamentari-soriero-presidente/",
           "published_at": "2026-06-20T19:42:16Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -203,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/san-benedetto-torna-inclusione-da_mare/",
           "published_at": "2026-06-19T19:49:33Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-mezzogiorno-dal-locale-al-globale/",
           "published_at": "2026-06-19T16:03:14Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -263,7 +403,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/aggredita-la-giornalista-annamaria-parisi/",
           "published_at": "2026-06-19T11:00:14Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/francesca-de-martino-alla-guida-di-rai-parlamento/",
           "published_at": "2026-06-18T20:01:48Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-tpm-ad-alma-manera-per-crossover/",
           "published_at": "2026-06-18T15:43:33Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2195,6 +2335,56 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-as2b-lazio-ddg-2939-2025/",
+          "title": "Graduatoria AS2B – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-as2b-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-23T14:44:14Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatorie-as2d-abruzzo-lazio-molise-sardegna-toscana-ddg-2939-2025/",
+          "title": "Graduatorie AS2D – Abruzzo, Lazio, Molise, Sardegna, Toscana – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatorie-as2d-abruzzo-lazio-molise-sardegna-toscana-ddg-2939-2025/",
+          "published_at": "2026-06-23T14:35:53Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-adss-lazio-ddg-2939-2025/",
+          "title": "Graduatoria ADSS – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-adss-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-23T14:30:04Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-as01-abruzzo-lazio-molise-sardegna-ddg-2939-2025/",
+          "title": "Graduatoria AS01 – Abruzzo, Lazio, Molise, Sardegna – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-as01-abruzzo-lazio-molise-sardegna-ddg-2939-2025/",
+          "published_at": "2026-06-23T14:23:06Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-as12-lazio-ddg-2939-2025/",
+          "title": "Graduatoria AS12 – Lazio – DDG 2939/2025",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/23/graduatoria-as12-lazio-ddg-2939-2025/",
+          "published_at": "2026-06-23T12:08:01Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/22/graduatoria-am2c-lazio-ddg-2939-2025/",
           "title": "Graduatoria AM2C – Lazio – DDG 2939/2025",
           "source": "USR Lazio",
@@ -2591,7 +2781,7 @@
           "source": "IC Ceneda (Roma)",
           "url": "https://www.comprensivoceneda.edu.it/2026/06/22/procedura-per-la-selezione-n-65-unita-di-personale-docente/",
           "published_at": "2026-06-22T08:35:31Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2601,7 +2791,7 @@
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/atp-latina---decreto-del-ministro-dellistruzione-e-del-merito-n-247-del-10-dicembre-2025--avviso-apertura-funzioni-telematiche-per-la-presentazione-delle-istanze",
           "published_at": "2026-06-22T00:00:00Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2611,7 +2801,7 @@
           "source": "IC Guicciardini (Roma)",
           "url": "https://www.icguicciardiniroma.edu.it/2026/06/19/avviso-nuovi-iscritti-scuola-secondaria-di-primo-grado-consegna-documentazione-3/",
           "published_at": "2026-06-19T14:20:37Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2631,7 +2821,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/d-d-g-del-15-giugno-2026-n-749-istituzioni-scolastiche-beneficiarie-dei-fondi-avviso-n-55134-del-22-maggio-2026-decreto-dipartimentale-n-661_2026-assegnazione-fondi-per-cont/",
           "published_at": "2026-06-16T11:19:45Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2641,7 +2831,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2671,7 +2861,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2681,7 +2871,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-23T09:01:37Z",
+          "last_seen_at": "2026-06-24T08:59:30Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2861,9 +3051,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Via Aretusa (Roma)",
-      "status": "ok",
+      "status": "error",
       "item_count": 0,
-      "error_detail": null
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7fe156a41d10>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -2886,7 +3076,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 4,
+      "item_count": 5,
       "error_detail": null
     },
     {
@@ -2918,7 +3108,7 @@
       "search_name": "Comunicazione PA e Ufficio Stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
