@@ -1,12 +1,122 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-30T09:16:23Z",
+  "generated_at": "2026-07-01T09:49:02Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/digitale-il-mercato-in-italia-vale-84-miliardi-34-ma-le-tlc-restano-al-palo/",
+          "title": "Digitale, il mercato in Italia vale 84 miliardi (+3,4%). Ma le Tlc restano al palo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/digitale-il-mercato-in-italia-vale-84-miliardi-34-ma-le-tlc-restano-al-palo/",
+          "published_at": "2026-07-01T09:07:22Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/finance/hype-bonus/",
+          "title": "Hype, bonus fino a 40 euro: come funziona la promo estiva e quali sono le condizioni",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/finance/hype-bonus/",
+          "published_at": "2026-07-01T08:56:07Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/internet-allestero-airalo-offerta-4-euro/",
+          "title": "Internet all’estero con Airalo: eSIM da 4 euro per navigare in oltre 200 destinazioni",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/internet-allestero-airalo-offerta-4-euro/",
+          "published_at": "2026-07-01T08:48:18Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-agentica-linfrastruttura-it-diventa-il-nuovo-fronte-della-competitivita/",
+          "title": "AI agentica: l’infrastruttura IT diventa il nuovo fronte della competitività",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-agentica-linfrastruttura-it-diventa-il-nuovo-fronte-della-competitivita/",
+          "published_at": "2026-07-01T08:37:50Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/servizi-it-per-le-telco-crescita-b2b-a-rischio-senza-investimenti-e-partnership/",
+          "title": "Servizi IT: per le telco crescita B2B a rischio senza investimenti e partnership",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/servizi-it-per-le-telco-crescita-b2b-a-rischio-senza-investimenti-e-partnership/",
+          "published_at": "2026-07-01T08:37:04Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/co-innovazione-e-trasferimento-tecnologico-ntt-data-apre-a-bari-i-living-labs/",
+          "title": "Co-innovazione e trasferimento tecnologico, Ntt Data apre a Bari i Living Labs",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/co-innovazione-e-trasferimento-tecnologico-ntt-data-apre-a-bari-i-living-labs/",
+          "published_at": "2026-07-01T08:35:53Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/defence-tech-e-spacetech-il-venture-capital-accelera-sugli-unicorni-della-sicurezza/",
+          "title": "Defence tech e spacetech: il venture capital accelera sugli unicorni della sicurezza",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/defence-tech-e-spacetech-il-venture-capital-accelera-sugli-unicorni-della-sicurezza/",
+          "published_at": "2026-06-30T13:33:16Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/satelliti-software-defined-thales-alenia-space-porta-il-broadband-geostazionario-in-quattro-continenti/",
+          "title": "Satelliti software defined: Thales Alenia Space porta il broadband geostazionario in quattro continenti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/satelliti-software-defined-thales-alenia-space-porta-il-broadband-geostazionario-in-quattro-continenti/",
+          "published_at": "2026-06-30T13:28:32Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/infrastrutture-digitali-in-italia-gap-di-investori-istituzionali-cerruti-ecosistema-tecnologico-a-rischio/",
+          "title": "Infrastrutture digitali, in Italia gap di investori istituzionali. Cerruti: “Ecosistema tecnologico a rischio”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/infrastrutture-digitali-in-italia-gap-di-investori-istituzionali-cerruti-ecosistema-tecnologico-a-rischio/",
+          "published_at": "2026-06-30T11:17:24Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/sanita-integrativa-dal-1-luglio-via-al-fondo-la-filiera-tlc/",
+          "title": "Sanità integrativa, dal 1° luglio parte il Fondo per la filiera delle Tlc",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/sanita-integrativa-dal-1-luglio-via-al-fondo-la-filiera-tlc/",
+          "published_at": "2026-06-30T11:06:29Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/bando-rai-per-le-agenzie-garantire-pari-opportunita/",
+          "title": "Bando Rai per le agenzie: garantire pari opportunità",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/bando-rai-per-le-agenzie-garantire-pari-opportunita/",
+          "published_at": "2026-06-30T11:00:32Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/bt-e-verizon-uniscono-le-attivita-internazionali-via-a-una-joint-venture-da-4-miliardi-di-fatturato/",
           "title": "BT e Verizon uniscono le attività internazionali. Via a una joint venture da 4 miliardi di fatturato",
@@ -63,7 +173,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/attentato-a-ranucci-quattro-arresti/",
           "published_at": "2026-06-30T07:37:54Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/cosa-resta-della-liberta-di-stampa/",
           "published_at": "2026-06-29T21:56:29Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/sae-vende-il-tirreno-alla-famiglia-olivetti-rason/",
           "published_at": "2026-06-29T18:58:48Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/domodossola-celebra-il-ritorno-di-nino-bazzetta/",
           "published_at": "2026-06-28T19:36:53Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -203,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rita-lofano-e-lautonomia-del-direttore/",
           "published_at": "2026-06-28T18:40:11Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/segrate-addetto-stampa-a-scelta-del-sindaco/",
           "published_at": "2026-06-27T09:37:44Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -223,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/yemen-giustizia-per-aydah-e-verita-su-al-ruhani/",
           "published_at": "2026-06-26T16:27:07Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giovanna-russo-prima-la-dignita-della-persona/",
           "published_at": "2026-06-26T07:34:11Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-e-giornalismo-tra-etica-e-umanesimo-digitale-2/",
           "published_at": "2026-06-25T14:22:41Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -423,7 +533,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/maurizio-gasparri-e-le-stagioni-di-una-vita/",
           "published_at": "2026-06-25T11:29:02Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -553,7 +663,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vero-bella-e-i-ladri-di-biciclette/",
           "published_at": "2026-06-24T08:37:20Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -573,7 +683,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-sbarca-in-australia-con-il-globo-tv/",
           "published_at": "2026-06-24T07:37:20Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -623,7 +733,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/franco-abruzzo-la-verita-prima-di-tutto/",
           "published_at": "2026-06-23T16:57:23Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2849,7 +2959,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/segrate-addetto-stampa-a-scelta-del-sindaco/",
           "published_at": "2026-06-27T09:37:44Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -2885,12 +2995,22 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/30/ddg-n-855-30-06-2026-pubblicazione-decreto-ed-elenco-delle-scuole-non-paritarie-della-regione-lazio-a-s-2026-2027/",
+          "title": "DDG n.855 – 30/06/2026- Pubblicazione decreto ed elenco delle Scuole non paritarie della Regione Lazio – a.s. 2026/2027",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/30/ddg-n-855-30-06-2026-pubblicazione-decreto-ed-elenco-delle-scuole-non-paritarie-della-regione-lazio-a-s-2026-2027/",
+          "published_at": "2026-06-30T15:07:53Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/06/26/rettifica-graduatoria-adee-regione-lazio-ddg-2938-2025/",
           "title": "Rettifica graduatoria ADEE – Regione Lazio – DDG 2938/2025",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/26/rettifica-graduatoria-adee-regione-lazio-ddg-2938-2025/",
           "published_at": "2026-06-26T17:14:54Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2900,7 +3020,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/26/rettifica-graduatoria-am12-regione-lazio-ddg-2939-2025/",
           "published_at": "2026-06-26T17:07:54Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2910,7 +3030,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/26/rettifica-graduatoria-eeee-regione-lazio-ddg-2938-2025/",
           "published_at": "2026-06-26T16:58:54Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2920,7 +3040,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/26/rettifica-graduatoria-as2b-regione-lazio-ddg-2939-2025/",
           "published_at": "2026-06-26T16:44:27Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -3431,7 +3551,7 @@
           "source": "IC Ceneda (Roma)",
           "url": "https://www.comprensivoceneda.edu.it/2026/06/22/procedura-per-la-selezione-n-65-unita-di-personale-docente/",
           "published_at": "2026-06-22T08:35:31Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3451,7 +3571,7 @@
           "source": "IC Guicciardini (Roma)",
           "url": "https://www.icguicciardiniroma.edu.it/2026/06/19/avviso-nuovi-iscritti-scuola-secondaria-di-primo-grado-consegna-documentazione-3/",
           "published_at": "2026-06-19T14:20:37Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3471,7 +3591,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/16/d-d-g-del-15-giugno-2026-n-749-istituzioni-scolastiche-beneficiarie-dei-fondi-avviso-n-55134-del-22-maggio-2026-decreto-dipartimentale-n-661_2026-assegnazione-fondi-per-cont/",
           "published_at": "2026-06-16T11:19:45Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3481,7 +3601,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3511,7 +3631,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3521,7 +3641,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-pubblico/",
           "published_at": "2026-05-28T10:46:03Z",
-          "last_seen_at": "2026-06-30T09:16:23Z",
+          "last_seen_at": "2026-07-01T09:49:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3606,7 +3726,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Leonardo da Vinci — Terracina (ultime news)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
