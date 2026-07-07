@@ -7,7 +7,7 @@ from __future__ import annotations
 import logging
 from pathlib import Path
 
-from job_raider.config import load_searches
+from job_raider.config import load_searches, resolve_ai_filter_model
 from job_raider.exceptions import AdapterError, ConfigError, ResultsLoadError
 from job_raider.generate_dashboard import write_index_html
 from job_raider.http_client import DEFAULT_POLITE_DELAY_MS_RANGE, DEFAULT_TIMEOUT, HttpClient, USER_AGENT
@@ -74,6 +74,7 @@ def collect_opportunities(
     incoming: list[Opportunity] = []
     errors = 0
     runs: list[SourceRunRecord] = []
+    ai_filter_model = resolve_ai_filter_model(cfg.defaults)
 
     for search in cfg.searches:
         for source in search.sources:
@@ -123,7 +124,9 @@ def collect_opportunities(
 
             try:
                 adapter = get_adapter(source.adapter)
-                ctx = build_source_context(search, source, adapter)
+                ctx = build_source_context(
+                    search, source, adapter, ai_filter_model=ai_filter_model
+                )
                 raws = adapter.fetch(ctx, http)
                 opps = normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords)
                 incoming.extend(opps)

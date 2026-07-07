@@ -11,6 +11,7 @@ from typing import Any, Mapping
 
 import yaml
 
+from job_raider.ai_filter import DEFAULT_AI_FILTER_MODEL
 from job_raider.exceptions import ConfigError
 from job_raider.models import AppConfig, ConfigDefaults, SearchConfig, SourceConfig
 from job_raider.sources.registry import ADAPTER_NAMES, list_adapter_names, validate_source_params
@@ -76,14 +77,23 @@ def _optional_defaults(data: Mapping[str, Any], hint: str) -> ConfigDefaults | N
 
     timeout = d.get("request_timeout_seconds")
     delay = d.get("polite_delay_ms")
+    model = d.get("ai_filter_model")
     if timeout is not None and (not isinstance(timeout, int) or isinstance(timeout, bool)):
         raise ConfigError(f"{hint}: defaults.request_timeout_seconds must be an int")
     if delay is not None and (not isinstance(delay, int) or isinstance(delay, bool)):
         raise ConfigError(f"{hint}: defaults.polite_delay_ms must be an int")
+    if model is not None:
+        if not isinstance(model, str) or not model.strip():
+            raise ConfigError(f"{hint}: defaults.ai_filter_model must be a non-empty string")
+        model = model.strip()
 
-    if timeout is None and delay is None:
+    if timeout is None and delay is None and model is None:
         return ConfigDefaults()
-    return ConfigDefaults(request_timeout_seconds=timeout, polite_delay_ms=delay)
+    return ConfigDefaults(
+        request_timeout_seconds=timeout,
+        polite_delay_ms=delay,
+        ai_filter_model=model,
+    )
 
 
 def _parse_searches_list(data: Mapping[str, Any], hint: str) -> tuple[SearchConfig, ...]:
@@ -120,6 +130,7 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
     max_age_days = _optional_max_age_days(item, path)
     require_keywords = _parse_optional_keyword_list(item, "require_keywords", path)
     exclude_keywords = _parse_optional_keyword_list(item, "exclude_keywords", path)
+    ai_filter = _optional_bool(item, "ai_filter", path)
     sources = _parse_sources(item, path)
 
     extra = set(item.keys()) - {
@@ -131,6 +142,7 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
         "max_age_days",
         "require_keywords",
         "exclude_keywords",
+        "ai_filter",
     }
     if extra:
         raise ConfigError(f"{path}: unknown keys: {', '.join(sorted(extra))}")
@@ -144,7 +156,24 @@ def _parse_search(item: Any, path: str) -> SearchConfig:
         max_age_days=max_age_days,
         require_keywords=require_keywords,
         exclude_keywords=exclude_keywords,
+        ai_filter=ai_filter,
     )
+
+
+def _optional_bool(m: Mapping[str, Any], key: str, path: str) -> bool:
+    if key not in m:
+        return False
+    val = m[key]
+    if not isinstance(val, bool):
+        raise ConfigError(f"{path}: {key!r} must be a boolean, got {type(val).__name__}")
+    return val
+
+
+def resolve_ai_filter_model(defaults: ConfigDefaults | None) -> str:
+    """Effective Ollama model name from config defaults."""
+    if defaults is not None and defaults.ai_filter_model:
+        return defaults.ai_filter_model
+    return DEFAULT_AI_FILTER_MODEL
 
 
 def _require_str(m: Mapping[str, Any], key: str, path: str) -> str:
@@ -267,4 +296,5 @@ __all__ = [
     "SUPPORTED_CONFIG_VERSION",
     "load_searches",
     "parse_searches_yaml",
+    "resolve_ai_filter_model",
 ]

@@ -26,8 +26,9 @@ Any other top-level key → error (`unknown top-level keys`).
 |-------|------|--------|
 | `request_timeout_seconds` | int | Connect and read timeout for each HTTP request (seconds). |
 | `polite_delay_ms` | int | Base delay between requests (milliseconds). The client uses jitter; if set, the range is **`[value, value * 1.5]`** ms. Values below **1000** ms are raised to **1000** ms as the floor. |
+| `ai_filter_model` | string | Ollama model name used when a search has `ai_filter: true` (default **`gemma3:4b`** if omitted). |
 
-Omitted fields use built-in defaults (see `job_raider.http_client`).
+Omitted fields use built-in defaults (see `job_raider.http_client` and `job_raider.ai_filter`).
 
 ---
 
@@ -43,6 +44,7 @@ Omitted fields use built-in defaults (see `job_raider.http_client`).
 | `max_age_days` | No | Positive integer. When set, drops items with a non-null `published_at` strictly older than this many days versus **now** in **Europe/Rome** (after keyword matching, before normalize). Items with `published_at: null` are **not** dropped by this rule. |
 | `require_keywords` | No | List of non-empty strings, or omit / `null`. When **non-empty**, an item must match **at least one** of these phrases (same substring rules as `keywords`) **in addition to** passing the main `keywords` OR filter. Use for “job signal” tokens (e.g. `bando`, `selezione`, `tutor`). |
 | `exclude_keywords` | No | List of non-empty strings, or omit / `null`. If **any** phrase appears in title or summary (case-insensitive substring), the item is **dropped**, even if it matched `keywords` and `require_keywords`. Evaluated **after** `require_keywords`. |
+| `ai_filter` | No | Boolean (default **`false`**). When **`true`**, surviving rows after keyword filters are classified by a **local [Ollama](https://ollama.com/)** model (`POST http://localhost:11434/api/generate`). The model must answer with **YES** or **NO** (Italian prompt in `job_raider.ai_filter`). If Ollama is down or the call fails, the item is **kept** (fail-open). Model name comes from `defaults.ai_filter_model` (default **`gemma3:4b`**). |
 
 Unknown keys under a search → error.
 
@@ -61,7 +63,9 @@ After fetch, filters apply in this order:
 
 3. **`exclude_keywords` (optional)** — if **any** listed phrase appears in title or summary, the item is removed. Omitted, `null`, or `[]` skips this step.
 
-4. **`max_age_days`** — when set, surviving rows are filtered by publication age (see table above); `null` dates always pass this step.
+4. **`ai_filter` (optional)** — when **`true`**, each surviving row is sent to Ollama; only rows whose model answer contains **`YES`** are kept. Requires Ollama running locally with the configured model pulled (e.g. `ollama pull gemma3:4b`). Errors or a missing daemon **do not** drop items.
+
+5. **`max_age_days`** — when set, surviving rows are filtered by publication age (see table above); `null` dates always pass this step.
 
 ### Example (narrow PNRR / bandi)
 

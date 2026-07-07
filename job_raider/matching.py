@@ -7,6 +7,7 @@ from __future__ import annotations
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
+from job_raider.ai_filter import DEFAULT_AI_FILTER_MODEL
 from job_raider.models import RawItem, SearchConfig, SourceConfig
 
 ROME = ZoneInfo("Europe/Rome")
@@ -112,6 +113,8 @@ def build_source_context(
     search: SearchConfig,
     source: SourceConfig,
     adapter: SourceAdapter,
+    *,
+    ai_filter_model: str = DEFAULT_AI_FILTER_MODEL,
 ) -> SourceContext:
     """Build fetch context with expanded keywords for this adapter."""
     expanded = expand_keywords_for_filter(
@@ -129,4 +132,6 @@ def build_source_context(
         max_age_days=search.max_age_days,
         require_keywords=search.require_keywords,
         exclude_keywords=search.exclude_keywords,
+        ai_filter=search.ai_filter,
+        ai_filter_model=ai_filter_model,
     )

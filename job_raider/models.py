@@ -17,6 +17,7 @@ class ConfigDefaults:
 
     request_timeout_seconds: int | None = None
     polite_delay_ms: int | None = None
+    ai_filter_model: str | None = None
 
 
 @dataclass(frozen=True)
@@ -40,6 +41,7 @@ class SearchConfig:
     max_age_days: int | None = None
     require_keywords: tuple[str, ...] = field(default_factory=tuple)
     exclude_keywords: tuple[str, ...] = field(default_factory=tuple)
+    ai_filter: bool = False
 
 
 @dataclass(frozen=True)

@@ -7,7 +7,8 @@ from pathlib import Path
 
 import pytest
 
-from job_raider.config import load_searches, parse_searches_yaml
+from job_raider.ai_filter import DEFAULT_AI_FILTER_MODEL
+from job_raider.config import load_searches, parse_searches_yaml, resolve_ai_filter_model
 from job_raider.exceptions import ConfigError
 
 
@@ -405,6 +406,86 @@ def test_parse_exclude_keywords_empty_string_fails():
     ).strip()
     with pytest.raises(ConfigError, match="exclude_keywords\\[0\\]"):
         parse_searches_yaml(raw)
+
+
+def test_parse_ai_filter_true():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            ai_filter: true
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    cfg = parse_searches_yaml(raw)
+    assert cfg.searches[0].ai_filter is True
+
+
+def test_parse_ai_filter_not_bool_fails():
+    raw = textwrap.dedent(
+        """
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            ai_filter: "on"
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    with pytest.raises(ConfigError, match="ai_filter"):
+        parse_searches_yaml(raw)
+
+
+def test_parse_defaults_ai_filter_model():
+    raw = textwrap.dedent(
+        """
+        defaults:
+          ai_filter_model: llama3.2
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    cfg = parse_searches_yaml(raw)
+    assert cfg.defaults is not None
+    assert cfg.defaults.ai_filter_model == "llama3.2"
+
+
+def test_parse_defaults_ai_filter_model_empty_fails():
+    raw = textwrap.dedent(
+        """
+        defaults:
+          ai_filter_model: "  "
+        searches:
+          - id: a
+            name: "x"
+            keywords: [k]
+            sources:
+              - adapter: rss
+                label: L
+                url: https://example.com/a.xml
+        """
+    )
+    with pytest.raises(ConfigError, match="ai_filter_model"):
+        parse_searches_yaml(raw)
+
+
+def test_resolve_ai_filter_model_default():
+    cfg = parse_searches_yaml(_valid_minimal_yaml())
+    assert resolve_ai_filter_model(cfg.defaults) == DEFAULT_AI_FILTER_MODEL
 
 
 def test_load_searches_example_from_repo():

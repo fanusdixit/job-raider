@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import datetime as dt
+from unittest.mock import patch
 from zoneinfo import ZoneInfo
 
 import pytest
@@ -179,6 +180,58 @@ def test_normalize_and_filter_exclude_wins_over_require_match():
         ),
     ]
     assert normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords) == []
+
+
+def test_normalize_and_filter_ai_filter_drops_when_model_says_no():
+    search = SearchConfig(
+        id="s",
+        name="S",
+        keywords=("PNRR",),
+        region=None,
+        sources=(),
+        ai_filter=True,
+    )
+    source = SourceConfig("rss", "L", {"url": "https://x/f.xml"})
+
+    class _Fake:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, _Fake())
+    raws = [
+        RawItem(title="PNRR generico", url="https://x/1", summary="Notizia scuola"),
+        RawItem(title="PNRR bando tutor", url="https://x/2", summary="Selezione"),
+    ]
+    with patch(
+        "job_raider.ai_filter.is_job_opportunity",
+        side_effect=[False, True],
+    ):
+        opps = normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords)
+    assert len(opps) == 1
+    assert opps[0].url == "https://x/2"
+
+
+def test_normalize_and_filter_ai_filter_disabled_skips_ollama():
+    search = SearchConfig(
+        id="s",
+        name="S",
+        keywords=("k",),
+        region=None,
+        sources=(),
+        ai_filter=False,
+    )
+    source = SourceConfig("rss", "L", {"url": "https://x/f.xml"})
+
+    class _Fake:
+        name = "rss"
+        supports_native_region = False
+
+    ctx = build_source_context(search, source, _Fake())
+    raws = [RawItem(title="k item", url="https://x/1")]
+    with patch("job_raider.ai_filter.is_job_opportunity") as mock_ai:
+        opps = normalize_and_filter(raws, ctx, keywords=ctx.expanded_keywords)
+    mock_ai.assert_not_called()
+    assert len(opps) == 1
 
 
 def test_normalize_and_filter_now_rome_type_error():

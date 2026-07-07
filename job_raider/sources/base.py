@@ -26,6 +26,8 @@ class SourceContext:
     max_age_days: int | None = None
     require_keywords: tuple[str, ...] = ()
     exclude_keywords: tuple[str, ...] = ()
+    ai_filter: bool = False
+    ai_filter_model: str = "gemma3:4b"  # overridden via build_source_context
 
 
 @runtime_checkable

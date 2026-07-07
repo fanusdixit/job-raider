@@ -34,6 +34,13 @@ def resolve_to_absolute_url(url: str, link_base: str | None) -> str:
     return joined
 
 
+def _passes_ai_filter(raw: RawItem, ctx: SourceContext) -> bool:
+    from job_raider.ai_filter import is_job_opportunity
+
+    summary = raw.summary or ""
+    return is_job_opportunity(raw.title, summary, model=ctx.ai_filter_model)
+
+
 def raw_to_opportunity(
     raw: RawItem,
     ctx: SourceContext,
@@ -81,7 +88,8 @@ def normalize_and_filter(
 ) -> list[Opportunity]:
     """
     Apply OR ``keywords`` filter, optional ``require_keywords`` / ``exclude_keywords`` (via ``ctx``),
-    optional ``max_age_days`` (Europe/Rome), then normalize.
+    optional ``ai_filter`` (local Ollama when enabled on the search), optional ``max_age_days``
+    (Europe/Rome), then normalize.
 
     ``now_rome`` is the reference instant for age filtering (any tz-aware or naive datetime;
     naive values are treated as Europe/Rome). Defaults to ``datetime.now(Europe/Rome)``.
@@ -112,6 +120,8 @@ def normalize_and_filter(
         if not raw_passes_require_keywords(raw, ctx.require_keywords):
             continue
         if raw_matches_any_exclude_keyword(raw, ctx.exclude_keywords):
+            continue
+        if ctx.ai_filter and not _passes_ai_filter(raw, ctx):
             continue
         if not raw_passes_max_age(raw, max_age_days=ctx.max_age_days, now_rome=now):
             continue
