@@ -1,28 +1,23 @@
-# PNRR discovery — schools list (2026). Run: python3 discover.py -f discover.yaml
+# Concorsi / PA discovery. Run: python3 discover.py -f discover.yaml
 urls:
-  - "https://www.liceocatullo.edu.it/"                    # Liceo Catullo, Monterotondo (RM)
-  - "https://www.iissbattistivelletri.edu.it/"            # IISS Cesare Battisti, Velletri (RM)
-  - "https://comprensivosanpiov.edu.it/"                 # I.C. Largo San Pio V, Roma
-  - "https://www.icaretusa.edu.it/"                      # I.C. Via Aretusa, Roma
-  - "https://www.federicocaffe.edu.it/"                  # IIS Federico Caffè, Roma
-  - "https://www.iccittadeibambini.edu.it/"              # I.C. Città dei Bambini, Mentana (RM)
-  - "https://www.istitutocomprensivoviatedeschi.edu.it/" # I.C. Via Tedeschi, Roma
-  - "https://www.cpianapolicitta2.edu.it/"               # CPIA Napoli Città 2
-  - "https://www.ipsiapaolocolosimo.edu.it/"             # ISIS Paolo Colosimo, Napoli
-  - "https://www.liceomazzininapoli.edu.it/"             # Liceo Mazzini, Napoli
-  - "https://www.convittonapoli.edu.it/"                 # Convitto V. Emanuele II, Napoli
-  - "https://www.icaldomoronapoli.edu.it/"               # I.C. Aldo Moro, Napoli (città)
-  - "https://www.liceofonseca.edu.it/"                   # Liceo E. Fonseca, Napoli
-  - "https://www.liceosegre.edu.it/"                     # Liceo E. Segrè, Marano di Napoli
-  - "https://www.isisscontiaversa.edu.it/"               # ISISS Osvaldo Conti, Aversa (CE)
+  - "https://www.concorsipubblici.com"
+  - "https://www.concorsando.it"
+  - "https://www.ilconcorsopubblico.it"
+  - "https://infoconcorsi.edises.it"
+  - "https://www.concorsamente.it"
+  - "https://www.leggioggi.it"
+  - "https://www.ticonsiglio.com"
+  - "https://www.regione.lazio.it"
+  - "https://www.inps.it"
+  - "https://www.gazzettaufficiale.it"
 keywords:
-  - orientamento
-  - esperto esterno
-  - tutor
-  - PNRR
-  - mentor
+  - concorso
   - selezione
+  - bando
   - avviso
-  - Agenda Nord
-  - dispersione scolastica
-  - mentoring
+  - comunicazione
+  - orientamento
+  - scuola
+  - funzionario
+  - istruttore
+  - amministrativo
