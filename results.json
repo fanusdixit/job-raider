@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T07:17:38Z",
+  "generated_at": "2026-08-11T06:55:53Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,132 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/offerte-5g-telefonia-mobile-mercato-telco-risparmio/",
+          "title": "La guerra del 5G e i nuovi equilibri Telco: la spinta sui gigabit ad alto volume e zero costi d’ingresso scuote il mercato mobile",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/offerte-5g-telefonia-mobile-mercato-telco-risparmio/",
+          "published_at": "2026-08-11T04:49:10Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/attentato-a-ranucci-arrestato-valter-lavitola/",
+          "title": "Attentato a Ranucci: arrestato Valter Lavitola",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/attentato-a-ranucci-arrestato-valter-lavitola/",
+          "published_at": "2026-08-10T16:47:54Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/gaetana-covelli-e-giuseppe-zema-sposi/",
+          "title": "Gaetana Covelli e Giuseppe Zema sposi",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/gaetana-covelli-e-giuseppe-zema-sposi/",
+          "published_at": "2026-08-10T15:55:14Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/agenzia-spaziale-italiana-mario-cospito-nominato-commissario-straordinario/",
+          "title": "Agenzia Spaziale Italiana, Mario Cospito nominato commissario straordinario",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/agenzia-spaziale-italiana-mario-cospito-nominato-commissario-straordinario/",
+          "published_at": "2026-08-10T12:50:06Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/lai-fa-impennare-il-costo-dei-chip-e-il-conto-arriva-a-imprese-e-consumatori/",
+          "title": "L’AI fa impennare il costo dei chip e il conto arriva a imprese e consumatori",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/lai-fa-impennare-il-costo-dei-chip-e-il-conto-arriva-a-imprese-e-consumatori/",
+          "published_at": "2026-08-10T12:40:39Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/zuckerberg-nellera-della-superintelligenza-il-potere-deve-restare-nelle-mani-delle-persone/",
+          "title": "Zuckerberg: “Nell’era della superintelligenza il potere deve restare nelle mani delle persone”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/zuckerberg-nellera-della-superintelligenza-il-potere-deve-restare-nelle-mani-delle-persone/",
+          "published_at": "2026-08-10T12:36:23Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/report/dark-data-cosi-il-contact-center-diventa-una-miniera-per-la-customer-experience/",
+          "title": "Dark data, così il contact center diventa una miniera per la customer experience",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/report/dark-data-cosi-il-contact-center-diventa-una-miniera-per-la-customer-experience/",
+          "published_at": "2026-08-10T12:04:12Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/system-integration-oltre-i-ricavi-ai-cloud-e-cybersecurity-cambiano-gli-equilibri-del-mercato-enterprise/",
+          "title": "System integration oltre i ricavi: AI, cloud e cybersecurity cambiano gli equilibri del mercato enterprise",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/system-integration-oltre-i-ricavi-ai-cloud-e-cybersecurity-cambiano-gli-equilibri-del-mercato-enterprise/",
+          "published_at": "2026-08-10T11:58:33Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/internet-in-vacanza-reti-pubbliche-e-falsi-accessi-mettono-a-rischio-i-dati/",
+          "title": "Internet in vacanza, reti pubbliche e falsi accessi mettono a rischio i dati",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/internet-in-vacanza-reti-pubbliche-e-falsi-accessi-mettono-a-rischio-i-dati/",
+          "published_at": "2026-08-10T09:48:28Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/inwit-torri-a-tutela-della-biodiversita-ai-e-iot-a-difesa-di-castelporziano/",
+          "title": "INWIT, torri a tutela della biodiversità: AI e IoT a difesa di Castelporziano",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/inwit-torri-a-tutela-della-biodiversita-ai-e-iot-a-difesa-di-castelporziano/",
+          "published_at": "2026-08-10T09:09:41Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/space-act-e-privacy-il-paradosso-della-sovranita-digitale-nello-spazio/",
+          "title": "Space Act e privacy: il paradosso della sovranità digitale nello Spazio",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/space-act-e-privacy-il-paradosso-della-sovranita-digitale-nello-spazio/",
+          "published_at": "2026-08-10T08:58:31Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/la-partita-del-6g-capone-nella-call-to-action-usa-agli-alleati-leuropa-deve-agire-unita/",
+          "title": "La partita del 6G, Capone: “Nella call to action Usa agli alleati l’Europa deve agire unita”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/la-partita-del-6g-capone-nella-call-to-action-usa-agli-alleati-leuropa-deve-agire-unita/",
+          "published_at": "2026-08-10T08:38:43Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/troppo-dolore-per-il-giornalismo-fiorentino/",
           "title": "Troppo dolore per il giornalismo fiorentino",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/troppo-dolore-per-il-giornalismo-fiorentino/",
           "published_at": "2026-08-09T09:15:56Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +143,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tre-giornalisti-della-rai-nel-mirino-dellusb-rai/",
           "published_at": "2026-08-08T13:58:10Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vero-bella-occhio-che-le-notizie-volano/",
           "published_at": "2026-08-07T18:24:07Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +163,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/crimen-psicologia-e-giornalismo-in-dialogo/",
           "published_at": "2026-08-07T15:18:44Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -233,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/odg-molise-diffida-emittente-radio-abusiva/",
           "published_at": "2026-08-06T08:08:45Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/filippo-roma-e-lultimo-viaggio-di-un-amore-vero/",
           "published_at": "2026-08-05T12:07:09Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -393,7 +513,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/campi-bisenzio-cerca-portavoce-del-sindaco/",
           "published_at": "2026-08-04T11:27:31Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-vecchia-storia-della-fiducia-ai-direttori-dei-giornali/",
           "published_at": "2026-08-04T10:33:13Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +593,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/riforma-delle-professioni-delega-al-governo/",
           "published_at": "2026-08-03T18:40:16Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -533,7 +653,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/diritto-di-cronaca-senza-inquinare-le-indagini/",
           "published_at": "2026-08-03T10:24:29Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -593,7 +713,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/farzana-rupa-e-mozammel-babu-rischiano-la-morte/",
           "published_at": "2026-08-02T19:39:37Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2986,12 +3106,32 @@
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
         {
+          "dedupe_id": "https://danielemanin.edu.it/buoni-libro-2/",
+          "title": "Buoni libro",
+          "source": "IC Daniele Manin (Roma)",
+          "url": "https://danielemanin.edu.it/buoni-libro-2/",
+          "published_at": "2026-08-10T13:48:56Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/08/10/proroga-esoneri-tutor-31-dicembre-2026/",
+          "title": "Proroga esoneri tutor 31 dicembre 2026",
+          "source": "USR Lazio — Aree tematiche",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/08/10/proroga-esoneri-tutor-31-dicembre-2026/",
+          "published_at": "2026-08-10T09:44:15Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/08/05/avviso-cambio-sede-convocazione-per-la-selezione-di-un-docente-per-la-costituzione-delle-equipe-formative/",
           "title": "Avviso cambio sede convocazione per la selezione di un docente per la costituzione delle équipe formative",
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/08/05/avviso-cambio-sede-convocazione-per-la-selezione-di-un-docente-per-la-costituzione-delle-equipe-formative/",
           "published_at": "2026-08-05T13:07:58Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3001,7 +3141,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/avviso-guasto-telefonico/",
           "published_at": "2026-08-03T08:38:49Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3021,7 +3161,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3031,7 +3171,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3061,7 +3201,7 @@
           "source": "IC Octavia (Roma)",
           "url": "https://www.icoctavia.edu.it/2026/07/01/avviso-acquisizione-della-disponibilita-a-svolgere-ore-aggiuntive-oltre-lorario-dobbligo-fino-a-6-ore-settimanali-a-s-2026-2027-nota-mim-prot-n-16054-del-19/",
           "published_at": "2026-07-01T09:55:04Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3081,7 +3221,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3091,7 +3231,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-08-10T07:17:38Z",
+          "last_seen_at": "2026-08-11T06:55:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3130,7 +3270,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Daniele Manin (Roma)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 2,
       "error_detail": null
     },
     {
@@ -3218,7 +3358,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 2,
       "error_detail": null
     },
     {
@@ -3243,7 +3383,7 @@
       "source_label": "IC Via Aretusa (Roma)",
       "status": "error",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7f794cc026d0>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7faca4daeb90>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -3266,7 +3406,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 0,
       "error_detail": null
     },
     {
