@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14T07:15:20Z",
+  "generated_at": "2026-08-15T06:26:58Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,62 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/guide/migliori-esim-turchia/",
+          "title": "Le 4 top eSIM per la Turchia: connessione e telefonia senza costi di roaming",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/guide/migliori-esim-turchia/",
+          "published_at": "2026-08-14T22:12:34Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/guide/esim-svizzera-per-navigare-senza-roaming-oltre-confine/",
+          "title": "eSIM Svizzera, le migliori soluzioni per navigare senza roaming oltre confine",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/guide/esim-svizzera-per-navigare-senza-roaming-oltre-confine/",
+          "published_at": "2026-08-14T21:22:02Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/guide/migliori-esim-egitto/",
+          "title": "Migliori eSIM Egitto, le soluzioni per navigare tra piramidi e Mar Rosso",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/guide/migliori-esim-egitto/",
+          "published_at": "2026-08-14T20:17:40Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/offerta-streaming-sportivo-serie-a-multi-device/",
+          "title": "Dalla Serie A al multi-sport: l’offerta integrata e la doppia utenza  per lo streaming sportivo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-streaming-sportivo-serie-a-multi-device/",
+          "published_at": "2026-08-14T09:57:00Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/figec-ingiusto-attacco-ad-emiliano-morrone/",
+          "title": "Figec: ingiusto attacco ad Emiliano Morrone",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/figec-ingiusto-attacco-ad-emiliano-morrone/",
+          "published_at": "2026-08-14T07:52:15Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/buon-ferragosto-ai-lettori-di-corcom-2/",
           "title": "Buon Ferragosto ai lettori di CorCom",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/buon-ferragosto-ai-lettori-di-corcom-2/",
           "published_at": "2026-08-14T06:00:00Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +73,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/guide/migliori-esim-marocco/",
           "published_at": "2026-08-13T17:20:41Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +83,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/bufala-sul-calciomercato-arrestato-giornalista/",
           "published_at": "2026-08-13T12:18:02Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/telco-e-efficienza-operativa-ai-in-campo-in-attesa-che-il-5g-ripaghi/",
           "published_at": "2026-08-13T10:57:45Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-a-colleferro-primo-hub-del-sud-per-lai-monta-la-protesta/",
           "published_at": "2026-08-13T10:50:55Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/windtre-super-fibra-wi-fi-7-giga-illimitati/",
           "published_at": "2026-08-13T09:39:21Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/green-economy/circular-economy-gsma-lancia-servizi-ad-hoc-per-le-telco/",
           "published_at": "2026-08-13T08:29:16Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/selezione-rai-per-assumere-34-impiegati/",
           "published_at": "2026-08-13T07:43:23Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lavitola-sono-il-mandante-per-il-bene-di-ranucci/",
           "published_at": "2026-08-12T18:00:03Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -233,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/manuela-nicolosi-la-visionaria-dellimpossibile/",
           "published_at": "2026-08-11T16:17:22Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +393,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/comune-di-soresina-cerca-direttore-responsabile/",
           "published_at": "2026-08-10T20:32:55Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +403,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/attentato-a-ranucci-arrestato-valter-lavitola/",
           "published_at": "2026-08-10T16:47:54Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +503,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/troppo-dolore-per-il-giornalismo-fiorentino/",
           "published_at": "2026-08-09T09:15:56Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +513,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/gaetana-covelli-e-giuseppe-zema-sposi/",
           "published_at": "2026-08-08T15:55:14Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +523,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tre-giornalisti-della-rai-nel-mirino-dellusb-rai/",
           "published_at": "2026-08-08T13:58:10Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -483,7 +533,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vero-bella-occhio-che-le-notizie-volano/",
           "published_at": "2026-08-07T18:24:07Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -493,7 +543,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/crimen-psicologia-e-giornalismo-in-dialogo/",
           "published_at": "2026-08-07T15:18:44Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -683,7 +733,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/odg-molise-diffida-emittente-radio-abusiva/",
           "published_at": "2026-08-06T08:08:45Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2668,46 +2718,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/reti-mobili-emissioni-operative-in-calo-del-13-la-gsma-ma-ora-serve-una-strategia-green/",
-          "title": "Reti mobili, emissioni operative in calo del 13%. La Gsma: “Ma ora serve una strategia green”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/reti-mobili-emissioni-operative-in-calo-del-13-la-gsma-ma-ora-serve-una-strategia-green/",
-          "published_at": "2026-07-15T08:17:43Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/6g-e-ai-le-telco-usa-in-pressing-sullo-spettro-per-la-prossima-leadership-americana/",
-          "title": "6G e AI, le telco Usa in pressing sullo spettro per la prossima leadership americana",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/6g-e-ai-le-telco-usa-in-pressing-sullo-spettro-per-la-prossima-leadership-americana/",
-          "published_at": "2026-07-15T07:50:20Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/torri-inwit-perde-anche-il-ricorso-contro-fastweb-sui-master-service-agreement/",
-          "title": "Torri, Inwit perde anche il ricorso contro Fastweb sui Master service agreement",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/torri-inwit-perde-anche-il-ricorso-contro-fastweb-sui-master-service-agreement/",
-          "published_at": "2026-07-15T07:45:33Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/site-la-nuova-brand-identity-punta-sullevoluzione-integrata-tra-reti-energia-e-sistemi-digitali/",
-          "title": "SITE: la nuova brand identity punta sull’evoluzione integrata tra reti, energia e sistemi digitali",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/site-la-nuova-brand-identity-punta-sullevoluzione-integrata-tra-reti-energia-e-sistemi-digitali/",
-          "published_at": "2026-07-15T07:30:00Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/torturato-e-ucciso-il-giornalista-alex-serna/",
           "title": "Torturato e ucciso il giornalista Alex Serna",
           "source": "Giornalisti Italia",
@@ -2724,96 +2734,6 @@
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-neliana-tersigni/",
           "published_at": "2026-07-14T19:50:16Z",
           "last_seen_at": "2026-07-20T08:47:45Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-chirichilli-crea-valore-solo-se-le-persone-restano-protagoniste/",
-          "title": "Intelligenza artificiale, Chirichilli: “Crea valore solo se le persone restano protagoniste”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-chirichilli-crea-valore-solo-se-le-persone-restano-protagoniste/",
-          "published_at": "2026-07-14T14:14:27Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/space-economy-leuropa-rialza-la-testa-ma-resta-stretta-tra-usa-e-cina/",
-          "title": "Space economy: l’Europa rialza la testa ma resta stretta tra Usa e Cina",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/space-economy-leuropa-rialza-la-testa-ma-resta-stretta-tra-usa-e-cina/",
-          "published_at": "2026-07-14T13:55:02Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/sovranita-europea-il-ruolo-strategico-delle-frequenze-2-ghz/",
-          "title": "Sovranità europea, il ruolo strategico delle frequenze 2 GHz",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/space-economy/sovranita-europea-il-ruolo-strategico-delle-frequenze-2-ghz/",
-          "published_at": "2026-07-14T13:34:42Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/iliad-offerta-fibra-incluso-router-wi-fi-7-a-22-99-euro/",
-          "title": "Iliad offerta fibra ottica FTTH a 22,99 € per sempre",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/iliad-offerta-fibra-incluso-router-wi-fi-7-a-22-99-euro/",
-          "published_at": "2026-07-14T12:19:51Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/offerta-very-mobile-2/",
-          "title": "Offerta Very Mobile: 200 Giga e 5G Full Speed a 6,99 euro, la promozione scade il 23 luglio",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-very-mobile-2/",
-          "published_at": "2026-07-14T12:09:01Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fiber-to-the-room-ecco-perche-non-tutti-i-mercati-della-fibra-sono-pronti-per-il-salto/",
-          "title": "Fiber to the room, ecco perché non tutti i mercati sono pronti per il “salto”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fiber-to-the-room-ecco-perche-non-tutti-i-mercati-della-fibra-sono-pronti-per-il-salto/",
-          "published_at": "2026-07-14T12:02:30Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/report/ai-native-operations-la-svolta-che-trasforma-le-telco-in-outcome-provider/",
-          "title": "AI-native operations: la svolta che trasforma le telco in “outcome provider”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/report/ai-native-operations-la-svolta-che-trasforma-le-telco-in-outcome-provider/",
-          "published_at": "2026-07-14T11:29:31Z",
-          "last_seen_at": "2026-07-15T07:54:52Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/lasorella-operatori-chiamati-a-trasformarsi-in-hub-di-servizi-digitali/",
-          "title": "Lasorella: “Operatori chiamati a trasformarsi in hub di servizi digitali”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/lasorella-operatori-chiamati-a-trasformarsi-in-hub-di-servizi-digitali/",
-          "published_at": "2026-07-14T11:25:54Z",
-          "last_seen_at": "2026-07-15T07:46:33Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/il-nordest-costruisce-i-data-center-degli-altri/",
-          "title": "Il Nordest costruisce i data center degli altri",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/il-nordest-costruisce-i-data-center-degli-altri/",
-          "published_at": "2026-07-14T10:31:29Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2916,26 +2836,6 @@
           "last_seen_at": "2026-07-16T07:59:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/vero-bella-il-mare-comincia-da-me/",
-          "title": "Vero & Bella: Il mare comincia da me",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/vero-bella-il-mare-comincia-da-me/",
-          "published_at": "2026-07-08T11:03:08Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/arrestato-il-giornalista-mario-adinolfi/",
-          "title": "Arrestato il giornalista Mario Adinolfi",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/arrestato-il-giornalista-mario-adinolfi/",
-          "published_at": "2026-07-08T09:58:11Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2943,6 +2843,16 @@
       "id": "comunicazione_pa",
       "name": "Comunicazione PA e Ufficio Stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/figec-ingiusto-attacco-ad-emiliano-morrone/",
+          "title": "Figec: ingiusto attacco ad Emiliano Morrone",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/figec-ingiusto-attacco-ad-emiliano-morrone/",
+          "published_at": "2026-08-14T07:52:15Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
+          "search_id": "comunicazione_pa",
+          "search_name": "Comunicazione PA e Ufficio Stampa"
+        },
         {
           "dedupe_id": "https://www.giornalistitalia.it/al-comune-di-ercolano-un-portavoce-ma-giornalista/",
           "title": "Al Comune di Ercolano un portavoce ma giornalista",
@@ -2980,7 +2890,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/08/12/immissione-nei-ruoli-della-dirigenza-scolastica-del-lazio-a-s-2026-2027/",
           "published_at": "2026-08-12T15:11:42Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -3143,296 +3053,6 @@
           "last_seen_at": "2026-07-17T07:58:20Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/conservatorio-piacenza-selezione-docenti/",
-          "title": "Conservatorio di Piacenza: selezione pubblica per docenti, lavoro in varie discipline",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/conservatorio-piacenza-selezione-docenti/",
-          "published_at": "2026-07-15T05:30:36Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/conservatorio-padova-concorso-assistenti-diplomati-personale-ata/",
-          "title": "Conservatorio di Padova: concorso per assistenti diplomati, personale ATA",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/conservatorio-padova-concorso-assistenti-diplomati-personale-ata/",
-          "published_at": "2026-07-15T05:00:01Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/ufficio-ricostruzione-comuni-cratere-selezione-pubblica-artisti/",
-          "title": "Ufficio Ricostruzione Comuni del Cratere: selezione pubblica per artisti 2026",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/ufficio-ricostruzione-comuni-cratere-selezione-pubblica-artisti/",
-          "published_at": "2026-07-15T04:45:08Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/autorita-garante-disabilita-concorso-diplomati-assistenti-segreteria-bando-2026/",
-          "title": "Autorità Garante Disabilità: concorso per diplomati, Assistenti di Segreteria. Bando 2026",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/autorita-garante-disabilita-concorso-diplomati-assistenti-segreteria-bando-2026/",
-          "published_at": "2026-07-14T11:15:08Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/domanda-utilizzazioni-assegnazioni-provvisorie-2026-modulistica-guida-mim/",
-          "title": "Domanda utilizzazioni e assegnazioni provvisorie 2026 2027: ecco la Modulistica e la Guida MIM alla presentazione",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/domanda-utilizzazioni-assegnazioni-provvisorie-2026-modulistica-guida-mim/",
-          "published_at": "2026-07-14T09:40:55Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/concorso-ministero-ambiente-mase-funzionari-bando-2026/",
-          "title": "Concorso Ministero dell’Ambiente (MASE) per 50 Funzionari 2026: ecco Bando, requisiti, stipendio e come fare domanda",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/concorso-ministero-ambiente-mase-funzionari-bando-2026/",
-          "published_at": "2026-07-14T09:20:22Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/unicas-concorso-collaboratori-diplomati/",
-          "title": "UNICAS: concorso per collaboratori diplomati, Università Cassino e Lazio Meridionale",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/unicas-concorso-collaboratori-diplomati/",
-          "published_at": "2026-07-14T06:30:34Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/concorso-esercito-atleti-vft-bando-2026/",
-          "title": "Concorso dell’Esercito per 40 Atleti VFT con licenza media: Bando 2026",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/concorso-esercito-atleti-vft-bando-2026/",
-          "published_at": "2026-07-14T05:30:23Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/casting-film-bestiario-amore-cercano-ragazze/",
-          "title": "Casting per il film Bestiario d’amore, si cercano ragazze. Lavoro retribuito",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/casting-film-bestiario-amore-cercano-ragazze/",
-          "published_at": "2026-07-14T05:15:10Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/bonus-figli/",
-          "title": "Bonus per i figli attivi e confermati: l’elenco aggiornato di tutte le agevolazioni",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/bonus-figli/",
-          "published_at": "2026-07-14T05:10:09Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/pio-albergo-trivulzio-concorso-specialista-attivita-culturali/",
-          "title": "Lombardia, Pio Albergo Trivulzio: concorso per specialista attività culturali presso il Museo",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/pio-albergo-trivulzio-concorso-specialista-attivita-culturali/",
-          "published_at": "2026-07-14T05:00:18Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/selezione-universita-urbino-lavoro-psicologi-sportello-ascolto/",
-          "title": "Selezione pubblica Università di Urbino: lavoro per psicologi, Sportello ascolto",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/selezione-universita-urbino-lavoro-psicologi-sportello-ascolto/",
-          "published_at": "2026-07-14T04:45:51Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ticonsiglio.com/citta-metropolitana-roma-capitale-concorsi-funzionari-ambientali-tecnici-geometri-bandi-2026/",
-          "title": "Città Metropolitana Roma Capitale: concorsi per Funzionari Ambientali, Tecnici e Geometri. Aperti i Bandi 2026",
-          "source": "Ti Consiglio",
-          "url": "https://www.ticonsiglio.com/citta-metropolitana-roma-capitale-concorsi-funzionari-ambientali-tecnici-geometri-bandi-2026/",
-          "published_at": "2026-07-13T13:15:51Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/dpcm-luglio-2026/",
-          "title": "DPCM luglio 2026: Al via procedure di reclutamento e assunzioni da oltre 3700 posti!",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/dpcm-luglio-2026/",
-          "published_at": "2026-07-09T09:04:12Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/concorsi-polizia-locale-attivi-2026/",
-          "title": "Nuovi Concorsi Polizia Locale: tutti i bandi attivi",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/concorsi-polizia-locale-attivi-2026/",
-          "published_at": "2026-07-09T07:13:04Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/concorso-funzionari-inps-2026-1695/",
-          "title": "Concorso Funzionari INPS 2026 da 1695: pubblicato il bando!",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/concorso-funzionari-inps-2026-1695/",
-          "published_at": "2026-06-25T15:49:45Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/concorsi-dogane/",
-          "title": "Concorsi Dogane: in arrivo nuove assunzioni all’ADM!",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/concorsi-dogane/",
-          "published_at": "2026-06-23T09:52:20Z",
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/assunzioni-poste-italiane-2025-2028/",
-          "title": "Assunzioni Poste Italiane 2025-2028: ecco il nuovo piano",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/assunzioni-poste-italiane-2025-2028/",
-          "published_at": "2026-06-08T13:25:48Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/concorso-ministero-difesa-2026-prova-scritta-1100-assistenti/",
-          "title": "Concorso Ministero Difesa 2026: a breve la prova scritta per 1100 assistenti?",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/concorso-ministero-difesa-2026-prova-scritta-1100-assistenti/",
-          "published_at": "2026-05-26T14:54:49Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/assunzioni-inps-2026/",
-          "title": "Assunzioni INPS 2026: nuovi concorsi prima dell’estate?",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/assunzioni-inps-2026/",
-          "published_at": "2026-05-20T08:33:19Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/concorso-assistenti-ministero-cultura-2026-spoiler-prova-scritta/",
-          "title": "Concorso Assistenti Ministero Cultura 2026: spoiler prova scritta?",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/concorso-assistenti-ministero-cultura-2026-spoiler-prova-scritta/",
-          "published_at": "2026-05-12T14:23:23Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ilconcorsopubblico.it/prova-abilitazione-guida-turistica-2026/",
-          "title": "Prova Abilitazione Guida Turistica 2026: pubblicato il nuovo bando!",
-          "source": "Il Concorso Pubblico",
-          "url": "https://www.ilconcorsopubblico.it/prova-abilitazione-guida-turistica-2026/",
-          "published_at": "2026-04-30T13:02:47Z",
-          "last_seen_at": "2026-07-15T07:38:59Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-esami-a-29-posti-assistente_313.html",
-          "title": "Concorso pubblico per esami a 29 posti assistente ai servizi",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-esami-a-29-posti-assistente_313.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-l-assunzione-di-n-1-funziona_312.html",
-          "title": "Concorso pubblico per l'assunzione di n. 1 funzionario informatico",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-l-assunzione-di-n-1-funziona_312.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-titoli-ed-esami-per-l-assunz_316.html",
-          "title": "Concorso pubblico, per titoli ed esami, per l’assunzione a tempo indeterminato di 1.695 unità di personale da inquadrare nell’Area dei funzionari, famiglia professionale Funzionario progettazione, erogazione e controllo dei servizi, nei ruoli del personale dell’INPS",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-titoli-ed-esami-per-l-assunz_316.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2025.12.concorso-pubblico-per-titoli-ed-esami-per-l-assunz_307.html",
-          "title": "Concorso pubblico, per titoli ed esami, per l’assunzione a tempo indeterminato di 88 unità di personale da inquadrare nei ruoli del personale dell’INPS, Area dei funzionari, famiglia professionale funzionario informatico.",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2025.12.concorso-pubblico-per-titoli-ed-esami-per-l-assunz_307.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-titoli-ed-esami-per-l-assunz_314.html",
-          "title": "Concorso pubblico, per titoli ed esami, per l’assunzione a tempo indeterminato di un professionista statistico-attuariale di I livello nei ruoli del personale dell’INPS.",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.06.concorso-pubblico-per-titoli-ed-esami-per-l-assunz_314.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2025.12.procedura-di-mobilita-nei-ruoli-dell-inps-ai-sensi_304.html",
-          "title": "Procedura di mobilità nei ruoli dell’INPS ai sensi dell’articolo 30, comma 1, del decreto legislativo 30 marzo 2001, n. 165 e successive modificazioni, per la copertura di n. 738 posti nell’Area Funzionari, famiglia professionale “Funzionario progettazione erogazione e controllo dei servizi” da destinare alle Direzioni regionali Abruzzo, Calabria, Campania, Emilia Romagna, Lazio, Liguria, Lombardia, Piemonte, Puglia, Sardegna, Sicilia, Toscana, Trentino Alto Adige per la Direzione provinciale di Trento, Valle D’Aosta, Veneto, alle Direzioni di Coordinamento metropolitano di Milano, Napoli e Roma e alla Direzione generale con riferimento alle Direzioni centrali Relazioni internazionali, Risorse strumentali e centrale unica acquisti, Bilanci contabilità e servizi fiscali, Pianificazione e controllo di gestione.",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2025.12.procedura-di-mobilita-nei-ruoli-dell-inps-ai-sensi_304.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
-        },
-        {
-          "dedupe_id": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.01.concorso-pubblico-su-base-territoriale-per-titoli_310.html",
-          "title": "“Concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di n. 3.997 unità di personale non dirigenziale, a tempo pieno e indeterminato – diverse Amministrazioni” – Reclutamento di 949 unità di personale da inquadrare nell’Area degli assistenti, famiglia professionale assistente ai servizi nei ruoli del personale Inps - Convenzione tra Formez PA e INPS.",
-          "source": "INPS — Concorsi e Mobilità",
-          "url": "https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-concorsi/dettaglio.bandi-fatturazione-concorsi.2026.01.concorso-pubblico-su-base-territoriale-per-titoli_310.html",
-          "published_at": null,
-          "last_seen_at": "2026-07-15T08:24:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Tutta Italia"
         }
       ]
     },
@@ -3451,7 +3071,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3461,7 +3081,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/08/10/proroga-esoneri-tutor-31-dicembre-2026/",
           "published_at": "2026-08-10T09:44:15Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3471,7 +3091,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/08/05/avviso-cambio-sede-convocazione-per-la-selezione-di-un-docente-per-la-costituzione-delle-equipe-formative/",
           "published_at": "2026-08-05T13:07:58Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3481,7 +3101,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/avviso-guasto-telefonico/",
           "published_at": "2026-08-03T08:38:49Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3501,7 +3121,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3511,7 +3131,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3541,7 +3161,7 @@
           "source": "IC Octavia (Roma)",
           "url": "https://www.icoctavia.edu.it/2026/07/01/avviso-acquisizione-della-disponibilita-a-svolgere-ore-aggiuntive-oltre-lorario-dobbligo-fino-a-6-ore-settimanali-a-s-2026-2027-nota-mim-prot-n-16054-del-19/",
           "published_at": "2026-07-01T09:55:04Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3561,7 +3181,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3571,7 +3191,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-08-14T07:15:20Z",
+          "last_seen_at": "2026-08-15T06:26:58Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3723,7 +3343,7 @@
       "source_label": "IC Via Aretusa (Roma)",
       "status": "error",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7fadb6c90510>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7f1a0bae0990>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -3754,7 +3374,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 12,
+      "item_count": 13,
       "error_detail": null
     },
     {
@@ -3778,7 +3398,7 @@
       "search_name": "Comunicazione PA e Ufficio Stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 1,
       "error_detail": null
     },
     {
