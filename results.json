@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T06:34:35Z",
+  "generated_at": "2026-08-21T06:31:29Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,82 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/europa-usa-si-arena-laccordo-sui-dati-gli-effetti-sulle-strategie-sovrane/",
+          "title": "Europa-Usa, si arena l’accordo sui dati: gli effetti sulle strategie “sovrane”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/europa-usa-si-arena-laccordo-sui-dati-gli-effetti-sulle-strategie-sovrane/",
+          "published_at": "2026-08-21T06:00:00Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/5g/5g-ue-al-top-su-infrastruttura-e-reti-private-ma-solo-standalone-e-investimenti-garantiranno-la-monetizzazione/",
+          "title": "5G, UE al top su infrastruttura e reti private. Ma solo Standalone e investimenti garantiranno la monetizzazione",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/5g/5g-ue-al-top-su-infrastruttura-e-reti-private-ma-solo-standalone-e-investimenti-garantiranno-la-monetizzazione/",
+          "published_at": "2026-08-20T09:25:39Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-bruxelles-punta-su-ricerca-e-sandbox-per-ridurre-le-dipendenze/",
+          "title": "Sovranità digitale, Bruxelles punta su ricerca e sandbox per ridurre le dipendenze",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-bruxelles-punta-su-ricerca-e-sandbox-per-ridurre-le-dipendenze/",
+          "published_at": "2026-08-20T09:21:16Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/cyber-security/sicurezza-digitale-la-partita-si-sposta-oltre-gli-sms-otp/",
+          "title": "Sicurezza digitale, la partita si sposta oltre gli Sms Otp",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/cyber-security/sicurezza-digitale-la-partita-si-sposta-oltre-gli-sms-otp/",
+          "published_at": "2026-08-20T09:14:32Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/boom-dei-satelliti-leo-necessarie-nuove-regole-internazionali-di-convivenza-tra-tlc-e-astronomia/",
+          "title": "Boom dei satelliti Leo, necessarie nuove regole internazionali di convivenza tra Tlc e astronomia",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/boom-dei-satelliti-leo-necessarie-nuove-regole-internazionali-di-convivenza-tra-tlc-e-astronomia/",
+          "published_at": "2026-08-20T09:05:18Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/5g/5g-ecco-come-lai-ridefinisce-il-concetto-di-rete-ad-alte-prestazioni/",
+          "title": "5G, ecco come l’AI ridefinisce il concetto di rete ad alte prestazioni",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/5g/5g-ecco-come-lai-ridefinisce-il-concetto-di-rete-ad-alte-prestazioni/",
+          "published_at": "2026-08-20T09:03:53Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/mazzarino-testimonial-dei-giochi-del-mediterraneo/",
+          "title": "Mazzarino testimonial dei Giochi del Mediterraneo",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/mazzarino-testimonial-dei-giochi-del-mediterraneo/",
+          "published_at": "2026-08-20T07:39:41Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/usa-da-300-giorni-in-carcere-senza-cure-mediche/",
           "title": "Usa: da 300 giorni in carcere senza cure mediche",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/usa-da-300-giorni-in-carcere-senza-cure-mediche/",
           "published_at": "2026-08-19T14:56:13Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/space-economy/data-center-orbitali-via-alla-rivoluzione-anzi-no/",
           "published_at": "2026-08-19T09:37:00Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/space-economy/tlc-spaziali-litu-accelera-sugli-standard-per-le-reti-lunari/",
           "published_at": "2026-08-19T08:00:00Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/software-defined-radio-mercato-verso-368-miliardi-difesa-ai-e-droni-spingono-la-crescita/",
           "published_at": "2026-08-19T07:34:00Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/smart-city/citta-resilienti-la-smart-city-non-basta-piu-dati-ai-e-cybersecurity-diventano-infrastrutture-critiche/",
           "published_at": "2026-08-19T07:00:00Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +143,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/aldo-grasso-se-chi-fa-inchieste-perde-la-credibilita/",
           "published_at": "2026-08-18T19:22:21Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/meeting-di-rimini-e-agenzia-nova-per-i-media-arabi/",
           "published_at": "2026-08-18T11:29:51Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/pasquale-motta-avvisato-di-guardarsi-alle-spalle/",
           "published_at": "2026-08-17T15:48:00Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +253,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/truffe-attenti-ai-falsi-messaggi-inps/",
           "published_at": "2026-08-17T09:06:47Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -273,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/liscrizione-allodg-non-e-un-titolo-preferenziale/",
           "published_at": "2026-08-16T11:05:27Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -283,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-giornalismo-culturale-2026/",
           "published_at": "2026-08-15T18:07:41Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +363,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/land-art-al-furlo-la-cultura-qui-e-di-casa/",
           "published_at": "2026-08-15T10:53:12Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/figec-ingiusto-attacco-ad-emiliano-morrone/",
           "published_at": "2026-08-14T07:52:15Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -373,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/bufala-sul-calciomercato-arrestato-giornalista/",
           "published_at": "2026-08-13T12:18:02Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +543,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lavitola-sono-il-mandante-per-il-bene-di-ranucci/",
           "published_at": "2026-08-12T18:00:03Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -563,7 +633,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/manuela-nicolosi-la-visionaria-dellimpossibile/",
           "published_at": "2026-08-11T16:17:22Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -673,7 +743,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/comune-di-soresina-cerca-direttore-responsabile/",
           "published_at": "2026-08-10T20:32:55Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2468,46 +2538,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/pa-digitale/banda-ultralarga-unidata-porta-la-fibra-nelle-aree-del-sisma-2016-contratto-infratel-da-25-milioni/",
-          "title": "Banda ultralarga, Unidata porta la fibra nelle aree del sisma 2016: contratto Infratel da 2,5 milioni",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/pa-digitale/banda-ultralarga-unidata-porta-la-fibra-nelle-aree-del-sisma-2016-contratto-infratel-da-25-milioni/",
-          "published_at": "2026-07-21T08:02:05Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/tariffe-luce-convenienti-ultimi-giorni-luglio-2026/",
-          "title": "Le 5 tariffe luce più convenienti: ultimi giorni luglio 2026",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/tariffe-luce-convenienti-ultimi-giorni-luglio-2026/",
-          "published_at": "2026-07-21T07:54:54Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/offerte-telefonia-mobile-ultimi-giorni-luglio-2026/",
-          "title": "Offerte telefonia mobile luglio 2026: confronto tra Iliad, Very Mobile, Kena Mobile, ho.mobile",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/offerte-telefonia-mobile-ultimi-giorni-luglio-2026/",
-          "published_at": "2026-07-21T07:39:14Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/sovranita-digitale-morabito-il-dato-in-italia-non-basta-la-vera-partita-e-il-controllo/",
-          "title": "Sovranità digitale, Morabito: “Il dato in Italia non basta: la vera partita è il controllo”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/sovranita-digitale-morabito-il-dato-in-italia-non-basta-la-vera-partita-e-il-controllo/",
-          "published_at": "2026-07-21T07:31:30Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/morto-improvvisamente-daniele-compatangelo/",
           "title": "Morto improvvisamente Daniele Compatangelo",
           "source": "Giornalisti Italia",
@@ -2548,72 +2578,12 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fibercop-appello-degli-operatori-ad-agcom-rigetti-i-nuovi-listini/",
-          "title": "FiberCop, appello degli operatori ad Agcom: “Rigetti i nuovi listini”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/fibercop-appello-degli-operatori-ad-agcom-rigetti-i-nuovi-listini/",
-          "published_at": "2026-07-20T13:45:05Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/europa/sovranita-digitale-la-sfida-europea-piu-industria-senza-chiudere-il-mercato/",
-          "title": "Sovranità digitale, la sfida europea: più industria senza chiudere il mercato",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/europa/sovranita-digitale-la-sfida-europea-piu-industria-senza-chiudere-il-mercato/",
-          "published_at": "2026-07-20T13:22:13Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/europa/ai-act-ecco-le-linee-guida-ue-sulla-trasparenza-cosa-cambia-per-chatbot-deepfake-e-contenuti-generati-dallai/",
-          "title": "AI Act, ecco le linee guida Ue sulla trasparenza: cosa cambia per chatbot, deepfake e contenuti generati dall’AI",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/europa/ai-act-ecco-le-linee-guida-ue-sulla-trasparenza-cosa-cambia-per-chatbot-deepfake-e-contenuti-generati-dallai/",
-          "published_at": "2026-07-20T12:35:44Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-e-demografia-rimodellano-il-mercato-del-lavoro/",
-          "title": "Intelligenza artificiale e demografia rimodellano il mercato del lavoro",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-e-demografia-rimodellano-il-mercato-del-lavoro/",
-          "published_at": "2026-07-20T11:36:18Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/provincia-di-modena-cerca-addetto-stampa/",
           "title": "Provincia di Modena cerca addetto stampa",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/provincia-di-modena-cerca-addetto-stampa/",
           "published_at": "2026-07-20T10:34:29Z",
           "last_seen_at": "2026-07-24T08:14:47Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/di-labio-il-satellite-non-sostituira-le-reti-terrestri-ma-ne-riscrivera-leconomia/",
-          "title": "Di Labio: “Il satellite non sostituirà le reti terrestri, ma ne riscriverà l’economia”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/di-labio-il-satellite-non-sostituira-le-reti-terrestri-ma-ne-riscrivera-leconomia/",
-          "published_at": "2026-07-20T09:59:47Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/il-credito-accende-i-motori-lequity-porta-la-filiera-in-orbita/",
-          "title": "Il credito accende i motori. L’equity porta la filiera in orbita",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/il-credito-accende-i-motori-lequity-porta-la-filiera-in-orbita/",
-          "published_at": "2026-07-20T09:51:50Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2686,36 +2656,6 @@
           "last_seen_at": "2026-07-22T08:11:00Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/vero-bella-e-le-nuove-esperienze/",
-          "title": "Vero Bella e Le nuove esperienze",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/vero-bella-e-le-nuove-esperienze/",
-          "published_at": "2026-07-16T07:18:05Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/il-premiolino-ecco-i-vincitori-della-66a-edizione/",
-          "title": "Il Premiolino: ecco i vincitori della 66ª edizione",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/il-premiolino-ecco-i-vincitori-della-66a-edizione/",
-          "published_at": "2026-07-15T16:45:08Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/comune-di-fermo-cerca-portavoce-del-sindaco/",
-          "title": "Comune di Fermo cerca portavoce del Sindaco",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/comune-di-fermo-cerca-portavoce-del-sindaco/",
-          "published_at": "2026-07-15T13:23:10Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2729,7 +2669,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/liscrizione-allodg-non-e-un-titolo-preferenziale/",
           "published_at": "2026-08-16T11:05:27Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -2739,7 +2679,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/figec-ingiusto-attacco-ad-emiliano-morrone/",
           "published_at": "2026-08-14T07:52:15Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -2774,6 +2714,16 @@
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/08/20/ripartizione-dotazione-organica-irc-usr-lazio-a-s-2026-27/",
+          "title": "Ripartizione dotazione organica IRC USR Lazio – a.s. 2026/27",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/08/20/ripartizione-dotazione-organica-irc-usr-lazio-a-s-2026-27/",
+          "published_at": "2026-08-20T12:42:24Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
         {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/08/12/immissione-nei-ruoli-della-dirigenza-scolastica-del-lazio-a-s-2026-2027/",
           "title": "Immissione nei ruoli della Dirigenza Scolastica del Lazio a.s. 2026-2027",
@@ -2893,16 +2843,6 @@
           "last_seen_at": "2026-07-23T08:14:25Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/avviso-parziale-rettifica-gm-residue-2026_a017-gm22_usr-lazio/",
-          "title": "Avviso parziale rettifica GM residue 2026_A017 GM22_USR Lazio",
-          "source": "USR Lazio",
-          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/avviso-parziale-rettifica-gm-residue-2026_a017-gm22_usr-lazio/",
-          "published_at": "2026-07-17T13:03:47Z",
-          "last_seen_at": "2026-07-21T08:10:41Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
         }
       ]
     },
@@ -2921,7 +2861,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2931,7 +2871,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2961,7 +2901,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/avviso-guasto-telefonico/",
           "published_at": "2026-08-03T08:38:49Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2981,7 +2921,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2991,7 +2931,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3021,7 +2961,7 @@
           "source": "IC Octavia (Roma)",
           "url": "https://www.icoctavia.edu.it/2026/07/01/avviso-acquisizione-della-disponibilita-a-svolgere-ore-aggiuntive-oltre-lorario-dobbligo-fino-a-6-ore-settimanali-a-s-2026-2027-nota-mim-prot-n-16054-del-19/",
           "published_at": "2026-07-01T09:55:04Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3031,7 +2971,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/06/12/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu-2/",
           "published_at": "2026-06-12T08:58:35Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3041,7 +2981,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/05/29/indicazioni-per-lapertura-delle-funzioni-per-i-questionari-relativi-al-monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-indicazioni-per-la-loro-somministrazione-ai-docenti-tu/",
           "published_at": "2026-05-29T06:07:50Z",
-          "last_seen_at": "2026-08-20T06:34:35Z",
+          "last_seen_at": "2026-08-21T06:31:29Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         }
@@ -3158,7 +3098,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3181,9 +3121,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Via Aretusa (Roma)",
-      "status": "error",
+      "status": "ok",
       "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): HTTP error fetching 'https://www.icaretusa.edu.it/feed/': HTTPSConnectionPool(host='www.icaretusa.edu.it', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icaretusa.edu.it', port=443) at 0x7f5d6eaf5190>, 'Connection to www.icaretusa.edu.it timed out. (connect timeout=30.0)'))"
+      "error_detail": null
     },
     {
       "search_id": "pnrr_orientamento",
@@ -3206,7 +3146,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 1,
       "error_detail": null
     },
     {
