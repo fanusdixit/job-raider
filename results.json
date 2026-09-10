@@ -1,12 +1,112 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T10:27:41Z",
+  "generated_at": "2026-09-10T10:18:33Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/il-sud-laboratorio-delle-reti-del-futuro-in-campo-fibercop/",
+          "title": "Il Sud laboratorio delle reti del futuro: in campo Fibercop",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/il-sud-laboratorio-delle-reti-del-futuro-in-campo-fibercop/",
+          "published_at": "2026-09-10T10:01:42Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/serie-a-enilive-dazn-2029-come-abbonarsi/",
+          "title": "Serie A Enilive su DAZN fino al 2029. come abbonarsi: piani e modelli di pricing",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/serie-a-enilive-dazn-2029-come-abbonarsi/",
+          "published_at": "2026-09-10T08:57:25Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/reti-ottiche-piu-intelligenti-nokia-e-orange-sperimentano-il-monitoraggio-avanzato/",
+          "title": "Reti ottiche più intelligenti, Nokia e Orange sperimentano il monitoraggio avanzato",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/reti-ottiche-piu-intelligenti-nokia-e-orange-sperimentano-il-monitoraggio-avanzato/",
+          "published_at": "2026-09-10T08:06:58Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/cooperazione-spaziale-italia-francia-due-accordi-su-ai-e-comunicazioni-ottiche/",
+          "title": "Cooperazione spaziale Italia-Francia, due accordi su AI e comunicazioni ottiche",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/cooperazione-spaziale-italia-francia-due-accordi-su-ai-e-comunicazioni-ottiche/",
+          "published_at": "2026-09-09T14:50:15Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/quantum-dallasse-con-gli-usa-nuove-opportunita-per-le-imprese-italiane/",
+          "title": "Quantum, dall’asse con gli Usa nuove opportunità per le imprese italiane",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/quantum-dallasse-con-gli-usa-nuove-opportunita-per-le-imprese-italiane/",
+          "published_at": "2026-09-09T14:31:17Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/qualita-delle-reti-mobili-vodafone-al-vertice-windtre-avanza-sullonda-del-5g/",
+          "title": "Qualità delle reti mobili, Vodafone al vertice. WindTre avanza sull’onda del 5G",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/qualita-delle-reti-mobili-vodafone-al-vertice-windtre-avanza-sullonda-del-5g/",
+          "published_at": "2026-09-09T14:01:26Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-sovrana-almaviva-lancia-almawave-labs/",
+          "title": "Intelligenza artificiale sovrana, Almaviva lancia Almawave Labs",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/intelligenza-artificiale-sovrana-almaviva-lancia-almawave-labs/",
+          "published_at": "2026-09-09T12:19:13Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/google-investe-in-finlandia-13-miliardi-per-data-center-e-ai/",
+          "title": "Google investe in Finlandia: 13 miliardi per data center e AI",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/google-investe-in-finlandia-13-miliardi-per-data-center-e-ai/",
+          "published_at": "2026-09-09T11:51:39Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/space-economy-italia-tra-i-protagonisti-globali-8-miliardi-di-fatturato/",
+          "title": "Space economy, Italia tra i protagonisti globali: 8 miliardi di fatturato",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/space-economy-italia-tra-i-protagonisti-globali-8-miliardi-di-fatturato/",
+          "published_at": "2026-09-09T11:01:32Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/anitec-assinform-entra-in-audicom-le-piattaforme-digitali-aprono-una-nuova-fase/",
+          "title": "Anitec-Assinform entra in Audicom: le piattaforme digitali aprono una nuova fase",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/anitec-assinform-entra-in-audicom-le-piattaforme-digitali-aprono-una-nuova-fase/",
+          "published_at": "2026-09-09T11:00:51Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/aerospazio-intesa-sanpaolo-porta-12-pmi-italiane-in-silicon-valley/",
           "title": "Aerospazio, Intesa Sanpaolo porta 12 Pmi italiane in Silicon Valley",
@@ -33,7 +133,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/grandi-manovre-alla-tgr-rai-di-roberto-pacchetti/",
           "published_at": "2026-09-09T05:30:33Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +143,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/nuovo-portavoce-del-sindaco-di-reggio-calabria/",
           "published_at": "2026-09-09T00:18:49Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/concreto-aiuto-dei-giornalisti-crotonesi-alla-caritas/",
           "published_at": "2026-09-08T17:37:17Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +163,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-con-la-sta-si-rafforza-in-europa-centrale/",
           "published_at": "2026-09-08T14:19:45Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +203,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/civitavecchia-autorita-portuale-cerca-giornalista/",
           "published_at": "2026-09-08T12:00:35Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +293,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tgr-rai-campania-a-guido-pocobelli-ragosta/",
           "published_at": "2026-09-07T10:26:34Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +393,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vero-bella-rimandati-a-settembre/",
           "published_at": "2026-09-06T21:33:23Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -303,7 +403,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-tonio-licordari-a-italo-cucci/",
           "published_at": "2026-09-05T10:39:18Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/report-riparte-con-piervincenzi-e-di-pasquale/",
           "published_at": "2026-09-04T15:47:40Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/luva-non-solo-vino-ce-anche-la-grappa/",
           "published_at": "2026-09-04T10:17:29Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -423,7 +523,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-fabio-mussi-fedele-ai-valori-della-sinistra/",
           "published_at": "2026-09-03T17:52:30Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -443,7 +543,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-andrea-angeli-giornalista-ex-funzionario-onu/",
           "published_at": "2026-09-03T11:09:11Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2108,96 +2208,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/agenzia-spaziale-italiana-mario-cospito-nominato-commissario-straordinario/",
-          "title": "Agenzia Spaziale Italiana, Mario Cospito nominato commissario straordinario",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/agenzia-spaziale-italiana-mario-cospito-nominato-commissario-straordinario/",
-          "published_at": "2026-08-10T12:50:06Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/lai-fa-impennare-il-costo-dei-chip-e-il-conto-arriva-a-imprese-e-consumatori/",
-          "title": "L’AI fa impennare il costo dei chip e il conto arriva a imprese e consumatori",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/lai-fa-impennare-il-costo-dei-chip-e-il-conto-arriva-a-imprese-e-consumatori/",
-          "published_at": "2026-08-10T12:40:39Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/zuckerberg-nellera-della-superintelligenza-il-potere-deve-restare-nelle-mani-delle-persone/",
-          "title": "Zuckerberg: “Nell’era della superintelligenza il potere deve restare nelle mani delle persone”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/zuckerberg-nellera-della-superintelligenza-il-potere-deve-restare-nelle-mani-delle-persone/",
-          "published_at": "2026-08-10T12:36:23Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/report/dark-data-cosi-il-contact-center-diventa-una-miniera-per-la-customer-experience/",
-          "title": "Dark data, così il contact center diventa una miniera per la customer experience",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/report/dark-data-cosi-il-contact-center-diventa-una-miniera-per-la-customer-experience/",
-          "published_at": "2026-08-10T12:04:12Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/system-integration-oltre-i-ricavi-ai-cloud-e-cybersecurity-cambiano-gli-equilibri-del-mercato-enterprise/",
-          "title": "System integration oltre i ricavi: AI, cloud e cybersecurity cambiano gli equilibri del mercato enterprise",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/system-integration-oltre-i-ricavi-ai-cloud-e-cybersecurity-cambiano-gli-equilibri-del-mercato-enterprise/",
-          "published_at": "2026-08-10T11:58:33Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/internet-in-vacanza-reti-pubbliche-e-falsi-accessi-mettono-a-rischio-i-dati/",
-          "title": "Internet in vacanza, reti pubbliche e falsi accessi mettono a rischio i dati",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/internet-in-vacanza-reti-pubbliche-e-falsi-accessi-mettono-a-rischio-i-dati/",
-          "published_at": "2026-08-10T09:48:28Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/inwit-torri-a-tutela-della-biodiversita-ai-e-iot-a-difesa-di-castelporziano/",
-          "title": "INWIT, torri a tutela della biodiversità: AI e IoT a difesa di Castelporziano",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/inwit-torri-a-tutela-della-biodiversita-ai-e-iot-a-difesa-di-castelporziano/",
-          "published_at": "2026-08-10T09:09:41Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/space-act-e-privacy-il-paradosso-della-sovranita-digitale-nello-spazio/",
-          "title": "Space Act e privacy: il paradosso della sovranità digitale nello Spazio",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/space-act-e-privacy-il-paradosso-della-sovranita-digitale-nello-spazio/",
-          "published_at": "2026-08-10T08:58:31Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/la-partita-del-6g-capone-nella-call-to-action-usa-agli-alleati-leuropa-deve-agire-unita/",
-          "title": "La partita del 6G, Capone: “Nella call to action Usa agli alleati l’Europa deve agire unita”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/la-partita-del-6g-capone-nella-call-to-action-usa-agli-alleati-leuropa-deve-agire-unita/",
-          "published_at": "2026-08-10T08:38:43Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/selezione-rai-per-assumere-34-impiegati/",
           "title": "Selezione Rai per assumere 34 impiegati",
           "source": "Giornalisti Italia",
@@ -2306,26 +2316,6 @@
           "last_seen_at": "2026-08-12T07:11:07Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/diritto-di-cronaca-senza-inquinare-le-indagini/",
-          "title": "Diritto di cronaca senza inquinare le indagini",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/diritto-di-cronaca-senza-inquinare-le-indagini/",
-          "published_at": "2026-08-03T10:24:29Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/farzana-rupa-e-mozammel-babu-rischiano-la-morte/",
-          "title": "Farzana Rupa e Mozammel Babu rischiano la morte",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/farzana-rupa-e-mozammel-babu-rischiano-la-morte/",
-          "published_at": "2026-08-02T19:39:37Z",
-          "last_seen_at": "2026-08-11T06:55:53Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2370,7 +2360,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/09/festival-dei-cinque-colori-piazza-del-popolo-roma-24-26-settembre-2026/",
           "published_at": "2026-09-09T08:19:59Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2437,11 +2427,11 @@
       "items": [
         {
           "dedupe_id": "https://www.liceoterracina.edu.it/pagine/avviso-n-426-27---alle-famiglie",
-          "title": "Avviso n° 4/26-27 - alle famiglie",
+          "title": "Avviso n. 4/26-27 - alle famiglie",
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-426-27---alle-famiglie",
           "published_at": "2026-09-09T00:00:00Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2451,7 +2441,7 @@
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-326-27-agli-utenti",
           "published_at": "2026-09-08T00:00:00Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2491,7 +2481,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2501,7 +2491,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2541,7 +2531,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2551,7 +2541,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2561,7 +2551,7 @@
           "source": "IC Octavia (Roma)",
           "url": "https://www.icoctavia.edu.it/2026/07/01/avviso-acquisizione-della-disponibilita-a-svolgere-ore-aggiuntive-oltre-lorario-dobbligo-fino-a-6-ore-settimanali-a-s-2026-2027-nota-mim-prot-n-16054-del-19/",
           "published_at": "2026-07-01T09:55:04Z",
-          "last_seen_at": "2026-09-09T10:27:41Z",
+          "last_seen_at": "2026-09-10T10:18:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2594,7 +2584,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Orientamento",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 1,
       "error_detail": null
     },
     {
@@ -2610,7 +2600,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Daniele Manin (Roma)",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 1,
       "error_detail": null
     },
     {
