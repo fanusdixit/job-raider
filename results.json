@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T10:20:38Z",
+  "generated_at": "2026-09-21T11:30:57Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,112 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-ai-energivori-la-mossa-degli-usa-elettricita-a-carico-delle-big-tech/",
+          "title": "Data center AI energivori, la mossa degli Usa: elettricità a carico delle big tech",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-ai-energivori-la-mossa-degli-usa-elettricita-a-carico-delle-big-tech/",
+          "published_at": "2026-09-21T11:12:54Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/poste-tim-riapre-lopas-al-prezzo-migliorato-197-euro-cash-obiettivo-delisting-e-integrazione-della-telco/",
+          "title": "Poste-Tim, riapre l’Opas al prezzo migliorato 1,97 euro cash: si punta al 90% del capitale",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/poste-tim-riapre-lopas-al-prezzo-migliorato-197-euro-cash-obiettivo-delisting-e-integrazione-della-telco/",
+          "published_at": "2026-09-21T10:30:22Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/iliad-regina-del-customer-service-doppio-primato-nel-fisso-e-nel-mobile/",
+          "title": "Iliad “regina” del customer service: doppio primato nel fisso e nel mobile",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/iliad-regina-del-customer-service-doppio-primato-nel-fisso-e-nel-mobile/",
+          "published_at": "2026-09-21T09:20:30Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-lai-per-la-difesa-apre-un-nuovo-fronte-per-leuropa/",
+          "title": "Sovranità digitale, l’AI per la Difesa apre un nuovo fronte per l’Europa",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-lai-per-la-difesa-apre-un-nuovo-fronte-per-leuropa/",
+          "published_at": "2026-09-21T08:57:52Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/pa-digitale/agenti-ai-nella-pa-litu-al-lavoro-sugli-standard-per-identita-e-autorizzazioni/",
+          "title": "Agenti AI nella PA, l’ITU al lavoro sugli standard per identità e autorizzazioni",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/pa-digitale/agenti-ai-nella-pa-litu-al-lavoro-sugli-standard-per-identita-e-autorizzazioni/",
+          "published_at": "2026-09-21T07:43:00Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-storage-enterprise-leva-strategica-per-ridurre-i-costi/",
+          "title": "Data center, storage enterprise leva strategica per ridurre i costi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-storage-enterprise-leva-strategica-per-ridurre-i-costi/",
+          "published_at": "2026-09-21T07:35:00Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/direct-carrier-billing-schurig-telefonica-germany-le-regole-aprono-spazio-ora-servono-fiducia-e-integrazione/",
+          "title": "Direct carrier billing, Schurig (Telefónica Germany): “Le regole aprono spazio. Ora servono fiducia e integrazione”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/direct-carrier-billing-schurig-telefonica-germany-le-regole-aprono-spazio-ora-servono-fiducia-e-integrazione/",
+          "published_at": "2026-09-21T07:00:00Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/lai-rilancia-ledge-computing-per-le-telco-la-partita-si-gioca-nelle-reti-metropolitane/",
+          "title": "L’AI rilancia l’edge computing: per le telco la partita si gioca nelle reti metropolitane",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/lai-rilancia-ledge-computing-per-le-telco-la-partita-si-gioca-nelle-reti-metropolitane/",
+          "published_at": "2026-09-21T06:30:00Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/new-york-a-carlo-parisi-il-premio-bronzi-di-riace/",
+          "title": "New York: a Carlo Parisi il Premio “Bronzi di Riace”",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/new-york-a-carlo-parisi-il-premio-bronzi-di-riace/",
+          "published_at": "2026-09-20T19:52:57Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-massimo-righetto-pioniere-delle-radio/",
+          "title": "Addio Massimo Righetto pioniere delle radio",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-massimo-righetto-pioniere-delle-radio/",
+          "published_at": "2026-09-19T19:31:56Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/materie-prime-critiche-dipendenza-ue-vicina-al-100-i-rischi-per-le-tlc/",
           "title": "Materie prime critiche, dipendenza Ue vicina al 100%: i rischi per le Tlc",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/materie-prime-critiche-dipendenza-ue-vicina-al-100-i-rischi-per-le-tlc/",
           "published_at": "2026-09-18T12:17:21Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/exa-meridian-nuova-dorsale-da-oltre-500-tbps-tra-usa-e-regno-unito/",
           "published_at": "2026-09-18T11:17:26Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +203,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/a-sanja-lucic-il-premio-milano-dal-mondo-2026/",
           "published_at": "2026-09-18T05:08:38Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/caso-garlasco-giornalista-de-giuseppe-a-processo/",
           "published_at": "2026-09-17T22:48:55Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/un-ponte-tra-la-comunita-di-new-york-e-la-calabria/",
           "published_at": "2026-09-17T19:33:36Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +233,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/agenzia-dire-mario-sechi-nuovo-direttore/",
           "published_at": "2026-09-17T17:53:47Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/new-york-premia-il-talento-italiano-nel-mondo/",
           "published_at": "2026-09-17T12:16:47Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-al-misurata-energy-business-summit/",
           "published_at": "2026-09-16T19:43:10Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -253,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/inpgi-comunicazione-redditi-entro-il-30-settembre-2/",
           "published_at": "2026-09-16T13:11:32Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -363,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/figec-ragusa-al-fianco-di-mariacarmela-torchi/",
           "published_at": "2026-09-15T14:15:59Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -383,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/marrapodi-ed-errigo-ambasciatori-dei-bronzi-di-riace/",
           "published_at": "2026-09-15T10:47:32Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +563,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/fano-incontra-adriano-gamberini-da-pesaro/",
           "published_at": "2026-09-14T19:16:54Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-lucia-pippi/",
           "published_at": "2026-09-14T14:49:44Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -573,7 +673,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/universita-di-napoli-cerca-comunicatore/",
           "published_at": "2026-09-13T11:19:19Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2346,16 +2446,6 @@
           "last_seen_at": "2026-08-23T06:26:10Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/lavitola-sono-il-mandante-per-il-bene-di-ranucci/",
-          "title": "Lavitola: “Sono il mandante per il bene di Ranucci”",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/lavitola-sono-il-mandante-per-il-bene-di-ranucci/",
-          "published_at": "2026-08-12T18:00:03Z",
-          "last_seen_at": "2026-08-22T06:24:25Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2394,6 +2484,36 @@
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/21/dodicesima-edizione-del-concorso-nazionale-premio-giovanni-grillo-dal-titolo-crescere-in-pace-dallart-30-della-costituzione-agli-internati-militari-italiani/",
+          "title": "Dodicesima edizione del Concorso nazionale “Premio Giovanni Grillo” dal titolo “Crescere in pace: dall’Art. 30 della Costituzione agli Internati Militari Italiani”A.S. 2026/2027",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/21/dodicesima-edizione-del-concorso-nazionale-premio-giovanni-grillo-dal-titolo-crescere-in-pace-dallart-30-della-costituzione-agli-internati-militari-italiani/",
+          "published_at": "2026-09-21T05:50:50Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/21/57a-giornata-mondiale-della-terra-roma-villa-borghese-15-18-aprile-2027-eventi-dedicati-alle-istituzioni-scolastiche-del-primo-e-del-secondo-ciclo-di-istruzione/",
+          "title": "57ª Giornata mondiale della Terra. Roma, Villa Borghese 15-18 Aprile 2027. Eventi dedicati alle Istituzioni scolastiche del primo e del secondo ciclo di istruzione",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/21/57a-giornata-mondiale-della-terra-roma-villa-borghese-15-18-aprile-2027-eventi-dedicati-alle-istituzioni-scolastiche-del-primo-e-del-secondo-ciclo-di-istruzione/",
+          "published_at": "2026-09-21T05:46:41Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/21/concorso-didattico-nazionale-cerchiamo-scienziate-nellambito-del-progetto-le-donne-fanno-scienza/",
+          "title": "Concorso didattico nazionale “#Cerchiamo scienziate” nell’ambito del progetto “Le donne fanno scienza”",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/21/concorso-didattico-nazionale-cerchiamo-scienziate-nellambito-del-progetto-le-donne-fanno-scienza/",
+          "published_at": "2026-09-21T05:44:14Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
         {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/18/scorrimento-gm26-ac56-ddg-2939-2025-regione-emilia-romagna/",
           "title": "Scorrimento GM26 AC56 – DDG 2939/2025 – Regione Emilia Romagna",
@@ -2491,7 +2611,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/18/decreto-di-nomina-tutor-ds-neoassunti-2026-27/",
           "published_at": "2026-09-18T14:46:34Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2501,7 +2621,7 @@
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-7---alla-comunit-scolastica-ris-al-personale-per-le-famiglie-vedere-re",
           "published_at": "2026-09-18T00:00:00Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2511,7 +2631,7 @@
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-826-27---agli-utenti-",
           "published_at": "2026-09-18T00:00:00Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2521,7 +2641,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2531,7 +2651,7 @@
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-6---agli-utenti",
           "published_at": "2026-09-17T00:00:00Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2571,7 +2691,7 @@
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
           "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-326-27-agli-utenti",
           "published_at": "2026-09-08T00:00:00Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2611,7 +2731,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2621,7 +2741,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2641,7 +2761,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2651,7 +2771,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-09-20T10:20:38Z",
+          "last_seen_at": "2026-09-21T11:30:57Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2774,7 +2894,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Octavia (Roma)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -2846,7 +2966,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 3,
       "error_detail": null
     },
     {
