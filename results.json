@@ -1,12 +1,132 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T11:51:25Z",
+  "generated_at": "2026-09-30T11:38:15Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/tim-business-full-fibra-promo-3-mesi-gratis-scadenza-30-settembre/",
+          "title": "TIM Business, ultime ore per la Fibra gratis per 3 mesi: la promozione B2B scade oggi 30 settembre",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/tim-business-full-fibra-promo-3-mesi-gratis-scadenza-30-settembre/",
+          "published_at": "2026-09-30T10:46:45Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/frequenze/spettro-radio-lallarme-dellitu-proteggere-le-frequenze-per-meteo-e-clima/",
+          "title": "Spettro radio, l’allarme dell’Itu: “Proteggere le frequenze per meteo e clima”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/frequenze/spettro-radio-lallarme-dellitu-proteggere-le-frequenze-per-meteo-e-clima/",
+          "published_at": "2026-09-30T10:07:41Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-andrea-tempestini/",
+          "title": "Addio al giornalista Andrea Tempestini",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-al-giornalista-andrea-tempestini/",
+          "published_at": "2026-09-30T09:32:15Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/amazon-music-unlimited-promo-gratuita-4-mesi-scadenza-9-ottobre/",
+          "title": "Corsa alle promozioni: Amazon Music Unlimited è in prova gratuita per 4 mesi fino al 9 ottobre",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/amazon-music-unlimited-promo-gratuita-4-mesi-scadenza-9-ottobre/",
+          "published_at": "2026-09-30T09:31:31Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/call-center-la-crisi-accelera-i-sindacati-chiedono-tutele-contro-limpatto-dellai/",
+          "title": "Call center, la crisi accelera: i sindacati chiedono tutele contro l’impatto dell’AI",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/call-center-la-crisi-accelera-i-sindacati-chiedono-tutele-contro-limpatto-dellai/",
+          "published_at": "2026-09-30T09:29:21Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fibra-ofcom-stoppa-gli-sconti-di-openreach-rischio-per-la-concorrenza/",
+          "title": "Fibra, Ofcom stoppa gli sconti di Openreach: “Rischio per la concorrenza”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/fibra-ofcom-stoppa-gli-sconti-di-openreach-rischio-per-la-concorrenza/",
+          "published_at": "2026-09-30T09:21:23Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/reti-mobili-il-golfo-regge-meglio-i-picchi-di-traffico-europa-in-affanno/",
+          "title": "Reti mobili, il Golfo regge meglio i picchi di traffico: Europa in affanno",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/reti-mobili-il-golfo-regge-meglio-i-picchi-di-traffico-europa-in-affanno/",
+          "published_at": "2026-09-30T08:40:28Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/comunicazioni-satellitari-il-boom-apre-nuovi-fronti-per-la-cybersecurity/",
+          "title": "Comunicazioni satellitari in volata: si aprono nuovi fronti per la cybersecurity",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/comunicazioni-satellitari-il-boom-apre-nuovi-fronti-per-la-cybersecurity/",
+          "published_at": "2026-09-30T08:07:00Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/aws-via-libera-della-nato-al-cloud-per-i-dati-restricted/",
+          "title": "AWS, via libera della NATO al cloud per i dati Restricted",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/aws-via-libera-della-nato-al-cloud-per-i-dati-restricted/",
+          "published_at": "2026-09-30T07:44:22Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/verso-il-boom-della-ricerca-sullai-data-center-e-reti-riusciranno-a-tenere-il-passo/",
+          "title": "Verso il boom della ricerca sull’AI: data center e reti riusciranno a tenere il passo?",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/verso-il-boom-della-ricerca-sullai-data-center-e-reti-riusciranno-a-tenere-il-passo/",
+          "published_at": "2026-09-30T07:22:00Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/connettivita-becker-lancia-il-patto-del-mediterraneo-partiamo-dalla-sicilia/",
+          "title": "Connettività, Becker lancia il patto del Mediterraneo: “Partiamo dalla Sicilia”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/connettivita-becker-lancia-il-patto-del-mediterraneo-partiamo-dalla-sicilia/",
+          "published_at": "2026-09-30T06:00:00Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/il-mediterraneo-spazio-comune-di-opportunita/",
+          "title": "Il Mediterraneo spazio comune di opportunità",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/il-mediterraneo-spazio-comune-di-opportunita/",
+          "published_at": "2026-09-29T18:55:30Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/very-mobile-5g-full-speed-200-giga-promo-scadenza-1-ottobre/",
           "title": "Very Mobile accelera sul 5G Full Speed: promo da 200 Giga a 6,99 euro al mese in scadenza il primo ottobre",
@@ -83,7 +203,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ho-imparato-a-dire-no-ma-ce-voluta-una-guerra/",
           "published_at": "2026-09-28T19:57:05Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/informare-durante-gli-eventi-calamitosi/",
           "published_at": "2026-09-28T18:28:59Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -163,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/roma-piattaforma-di-connessione-tra-mercati/",
           "published_at": "2026-09-27T15:39:12Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +293,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-comune-di-vignola-cerca-giornalista/",
           "published_at": "2026-09-27T10:12:13Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/meno-tecnica-piu-fuoco-la-cucina-riscopre-la-brace/",
           "published_at": "2026-09-26T19:42:28Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/dirigente-giornalista-3-risorse-da-non-perdere/",
           "published_at": "2026-09-26T16:37:35Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -203,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/chi-custodisce-luomo-mentre-lia-accelera/",
           "published_at": "2026-09-25T21:21:02Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-parlamento-de-martino-col-vento-in-poppa/",
           "published_at": "2026-09-25T16:04:33Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-elena-pero-voce-del-tennis-di-sky-sport/",
           "published_at": "2026-09-24T21:42:04Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giovan-battista-brunori-scoop-da-premio-pulitzer/",
           "published_at": "2026-09-24T21:01:32Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/nord-est-multimedia-alessandro-barbano-direttore/",
           "published_at": "2026-09-24T18:19:09Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +473,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giornalista-a-partita-iva-condannata-la-rai/",
           "published_at": "2026-09-24T16:34:45Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -443,7 +563,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/morta-jennifer-eckhart-ex-produttrice-di-fox/",
           "published_at": "2026-09-23T21:10:23Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2694,12 +2814,22 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/29/notificazione-per-pubblici-proclami-disposta-con-ordinanza-del-tar-del-lazio-n-4993-2026-reg-prov-cau/",
+          "title": "Notificazione per pubblici proclami disposta con Ordinanza del TAR del Lazio n. 4993/2026 Reg. Prov. Cau",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/29/notificazione-per-pubblici-proclami-disposta-con-ordinanza-del-tar-del-lazio-n-4993-2026-reg-prov-cau/",
+          "published_at": "2026-09-29T12:50:23Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/29/29-settembre-2026-usr-lazio-rafforza-la-proiezione-internazionale-della-scuola-laziale-presentato-il-piano-regionale-etwinning-2026-2027-premiate-le-scuole-di-eccellenza/",
           "title": "29 settembre 2026 – USR Lazio rafforza la proiezione internazionale della scuola laziale. Presentato il Piano regionale eTwinning 2026-2027: premiate le scuole di eccellenza.",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/29/29-settembre-2026-usr-lazio-rafforza-la-proiezione-internazionale-della-scuola-laziale-presentato-il-piano-regionale-etwinning-2026-2027-premiate-le-scuole-di-eccellenza/",
           "published_at": "2026-09-29T10:24:04Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2890,7 +3020,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2980,7 +3110,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2990,7 +3120,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3000,7 +3130,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3010,7 +3140,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-09-29T11:51:25Z",
+          "last_seen_at": "2026-09-30T11:38:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3075,7 +3205,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Leonardo da Vinci — Terracina (ultime news)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3195,7 +3325,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 3,
+      "item_count": 2,
       "error_detail": null
     },
     {
@@ -3203,7 +3333,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 16,
+      "item_count": 15,
       "error_detail": null
     },
     {
