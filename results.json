@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T11:34:15Z",
+  "generated_at": "2026-10-05T13:06:18Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,152 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fastweb-vodafone-entra-nel-piano-voucher-mimit-per-cloud-cybersecurity-e-ai/",
+          "title": "Fastweb + Vodafone entra nel Piano Voucher Mimit per cloud, cybersecurity e AI",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/fastweb-vodafone-entra-nel-piano-voucher-mimit-per-cloud-cybersecurity-e-ai/",
+          "published_at": "2026-10-05T13:04:16Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/droni-e-sistemi-anti-drone-lue-alza-lo-scudo-altri-130-milioni-per-le-frontiere/",
+          "title": "Droni e sistemi anti-drone, l’Ue alza lo scudo: altri 130 milioni per le frontiere",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/droni-e-sistemi-anti-drone-lue-alza-lo-scudo-altri-130-milioni-per-le-frontiere/",
+          "published_at": "2026-10-05T12:14:55Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-agentica-kyndryl-apre-in-lussemburgo-il-suo-primo-laboratorio-ue/",
+          "title": "AI agentica, Kyndryl apre in Lussemburgo il suo primo laboratorio Ue",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-agentica-kyndryl-apre-in-lussemburgo-il-suo-primo-laboratorio-ue/",
+          "published_at": "2026-10-05T11:40:29Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/tp-link-italia-felix-wang-e-il-nuovo-country-manager/",
+          "title": "TP-Link Italia, Felix Wang è il nuovo Country Manager",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/tp-link-italia-felix-wang-e-il-nuovo-country-manager/",
+          "published_at": "2026-10-05T10:40:09Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/tlc-offerte-telefonia-mobile-ottobre-2026/",
+          "title": "TLC mobile, il borsino di ottobre 2026: super Giga e 5G low-cost nella sfida tra brand",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/tlc-offerte-telefonia-mobile-ottobre-2026/",
+          "published_at": "2026-10-05T10:28:01Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/gsma-rinnova-il-board-investimenti-ai-e-sicurezza-al-centro/",
+          "title": "GSMA rinnova il board: investimenti, AI e sicurezza al centro",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/gsma-rinnova-il-board-investimenti-ai-e-sicurezza-al-centro/",
+          "published_at": "2026-10-05T10:06:23Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/sovranita-digitale-genova-in-lizza-per-la-gigafactory-large-dellitalia/",
+          "title": "Sovranità digitale, Genova in lizza per la Gigafactory “large” dell’Italia",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/sovranita-digitale-genova-in-lizza-per-la-gigafactory-large-dellitalia/",
+          "published_at": "2026-10-05T10:01:46Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-sovranita-e-casi-duso-la-sfida-italiana-passa-dal-governo-dei-dati/",
+          "title": "AI, sovranità e casi d’uso: la sfida italiana passa dal governo dei dati",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-sovranita-e-casi-duso-la-sfida-italiana-passa-dal-governo-dei-dati/",
+          "published_at": "2026-10-05T09:31:14Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-il-test-ue-per-affrancarsi-da-microsoft-teams/",
+          "title": "Sovranità digitale, il test Ue per affrancarsi da Microsoft Teams",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-il-test-ue-per-affrancarsi-da-microsoft-teams/",
+          "published_at": "2026-10-05T09:06:31Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/merz-sap-la-sovranita-non-frena-linnovazione-la-rende-sostenibile/",
+          "title": "Merz, SAP: “La sovranità non frena l’innovazione, la rende sostenibile”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/merz-sap-la-sovranita-non-frena-linnovazione-la-rende-sostenibile/",
+          "published_at": "2026-10-05T08:09:42Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/odg-molise-plebiscito-per-vincenzo-cimino/",
+          "title": "Odg Molise: plebiscito per Vincenzo Cimino",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/odg-molise-plebiscito-per-vincenzo-cimino/",
+          "published_at": "2026-10-04T20:01:38Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/la-giustizia-si-faccia-fraternita/",
+          "title": "La giustizia si faccia fraternità",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/la-giustizia-si-faccia-fraternita/",
+          "published_at": "2026-10-04T18:09:02Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/calabria-il-vino-cresce-ma-il-clima-cambia-le-regole/",
+          "title": "Calabria: il vino cresce ma il clima cambia le regole",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/calabria-il-vino-cresce-ma-il-clima-cambia-le-regole/",
+          "published_at": "2026-10-04T16:20:44Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/formazione-giornalisti-a-belvedere-marittimo/",
+          "title": "Formazione Giornalisti a Belvedere Marittimo",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/formazione-giornalisti-a-belvedere-marittimo/",
+          "published_at": "2026-10-04T11:54:32Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/switzerland-literary-prize-a-marcello-foa/",
           "title": "Switzerland Literary Prize a Marcello Foa",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/switzerland-literary-prize-a-marcello-foa/",
           "published_at": "2026-10-03T21:00:30Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +163,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/francesco-resta-la-rivoluzione-piu-radicale/",
           "published_at": "2026-10-03T19:58:47Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +173,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-ponte-unintervista-lunga-quattro-secoli/",
           "published_at": "2026-10-02T19:13:32Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rino-barillari-il-mio-amico-umberto-pizzi/",
           "published_at": "2026-10-02T18:26:59Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/3a-summer-peace-university-a-belvedere-marittimo/",
           "published_at": "2026-10-01T19:41:25Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -153,7 +293,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/nato-cax-forum-per-le-sfide-operative-del-futuro/",
           "published_at": "2026-10-01T14:42:54Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -163,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/nasce-atupu-per-la-tutela-dei-poli-universitari/",
           "published_at": "2026-10-01T11:50:53Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -273,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/un-corrado-alvaro-ritrovato-dedicato-a-san-luca/",
           "published_at": "2026-09-30T14:17:14Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -303,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-andrea-tempestini/",
           "published_at": "2026-09-30T09:32:15Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -393,7 +533,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-mediterraneo-spazio-comune-di-opportunita/",
           "published_at": "2026-09-29T18:55:30Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +613,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ho-imparato-a-dire-no-ma-ce-voluta-una-guerra/",
           "published_at": "2026-09-28T19:57:05Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2526,16 +2666,6 @@
           "last_seen_at": "2026-09-07T11:06:29Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/regione-campania-costituisce-la-redazione-turistica/",
-          "title": "Regione Campania costituisce la redazione turistica",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/regione-campania-costituisce-la-redazione-turistica/",
-          "published_at": "2026-08-31T13:52:49Z",
-          "last_seen_at": "2026-09-05T09:42:20Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2554,7 +2684,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/02/trasmissione-nota-ministero-dellistruzione-e-del-merito-senato-della-repubblica-e-camera-dei-deputati-presentazione-dellofferta-formativa-in-materia-di-educazione-civica/",
           "published_at": "2026-10-02T11:41:18Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "concorsi_comunicazione",
           "search_name": "Concorsi PA — Roma e Lazio"
         }
@@ -2565,12 +2695,22 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/05/decima-edizione-del-concorso-nazionale-bandito-dallassociazione-nazionale-vittime-civili-di-guerra-aps-anvcg-dal-titolo-1946-2026-ottantanni-di-repubblica-dalla-memoria/",
+          "title": "Decima edizione del Concorso nazionale bandito dall’Associazione Nazionale Vittime Civili di Guerra APS (ANVCG) dal titolo: “1946-2026: ottant’anni di Repubblica, dalla memoria alla Democrazia” – A.S. 2026/2027",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/05/decima-edizione-del-concorso-nazionale-bandito-dallassociazione-nazionale-vittime-civili-di-guerra-aps-anvcg-dal-titolo-1946-2026-ottantanni-di-repubblica-dalla-memoria/",
+          "published_at": "2026-10-05T06:15:38Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/02/trasmissione-nota-ministero-dellistruzione-e-del-merito-senato-della-repubblica-e-camera-dei-deputati-presentazione-dellofferta-formativa-in-materia-di-educazione-civica/",
           "title": "Trasmissione nota – Ministero dell’istruzione e del merito, Senato della Repubblica e Camera dei Deputati – Presentazione dell’offerta formativa in materia di Educazione civica – Nucleo concettuale “Costituzione” – Progetti e bandi di concorso A.S. 2026/2027.",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/02/trasmissione-nota-ministero-dellistruzione-e-del-merito-senato-della-repubblica-e-camera-dei-deputati-presentazione-dellofferta-formativa-in-materia-di-educazione-civica/",
           "published_at": "2026-10-02T11:41:18Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2580,7 +2720,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/02/viii-edizione-del-concorso-nazionale-annalisa-durante-adotta-annalisa-a-s-2026-2027/",
           "published_at": "2026-10-02T08:28:24Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2791,7 +2931,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2881,7 +3021,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2891,7 +3031,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2901,7 +3041,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2911,7 +3051,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-10-04T11:34:15Z",
+          "last_seen_at": "2026-10-05T13:06:18Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3096,7 +3236,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 3,
       "error_detail": null
     },
     {
