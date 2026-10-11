@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T11:38:09Z",
+  "generated_at": "2026-10-11T11:51:42Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,22 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.giornalistitalia.it/il-mediterraneo-un-ponte-dacqua-tra-europa-e-africa/",
+          "title": "Il Mediterraneo: un ponte d’acqua tra Europa e Africa",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/il-mediterraneo-un-ponte-dacqua-tra-europa-e-africa/",
+          "published_at": "2026-10-10T20:35:45Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-francesco-tedesco/",
           "title": "Addio al giornalista Francesco Tedesco",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-francesco-tedesco/",
           "published_at": "2026-10-10T01:04:05Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +33,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-tribunale-di-roma-boccia-il-ricorso-di-ranucci/",
           "published_at": "2026-10-09T21:02:28Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +43,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/digital360-awards-2026-a-lazise-linnovazione-alla-prova-dei-risultati/",
           "published_at": "2026-10-09T14:01:38Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +53,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/windtre-aderisce-al-piano-voucher-cloud-e-cybersecurity-del-mimit/",
           "published_at": "2026-10-09T13:43:14Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +63,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/frequenze/frequenze-asstel-il-rinnovo-del-2029-non-sia-unestrazione-di-valore-dagli-operatori/",
           "published_at": "2026-10-09T13:15:17Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +73,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/vertiv-michael-resha-alla-guida-della-produzione-globale/",
           "published_at": "2026-10-09T11:57:58Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +83,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/reti-subacquee-wsense-porta-il-wireless-nel-polo-fincantieri/",
           "published_at": "2026-10-09T11:11:46Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/spacex-compra-frequenze-negli-stati-uniti-starlink-sempre-piu-nel-business-mobile-del-d2d/",
           "published_at": "2026-10-09T10:25:07Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/conto-partita-iva-zero-spese-fatturazione-elettronica-f24/",
           "published_at": "2026-10-09T09:54:17Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/assistenza-clienti-il-ddl-basso-nicita-parlare-con-un-operatore-umano-e-un-diritto/",
           "published_at": "2026-10-09T09:51:12Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/open-fiber-il-cto-grassi-lai-ci-spinge-a-ridisegnare-la-rete-si-va-verso-leconomia-dei-token/",
           "published_at": "2026-10-09T08:51:41Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +133,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-2-il-debutto-di-patu-accende-il-dibattito/",
           "published_at": "2026-10-09T07:09:01Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +143,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/banda-larga-fissa-q3-2026-iliad-primo-operatore-velocita-internet/",
           "published_at": "2026-10-08T13:25:31Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/spu26-il-mediterraneo-crocevia-di-pace/",
           "published_at": "2026-10-08T07:55:42Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -233,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-barbara-spinelli/",
           "published_at": "2026-10-07T17:10:05Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/vero-bella-non-sappiamo-piu-scrivere/",
           "published_at": "2026-10-06T23:05:15Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/limmensa-distrazione-di-marcello-fois/",
           "published_at": "2026-10-06T16:40:42Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +363,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/intimidazione-alla-troupe-rai-de-la-vita-in-diretta/",
           "published_at": "2026-10-06T15:23:31Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/dino-frambati-racconta-una-vita-non-vissuta/",
           "published_at": "2026-10-05T21:12:22Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +473,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/citynews-alla-terza-stagione-di-gamechangers/",
           "published_at": "2026-10-05T18:12:27Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -583,7 +593,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/odg-molise-plebiscito-per-vincenzo-cimino/",
           "published_at": "2026-10-04T20:01:38Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -593,7 +603,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-giustizia-si-faccia-fraternita/",
           "published_at": "2026-10-04T18:09:02Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -603,7 +613,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/calabria-il-vino-cresce-ma-il-clima-cambia-le-regole/",
           "published_at": "2026-10-04T16:20:44Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -613,7 +623,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/formazione-giornalisti-a-belvedere-marittimo/",
           "published_at": "2026-10-04T11:54:32Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2518,16 +2528,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/spazio-urso-italia-decisiva-per-lautonomia-strategica-europea/",
-          "title": "Spazio, Urso: “Italia decisiva per l’autonomia strategica europea”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/spazio-urso-italia-decisiva-per-lautonomia-strategica-europea/",
-          "published_at": "2026-09-10T12:27:08Z",
-          "last_seen_at": "2026-09-11T10:17:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/grandi-manovre-alla-tgr-rai-di-roberto-pacchetti/",
           "title": "Grandi manovre alla Tgr Rai di Roberto Pacchetti",
           "source": "Giornalisti Italia",
@@ -2616,26 +2616,6 @@
           "last_seen_at": "2026-09-12T09:50:52Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/luva-non-solo-vino-ce-anche-la-grappa/",
-          "title": "LUVA: non solo vino c’è anche la grappa",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/luva-non-solo-vino-ce-anche-la-grappa/",
-          "published_at": "2026-09-04T10:17:29Z",
-          "last_seen_at": "2026-09-11T10:17:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/addio-fabio-mussi-fedele-ai-valori-della-sinistra/",
-          "title": "Addio Fabio Mussi fedele ai valori della Sinistra",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/addio-fabio-mussi-fedele-ai-valori-della-sinistra/",
-          "published_at": "2026-09-03T17:52:30Z",
-          "last_seen_at": "2026-09-11T10:17:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2670,7 +2650,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/09/decima-edizione-del-concorso-nazionale-bandito-dallassociazione-nazionale-vittime-civili-di-guerra-aps-anvcg-dal-titolo-1946-2026-ottantanni-di-repubblica-dalla-memoria-alla-democrazia/",
           "published_at": "2026-10-09T06:57:06Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2931,7 +2911,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3001,7 +2981,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3011,7 +2991,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3021,7 +3001,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3031,7 +3011,7 @@
           "source": "USR Lazio — Orientamento",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/07/17/monitoraggio-dei-percorsi-di-formazione-scuola-lavoro-ex-pcto-e-compilazione-dei-questionari-da-parte-dei-docenti-tutor-interni-e-dei-docenti-coordinatore-di-progettazione-proroga-termine/",
           "published_at": "2026-07-17T06:47:58Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
+          "last_seen_at": "2026-10-11T11:51:42Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3086,7 +3066,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Leonardo da Vinci — Terracina (ultime news)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
