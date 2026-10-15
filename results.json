@@ -1,12 +1,142 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T10:54:09Z",
+  "generated_at": "2026-10-15T10:36:37Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fibra-si-fa-strada-lipotesi-dei-voucher-alle-famiglie-per-sbloccare-il-take-up/",
+          "title": "Fibra, si fa strada l’ipotesi dei voucher alle famiglie per sbloccare il take-up",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/fibra-si-fa-strada-lipotesi-dei-voucher-alle-famiglie-per-sbloccare-il-take-up/",
+          "published_at": "2026-10-15T10:14:43Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/voucher-cloud-cybersecurity-tim-fastweb-windtre/",
+          "title": "Voucher cloud e cybersecurity, le big telco in campo a sostegno delle Pmi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/voucher-cloud-cybersecurity-tim-fastweb-windtre/",
+          "published_at": "2026-10-15T09:52:13Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/finance/carte-di-credito-aziendali/",
+          "title": "Carte di credito aziendali: confronto tra le migliori del 2026",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/finance/carte-di-credito-aziendali/",
+          "published_at": "2026-10-15T09:25:31Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/lultimo-giorno-di-fernando-pessoa/",
+          "title": "L’ultimo giorno di Fernando Pessoa",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/lultimo-giorno-di-fernando-pessoa/",
+          "published_at": "2026-10-15T09:22:45Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/pa-digitale/cybersecurity-consip-mette-sul-piatto-oltre-12-miliardi-tre-gare-per-blindare-reti-e-dati-della-pa/",
+          "title": "Cybersecurity, Consip mette sul piatto oltre 1,2 miliardi: tre gare per blindare reti e dati della PA",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/pa-digitale/cybersecurity-consip-mette-sul-piatto-oltre-12-miliardi-tre-gare-per-blindare-reti-e-dati-della-pa/",
+          "published_at": "2026-10-15T09:13:21Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/competenze/ai-in-azienda-cinque-competenze-per-trasformare-gli-strumenti-in-risultati/",
+          "title": "AI in azienda, cinque competenze per trasformare gli strumenti in risultati",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/competenze/ai-in-azienda-cinque-competenze-per-trasformare-gli-strumenti-in-risultati/",
+          "published_at": "2026-10-15T09:05:04Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-raddoppia-il-tasso-di-adozione-nei-settori-strategici-ue-telco-al-30/",
+          "title": "Intelligenza artificiale, raddoppia il tasso di adozione nei settori strategici Ue: telco al 30%",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-raddoppia-il-tasso-di-adozione-nei-settori-strategici-ue-telco-al-30/",
+          "published_at": "2026-10-15T08:57:58Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/cisco-e-nvidia-annunciano-usfp-verso-il-potenziamento-dei-data-center-ai/",
+          "title": "Cisco e Nvidia annunciano USFP: verso il potenziamento dei data center AI",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/cisco-e-nvidia-annunciano-usfp-verso-il-potenziamento-dei-data-center-ai/",
+          "published_at": "2026-10-15T08:00:00Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/cavi-sottomarini-rischi-cambiamento-climatico/",
+          "title": "Cavi sottomarini, il clima cambia le regole del gioco: tre rischi per le reti globali",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/cavi-sottomarini-rischi-cambiamento-climatico/",
+          "published_at": "2026-10-15T07:04:00Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/rete-aziendale-e-continuita-operativa-come-ridurre-il-rischio-di-fermo/",
+          "title": "Rete aziendale e continuità operativa: come ridurre il rischio di fermo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/rete-aziendale-e-continuita-operativa-come-ridurre-il-rischio-di-fermo/",
+          "published_at": "2026-10-15T07:00:00Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/welfare-tlc-di-raimondo-asstel/",
+          "title": "Tlc, Di Raimondo: “Benessere, competenze e conciliazione leve di competitività”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/welfare-tlc-di-raimondo-asstel/",
+          "published_at": "2026-10-15T06:30:00Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/secondamano-le-storiche-testate-passano-al-digitale/",
+          "title": "Secondamano: le storiche testate passano al digitale",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/secondamano-le-storiche-testate-passano-al-digitale/",
+          "published_at": "2026-10-14T21:22:38Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/spu26-giovani-e-universita-per-la-cultura-della-pace/",
+          "title": "SPU26: giovani e università per la cultura della pace",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/spu26-giovani-e-universita-per-la-cultura-della-pace/",
+          "published_at": "2026-10-14T18:36:05Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/switch-off-del-rame-i-ministri-ue-si-spaccano-su-flessibilita-e-rinvii/",
           "title": "Switch-off del rame, i ministri Ue si spaccano su flessibilità e rinvii",
@@ -93,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-agazio-a-loiero/",
           "published_at": "2026-10-13T20:56:05Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/un-tesoro-chiamato-fede-il-segreto-della-felicita/",
           "published_at": "2026-10-13T12:06:01Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -203,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/follia-allo-stadio-ferita-la-giornalista-silvia-trillini/",
           "published_at": "2026-10-12T21:23:34Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-daphne-caruana-galizia-per-il-giornalismo-2/",
           "published_at": "2026-10-12T15:41:22Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/spu26-mediterraneo-oltre-la-superficie-delle-notizie/",
           "published_at": "2026-10-11T19:53:22Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +463,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/roberto-occhiuto-e-il-coraggio-di-governare/",
           "published_at": "2026-10-11T08:23:31Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +473,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-mediterraneo-un-ponte-dacqua-tra-europa-e-africa/",
           "published_at": "2026-10-10T20:35:45Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-francesco-tedesco/",
           "published_at": "2026-10-10T01:04:05Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -363,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-tribunale-di-roma-boccia-il-ricorso-di-ranucci/",
           "published_at": "2026-10-09T21:02:28Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +593,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-2-il-debutto-di-patu-accende-il-dibattito/",
           "published_at": "2026-10-09T07:09:01Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -553,7 +683,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/spu26-il-mediterraneo-crocevia-di-pace/",
           "published_at": "2026-10-08T07:55:42Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -573,7 +703,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-barbara-spinelli/",
           "published_at": "2026-10-07T17:10:05Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2618,66 +2748,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-per-lispi-la-cina-corre-ma-sempre-sul-filo/",
-          "title": "Data center, per l’Ispi la Cina corre. Ma sempre sul filo",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-per-lispi-la-cina-corre-ma-sempre-sul-filo/",
-          "published_at": "2026-09-14T11:10:27Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/media/streaming-pigliatutto-in-italia-conquista-il-594-della-pay-tv/",
-          "title": "Streaming pigliatutto: in Italia conquista il 59,4% della pay TV",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/media/streaming-pigliatutto-in-italia-conquista-il-594-della-pay-tv/",
-          "published_at": "2026-09-14T11:08:32Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/nigcomsat-2a-a-thales-alenia-space-il-satellite-per-connettere-lafrica/",
-          "title": "NigComSat-2A, a Thales Alenia Space il satellite per connettere l’Africa",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/space-economy/nigcomsat-2a-a-thales-alenia-space-il-satellite-per-connettere-lafrica/",
-          "published_at": "2026-09-14T10:43:44Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/opas-su-tim-poste-prolunga-il-periodo-di-adesione/",
-          "title": "Opas su Tim, Poste prolunga il periodo di adesione",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/opas-su-tim-poste-prolunga-il-periodo-di-adesione/",
-          "published_at": "2026-09-14T10:27:30Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fastwebvodafone-doppio-riconoscimento-su-inclusione-e-parita-di-genere/",
-          "title": "Fastweb+Vodafone, doppio riconoscimento su inclusione e parità di genere",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/fastwebvodafone-doppio-riconoscimento-su-inclusione-e-parita-di-genere/",
-          "published_at": "2026-09-14T10:12:17Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/mercato-libero-energia-octopus-fissa-12m-analisi-prezzi/",
-          "title": "Mercato libero dell’energia: Octopus Energy tariffa Fissa 12M a 0,1826 €/kW",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/mercato-libero-energia-octopus-fissa-12m-analisi-prezzi/",
-          "published_at": "2026-09-14T10:05:41Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/universita-di-napoli-cerca-comunicatore/",
           "title": "Università di Napoli cerca comunicatore",
           "source": "Giornalisti Italia",
@@ -2724,46 +2794,6 @@
           "url": "https://www.giornalistitalia.it/stipendi-non-pagati-la-notizia-in-agitazione/",
           "published_at": "2026-09-11T19:50:03Z",
           "last_seen_at": "2026-09-18T10:18:32Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-dei-dati-il-prossimo-confine-e-lorbita/",
-          "title": "Sovranità dei dati, il prossimo confine è l’orbita",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-dei-dati-il-prossimo-confine-e-lorbita/",
-          "published_at": "2026-09-11T11:42:39Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/dazn-myclubpass-abbonamento-squadra-del-cuore-serie-a/",
-          "title": "Serie A su DAZN MyClubPass: il piano dedicato esclusivamente alla squadra del cuore",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/dazn-myclubpass-abbonamento-squadra-del-cuore-serie-a/",
-          "published_at": "2026-09-11T10:08:50Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/cyber-security/cybersecurity-act-2-allarme-reti-il-rip-and-replace-puo-frenare-5g-e-6g/",
-          "title": "Cybersecurity Act 2, allarme reti: “il rip and replace” può frenare 5G e 6G",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/cyber-security/cybersecurity-act-2-allarme-reti-il-rip-and-replace-puo-frenare-5g-e-6g/",
-          "published_at": "2026-09-11T09:46:07Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/opas-poste-tim-equita-agli-azionisti-conviene-aderire/",
-          "title": "Opas Poste-Tim, Equita agli azionisti: “Conviene aderire”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/opas-poste-tim-equita-agli-azionisti-conviene-aderire/",
-          "published_at": "2026-09-11T09:33:03Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2836,26 +2866,6 @@
           "last_seen_at": "2026-09-15T10:44:26Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/tgr-rai-campania-a-guido-pocobelli-ragosta/",
-          "title": "Tgr Rai Campania a Guido Pocobelli Ragosta",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/tgr-rai-campania-a-guido-pocobelli-ragosta/",
-          "published_at": "2026-09-07T10:26:34Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/vero-bella-rimandati-a-settembre/",
-          "title": "Vero Bella: “Rimandati a settembre”",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/vero-bella-rimandati-a-settembre/",
-          "published_at": "2026-09-06T21:33:23Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2890,7 +2900,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/13/integrazione-gm24-as2a-ddg-2575-2023-regione-lazio/",
           "published_at": "2026-10-13T15:06:33Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2900,7 +2910,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/13/trasmissione-nota-aoodpit-n-5290_08-10-2026_concorso-nazionale-il-giorno-del-ricordo_a-s-2026-2027/",
           "published_at": "2026-10-13T10:03:20Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -3106,6 +3116,16 @@
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/14/rettifica-decreto-ripartizione-tutor-sfp-26-27/",
+          "title": "Rettifica Decreto ripartizione Tutor SFP 26/27",
+          "source": "USR Lazio — Aree tematiche",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/14/rettifica-decreto-ripartizione-tutor-sfp-26-27/",
+          "published_at": "2026-10-14T12:20:12Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/08/decreto-ripartizione-contingente-tutor-sfp-2026-2027/",
           "title": "Decreto ripartizione contingente tutor SFP 2026/2027",
           "source": "USR Lazio — Aree tematiche",
@@ -3161,7 +3181,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3186,16 +3206,6 @@
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
         {
-          "dedupe_id": "https://www.liceoterracina.edu.it/pagine/avviso-n-526-27---ai-docenti-ris",
-          "title": "Avviso n. 5/26-27 - ai docenti (ris.)",
-          "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
-          "url": "https://www.liceoterracina.edu.it/pagine/avviso-n-526-27---ai-docenti-ris",
-          "published_at": "2026-09-11T00:00:00Z",
-          "last_seen_at": "2026-09-14T11:18:31Z",
-          "search_id": "pnrr_orientamento",
-          "search_name": "PNRR — Orientatrice / Esperto esterno"
-        },
-        {
           "dedupe_id": "https://www.liceoterracina.edu.it/pagine/avviso-n-326-27-agli-utenti",
           "title": "Avviso n. 3/26-27 agli utenti",
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
@@ -3211,7 +3221,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3221,7 +3231,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3231,7 +3241,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/07/17/reclutamento-docenti-esperti-e-tutor-per-il-progetto-e-state-a-scuola/",
           "published_at": "2026-07-17T18:33:47Z",
-          "last_seen_at": "2026-10-14T10:54:09Z",
+          "last_seen_at": "2026-10-15T10:36:37Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3264,7 +3274,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Orientamento",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3368,7 +3378,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 1,
       "error_detail": null
     },
     {
