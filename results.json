@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T10:36:37Z",
+  "generated_at": "2026-10-16T10:24:02Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,102 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fibra-ottica-vertice-urso-gola-focus-sullo-sviluppo-delle-reti-e-sugli-investimenti/",
+          "title": "Fibra ottica, vertice Urso-Gola: focus sullo sviluppo delle reti e sugli investimenti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fibra-ottica-vertice-urso-gola-focus-sullo-sviluppo-delle-reti-e-sugli-investimenti/",
+          "published_at": "2026-10-16T08:08:56Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-ai-valore-vicino-al-trilione-nel-2030-vince-il-cloud-ma-il-nuovo-trend-e-la-co-location/",
+          "title": "Data center AI, valore vicino al trilione nel 2030. Vince il cloud, ma il nuovo trend è la co-location",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-ai-valore-vicino-al-trilione-nel-2030-vince-il-cloud-ma-il-nuovo-trend-e-la-co-location/",
+          "published_at": "2026-10-16T07:45:00Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/bromo-verso-il-via-libera-ue-per-litalia-si-apre-la-partita-industriale/",
+          "title": "Bromo, verso il via libera Ue: per l’Italia si apre la partita industriale",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/bromo-verso-il-via-libera-ue-per-litalia-si-apre-la-partita-industriale/",
+          "published_at": "2026-10-16T07:44:56Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/ai-nelle-telco-budget-in-aumento-ma-la-governance-non-tiene-il-passo/",
+          "title": "AI nelle telco, budget in aumento ma la governance non tiene il passo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/ai-nelle-telco-budget-in-aumento-ma-la-governance-non-tiene-il-passo/",
+          "published_at": "2026-10-16T06:30:00Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fwa-vs-starlink-in-italia-eolo-e-vodafone-tengono-testa/",
+          "title": "FWA vs Starlink, in Italia le telco tengono testa al satellite",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/fwa-vs-starlink-in-italia-eolo-e-vodafone-tengono-testa/",
+          "published_at": "2026-10-16T06:30:00Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/italy-now-litalia-a-new-york-oltre-la-cartolina/",
+          "title": "Italy Now: l’Italia a New York oltre la cartolina",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/italy-now-litalia-a-new-york-oltre-la-cartolina/",
+          "published_at": "2026-10-15T19:10:15Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/finance/conto-corrente-aziendale-online/",
+          "title": "Guida all’apertura del conto corrente aziendale online: costi e requisiti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/finance/conto-corrente-aziendale-online/",
+          "published_at": "2026-10-15T15:40:53Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/very-mobile-concorso-smartphone-days-redmi-note-17-pro-5g/",
+          "title": "Concorso Smartphone Days di Very Mobile: in palio 300 REDMI Note 17 Pro 5G per i nuovi e già clienti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/very-mobile-concorso-smartphone-days-redmi-note-17-pro-5g/",
+          "published_at": "2026-10-15T11:57:08Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/ericsson-risultati-terzo-trimestre-2026-riorganizzazione/",
+          "title": "Ericsson, ricavi in crescita del 7% nel terzo trimestre. Al via la riorganizzazione",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/ericsson-risultati-terzo-trimestre-2026-riorganizzazione/",
+          "published_at": "2026-10-15T10:54:01Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fibra-si-fa-strada-lipotesi-dei-voucher-alle-famiglie-per-sbloccare-il-take-up/",
           "title": "Fibra, si fa strada l’ipotesi dei voucher alle famiglie per sbloccare il take-up",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/fibra-si-fa-strada-lipotesi-dei-voucher-alle-famiglie-per-sbloccare-il-take-up/",
           "published_at": "2026-10-15T10:14:43Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/voucher-cloud-cybersecurity-tim-fastweb-windtre/",
           "published_at": "2026-10-15T09:52:13Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +133,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lultimo-giorno-di-fernando-pessoa/",
           "published_at": "2026-10-15T09:22:45Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/secondamano-le-storiche-testate-passano-al-digitale/",
           "published_at": "2026-10-14T21:22:38Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/spu26-giovani-e-universita-per-la-cultura-della-pace/",
           "published_at": "2026-10-14T18:36:05Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -223,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-agazio-a-loiero/",
           "published_at": "2026-10-13T20:56:05Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/un-tesoro-chiamato-fede-il-segreto-della-felicita/",
           "published_at": "2026-10-13T12:06:01Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +423,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/follia-allo-stadio-ferita-la-giornalista-silvia-trillini/",
           "published_at": "2026-10-12T21:23:34Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +433,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-daphne-caruana-galizia-per-il-giornalismo-2/",
           "published_at": "2026-10-12T15:41:22Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +543,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/spu26-mediterraneo-oltre-la-superficie-delle-notizie/",
           "published_at": "2026-10-11T19:53:22Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +553,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/roberto-occhiuto-e-il-coraggio-di-governare/",
           "published_at": "2026-10-11T08:23:31Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +563,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-mediterraneo-un-ponte-dacqua-tra-europa-e-africa/",
           "published_at": "2026-10-10T20:35:45Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -483,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-francesco-tedesco/",
           "published_at": "2026-10-10T01:04:05Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -493,7 +583,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-tribunale-di-roma-boccia-il-ricorso-di-ranucci/",
           "published_at": "2026-10-09T21:02:28Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -593,7 +683,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-2-il-debutto-di-patu-accende-il-dibattito/",
           "published_at": "2026-10-09T07:09:01Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -683,7 +773,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/spu26-il-mediterraneo-crocevia-di-pace/",
           "published_at": "2026-10-08T07:55:42Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2648,56 +2738,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/moratoria-sullai-non-solo-sicurezza-la-vera-partita-si-gioca-sulla-sfida-usa-cina-e-sugli-investimenti/",
-          "title": "Moratoria sull’AI, non solo sicurezza: la vera partita si gioca  sulla sfida Usa-Cina e sugli investimenti",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/moratoria-sullai-non-solo-sicurezza-la-vera-partita-si-gioca-sulla-sfida-usa-cina-e-sugli-investimenti/",
-          "published_at": "2026-09-15T08:33:08Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/urso-e-la-matrice-di-eisenhower-su-bromo-litalia-deve-scegliere-le-priorita/",
-          "title": "Urso e la matrice di Eisenhower: su Bromo l’Italia deve scegliere le priorità",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/urso-e-la-matrice-di-eisenhower-su-bromo-litalia-deve-scegliere-le-priorita/",
-          "published_at": "2026-09-15T08:10:01Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-sovrana-come-puo-passare-da-costo-a-valore/",
-          "title": "AI sovrana, come può passare da costo a valore",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-sovrana-come-puo-passare-da-costo-a-valore/",
-          "published_at": "2026-09-15T08:01:23Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/telco-17-ceo-alla-ue-correggere-la-rotta-su-digital-networks-act-e-cybersecurity-act/",
-          "title": "DNA e Cybersecurity Act, 17 Ceo alla UE: “Correggere la rotta: meno regole, più mercato”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/telco-17-ceo-alla-ue-correggere-la-rotta-su-digital-networks-act-e-cybersecurity-act/",
-          "published_at": "2026-09-15T08:00:03Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/open-fiber-la-fibra-diventa-un-sensore-a-niscemi-la-rete-monitora-la-frana/",
-          "title": "Open Fiber, la fibra diventa un sensore: a Niscemi la rete monitora la frana",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/open-fiber-la-fibra-diventa-un-sensore-a-niscemi-la-rete-monitora-la-frana/",
-          "published_at": "2026-09-15T07:51:47Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/fano-incontra-adriano-gamberini-da-pesaro/",
           "title": "Fano incontra Adriano Gamberini da Pesaro",
           "source": "Giornalisti Italia",
@@ -2714,36 +2754,6 @@
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-lucia-pippi/",
           "published_at": "2026-09-14T14:49:44Z",
           "last_seen_at": "2026-09-21T11:30:57Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/5g/reti-private-5g-e-lte-lai-spinge-il-mercato-verso-847-miliardi-di-dollari/",
-          "title": "Reti private 5G e Lte, l’AI spinge il mercato verso 84,7 miliardi di dollari",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/5g/reti-private-5g-e-lte-lai-spinge-il-mercato-verso-847-miliardi-di-dollari/",
-          "published_at": "2026-09-14T13:57:26Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/ai-nelle-telco-il-paradosso-dei-costi-lautomazione-puo-far-salire-lopex/",
-          "title": "AI nelle telco, il paradosso dei costi: l’automazione può far salire l’opex",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/ai-nelle-telco-il-paradosso-dei-costi-lautomazione-puo-far-salire-lopex/",
-          "published_at": "2026-09-14T12:52:32Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-meno-server-per-ridurre-i-costi-e-fare-spazio-allai/",
-          "title": "Data center, meno server per ridurre i costi e fare spazio all’AI",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-meno-server-per-ridurre-i-costi-e-fare-spazio-allai/",
-          "published_at": "2026-09-14T11:43:46Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2856,16 +2866,6 @@
           "last_seen_at": "2026-09-16T10:32:20Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/civitavecchia-autorita-portuale-cerca-giornalista/",
-          "title": "Civitavecchia: Autorità Portuale cerca giornalista",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/civitavecchia-autorita-portuale-cerca-giornalista/",
-          "published_at": "2026-09-08T12:00:35Z",
-          "last_seen_at": "2026-09-15T10:44:26Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2894,6 +2894,36 @@
       "id": "concorsi_pa",
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/16/trinity-day-roma-16-novembre-2026/",
+          "title": "Trinity Day – Roma 16 Novembre 2026",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/16/trinity-day-roma-16-novembre-2026/",
+          "published_at": "2026-10-16T07:51:11Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/16/corrilibera-line-5k-roma-uniti-contro-la-violenza-sulle-donne-seconda-edizioneroma-15-novembre-2026-partecipazione-delle-istituzioni-scolastiche/",
+          "title": "Corrilibera Line 5k Roma – Uniti contro la violenza sulle donne – Seconda EdizioneRoma, 15 novembre 2026 – Partecipazione delle Istituzioni scolastiche",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/16/corrilibera-line-5k-roma-uniti-contro-la-violenza-sulle-donne-seconda-edizioneroma-15-novembre-2026-partecipazione-delle-istituzioni-scolastiche/",
+          "published_at": "2026-10-16T06:17:24Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/15/contributi-ordinari-a-favore-delle-scuole-paritarie-di-ogni-ordine-e-grado-della-regione-lazio-acconto-a-s-2026-2027/",
+          "title": "Contributi ordinari a favore delle scuole paritarie di ogni ordine e grado della Regione Lazio – Acconto a.s. 2026/2027",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/15/contributi-ordinari-a-favore-delle-scuole-paritarie-di-ogni-ordine-e-grado-della-regione-lazio-acconto-a-s-2026-2027/",
+          "published_at": "2026-10-15T15:23:25Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
         {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/13/integrazione-gm24-as2a-ddg-2575-2023-regione-lazio/",
           "title": "Integrazione GM24 AS2A – DDG 2575/2023 – Regione Lazio",
@@ -3181,7 +3211,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3221,7 +3251,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3231,7 +3261,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-15T10:36:37Z",
+          "last_seen_at": "2026-10-16T10:24:02Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3298,7 +3328,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Donati (Roma)",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 1,
       "error_detail": null
     },
     {
@@ -3378,7 +3408,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3426,7 +3456,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 3,
       "error_detail": null
     },
     {
@@ -3457,9 +3487,9 @@
       "search_id": "comunicazione_pa",
       "search_name": "Comunicazione PA e Ufficio Stampa",
       "source_label": "Giornalisti Italia",
-      "status": "ok",
+      "status": "error",
       "item_count": 0,
-      "error_detail": null
+      "error_detail": "Giornalisti Italia: HTTP error fetching 'https://www.giornalistitalia.it/feed/': HTTPSConnectionPool(host='www.giornalistitalia.it', port=443): Read timed out. (read timeout=30.0)"
     },
     {
       "search_id": "orientamento_lavoro",
