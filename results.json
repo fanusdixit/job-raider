@@ -1,12 +1,132 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T11:55:53Z",
+  "generated_at": "2026-10-27T11:19:15Z",
   "tool_version": "0.1.0",
   "searches": [
     {
       "id": "comunicazione",
       "name": "Comunicazione e uffici stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/i-vincoli-di-mercato-possono-stimolare-linnovazione-ecco-le-best-practice/",
+          "title": "I vincoli di mercato? Possono stimolare l’innovazione. Ecco le best practice",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/i-vincoli-di-mercato-possono-stimolare-linnovazione-ecco-le-best-practice/",
+          "published_at": "2026-10-27T11:00:07Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fwa-1-gbps-prezzi-velocita-fibra/",
+          "title": "FWA, prezzi vicini alla fibra e velocità superiori alla FTTC. Ma il Gigabit è ancora poco diffuso",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/fwa-1-gbps-prezzi-velocita-fibra/",
+          "published_at": "2026-10-27T10:57:47Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/fibra-aruba-casa-all-in-2-5-gbps-router-chiamate-illimitate/",
+          "title": "Connettività Fibra Aruba casa All-In: FTTH fino a 2.5 Gbps con router Wi-Fi e chiamate illimitate incluse",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/fibra-aruba-casa-all-in-2-5-gbps-router-chiamate-illimitate/",
+          "published_at": "2026-10-27T10:20:27Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/a-sparkle-il-premio-best-subsea-innovation-cavi-come-sentinelle-di-terremoti-e-ambiente/",
+          "title": "A Sparkle il premio “Best Subsea Innovation”: cavi come sentinelle di terremoti e ambiente",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/a-sparkle-il-premio-best-subsea-innovation-cavi-come-sentinelle-di-terremoti-e-ambiente/",
+          "published_at": "2026-10-27T09:39:24Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/cyber-security/guerra-algoritmica-quando-il-controllo-delle-menti-diventa-unarma-geopolitica/",
+          "title": "Guerra algoritmica, quando il controllo delle menti diventa un’arma geopolitica",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/cyber-security/guerra-algoritmica-quando-il-controllo-delle-menti-diventa-unarma-geopolitica/",
+          "published_at": "2026-10-27T08:27:00Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/quantum-computing-allarme-sicurezza-per-le-telco-fino-a-10-anni-per-proteggere-le-reti/",
+          "title": "Quantum computing, allarme sicurezza per le telco: fino a 10 anni per proteggere le reti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/quantum-computing-allarme-sicurezza-per-le-telco-fino-a-10-anni-per-proteggere-le-reti/",
+          "published_at": "2026-10-27T08:00:00Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/doubt-and-debate-per-pensare-con-la-propria-testa/",
+          "title": "Doubt and Debate per pensare con la propria testa",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/doubt-and-debate-per-pensare-con-la-propria-testa/",
+          "published_at": "2026-10-26T22:13:34Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/il-fatto-i-fondatori-sbarrano-la-strada-a-del-vecchio/",
+          "title": "Il Fatto: i fondatori sbarrano la strada a Del Vecchio",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/il-fatto-i-fondatori-sbarrano-la-strada-a-del-vecchio/",
+          "published_at": "2026-10-26T16:02:51Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/fastweb-vodafone-agenti-ai-contro-le-truffe-telefoniche-e-la-burocrazia/",
+          "title": "Fastweb + Vodafone, agenti AI contro le truffe telefoniche e la burocrazia",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/fastweb-vodafone-agenti-ai-contro-le-truffe-telefoniche-e-la-burocrazia/",
+          "published_at": "2026-10-26T15:04:46Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/asstel-va-verso-la-federazione-labriola-rafforziamo-la-rappresentanza-dellintera-filiera/",
+          "title": "Asstel va verso la federazione. Labriola: “Rafforziamo la rappresentanza dell’intera filiera”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/asstel-va-verso-la-federazione-labriola-rafforziamo-la-rappresentanza-dellintera-filiera/",
+          "published_at": "2026-10-26T14:42:52Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/difesa-e-sovranita-digitale-berlino-guarda-a-google-kiev-ai-satelliti-europei/",
+          "title": "Difesa e sovranità digitale: Berlino guarda a Google, Kiev ai satelliti europei",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/difesa-e-sovranita-digitale-berlino-guarda-a-google-kiev-ai-satelliti-europei/",
+          "published_at": "2026-10-26T13:35:12Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/selfyshop-mediolanum-dispositivi-apple-rate-tan-taeg-zero/",
+          "title": "SelfyShop di Banca Mediolanum: iPhone 18 Pro e iPhone 18 Pro Max a rate a TAN 0 e TAEG 0 per correntisti SelfyConto",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/selfyshop-mediolanum-dispositivi-apple-rate-tan-taeg-zero/",
+          "published_at": "2026-10-26T11:39:40Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
         {
           "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/galileo-2-il-fucino-si-espande-due-nuovi-edifici-per-il-controllo-dei-satelliti-europei/",
           "title": "Galileo 2, il Fucino si espande: due nuovi edifici per il controllo dei satelliti europei",
@@ -58,12 +178,22 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
+          "dedupe_id": "https://www.giornalistitalia.it/lamministrazione-straordinaria-degli-enti-locali/",
+          "title": "L’amministrazione straordinaria degli enti locali",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/lamministrazione-straordinaria-degli-enti-locali/",
+          "published_at": "2026-10-25T22:57:28Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/giornalista-scaraventata-a-terra-dalla-scorta/",
           "title": "Giornalista scaraventata a terra dalla scorta",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giornalista-scaraventata-a-terra-dalla-scorta/",
           "published_at": "2026-10-25T22:55:45Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-turchia-liberi-subito-il-giornalista-ismail-ari/",
           "published_at": "2026-10-24T21:05:02Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lettera-aperta-a-chi-confonde-le-piazze/",
           "published_at": "2026-10-24T19:22:23Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +233,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-diana-negri/",
           "published_at": "2026-10-23T21:42:23Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +243,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/congedo-di-maternita-inps-semplifica-laccesso/",
           "published_at": "2026-10-23T15:28:51Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -273,7 +403,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/summer-peace-university-la-pace-oltre-le-parole/",
           "published_at": "2026-10-22T08:34:35Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -303,7 +433,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/summer-peace-university-edizione-2027-in-egitto/",
           "published_at": "2026-10-21T19:43:54Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -313,7 +443,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-parlamento-usigrai-in-minoranza/",
           "published_at": "2026-10-21T17:17:16Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +453,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-marrc-sulla-linea-dombra-della-memoria/",
           "published_at": "2026-10-21T15:40:49Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +473,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-roberto-bernabai/",
           "published_at": "2026-10-21T13:59:31Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -443,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/the-world-gate-i-muri-che-uniscono-i-continenti/",
           "published_at": "2026-10-20T18:39:12Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +583,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/stati-generali-contro-i-femminicidi/",
           "published_at": "2026-10-20T16:42:28Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2618,36 +2748,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/intred-ricavi-a-29-milioni-via-al-nuovo-piano-2026-29/",
-          "title": "Intred, ricavi a 29 milioni. Via al nuovo piano 2026-29",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/intred-ricavi-a-29-milioni-via-al-nuovo-piano-2026-29/",
-          "published_at": "2026-09-25T10:41:52Z",
-          "last_seen_at": "2026-09-27T11:05:11Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/dati-satellitari-nei-campi-confagricoltura-servono-reti-nelle-aree-interne/",
-          "title": "Dati satellitari nei campi, Confagricoltura: “Servono reti nelle aree interne”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/dati-satellitari-nei-campi-confagricoltura-servono-reti-nelle-aree-interne/",
-          "published_at": "2026-09-25T10:22:53Z",
-          "last_seen_at": "2026-09-27T11:05:11Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/fibercop-sceglie-marco-nespolo-come-nuovo-amministratore-delegato/",
-          "title": "FiberCop sceglie il nuovo Ad: il timone passa a Marco Nespolo",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/fibercop-sceglie-marco-nespolo-come-nuovo-amministratore-delegato/",
-          "published_at": "2026-09-25T09:29:30Z",
-          "last_seen_at": "2026-09-27T11:05:11Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/addio-elena-pero-voce-del-tennis-di-sky-sport/",
           "title": "Addio Elena Pero voce del tennis di Sky Sport",
           "source": "Giornalisti Italia",
@@ -2746,16 +2846,6 @@
           "last_seen_at": "2026-09-28T12:26:07Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/new-york-a-carlo-parisi-il-premio-bronzi-di-riace/",
-          "title": "New York: a Carlo Parisi il Premio “Bronzi di Riace”",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/new-york-a-carlo-parisi-il-premio-bronzi-di-riace/",
-          "published_at": "2026-09-20T19:52:57Z",
-          "last_seen_at": "2026-09-27T11:05:11Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2790,7 +2880,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/23/contributi-ordinari-a-favore-delle-scuole-paritarie-di-ogni-ordine-e-grado-della-regione-lazio-acconto-a-s-2026-2027-2/",
           "published_at": "2026-10-23T14:46:02Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2993,16 +3083,6 @@
           "last_seen_at": "2026-09-28T12:26:07Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/23/trasmissione-invito-young-international-forum-2026-roma-14-16-ottobre-2026/",
-          "title": "Trasmissione invito Young International Forum 2026 – Roma, 14-16 ottobre 2026",
-          "source": "USR Lazio",
-          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/23/trasmissione-invito-young-international-forum-2026-roma-14-16-ottobre-2026/",
-          "published_at": "2026-09-23T13:08:53Z",
-          "last_seen_at": "2026-09-27T11:05:11Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
         }
       ]
     },
@@ -3021,7 +3101,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/23/trasmissione-del-bando-gonfia-la-rete-vinci-sul-web-v-edizione-e-dellavviso-di-riapertura-dei-termini-del-cybercrime-film-festival-premio-lucia/",
           "published_at": "2026-10-23T14:52:07Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3031,7 +3111,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/22/avviso-turno-nomine-giuridiche-a-s-2026-2027-integrazione/",
           "published_at": "2026-10-22T12:09:53Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3101,7 +3181,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3111,7 +3191,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3121,7 +3201,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-26T11:55:53Z",
+          "last_seen_at": "2026-10-27T11:19:15Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3289,9 +3369,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IIS Federico Caffè (Roma)",
-      "status": "ok",
+      "status": "error",
       "item_count": 0,
-      "error_detail": null
+      "error_detail": "IIS Federico Caffè (Roma): HTTP error fetching 'https://www.federicocaffe.edu.it/feed/': 404 Client Error: Not Found for url: https://www.federicocaffe.edu.it/404/"
     },
     {
       "search_id": "pnrr_orientamento",
@@ -3314,7 +3394,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 14,
+      "item_count": 15,
       "error_detail": null
     },
     {
