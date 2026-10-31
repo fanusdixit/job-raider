@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T11:54:28Z",
+  "generated_at": "2026-10-31T11:28:01Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,72 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-sassari-cerca-giornalista/",
+          "title": "Accademia di Belle Arti di Sassari cerca giornalista",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-sassari-cerca-giornalista/",
+          "published_at": "2026-10-31T10:38:26Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/geografia-amministrativa-della-calabria/",
+          "title": "Geografia amministrativa della Calabria",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/geografia-amministrativa-della-calabria/",
+          "published_at": "2026-10-30T17:09:27Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/festival-di-sanremo-attenzione-alle-truffe/",
+          "title": "Festival di Sanremo: attenzione alle truffe",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/festival-di-sanremo-attenzione-alle-truffe/",
+          "published_at": "2026-10-30T16:14:32Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/via-libera-alle-domande-di-prepensionamento/",
+          "title": "Via libera alle domande di prepensionamento",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/via-libera-alle-domande-di-prepensionamento/",
+          "published_at": "2026-10-30T15:47:20Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/bbva-esim-app-160-paesi/",
+          "title": "BBVA entra nei servizi di connettività per i viaggi con una eSIM globale",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/bbva-esim-app-160-paesi/",
+          "published_at": "2026-10-30T15:45:21Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ovranita-digitale-a-milano-il-forum-sulle-strategie-per-litalia-e-leuropa/",
+          "title": "Sovranità digitale, a Milano il Forum sulle strategie per l’Italia e l’Europa",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ovranita-digitale-a-milano-il-forum-sulle-strategie-per-litalia-e-leuropa/",
+          "published_at": "2026-10-30T13:53:14Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/argotec-round-da-50-milioni-con-nuo-obiettivo-80-satelliti-lanno/",
           "title": "Argotec, round da 50 milioni con Nuo: obiettivo 80 satelliti l’anno",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/space-economy/argotec-round-da-50-milioni-con-nuo-obiettivo-80-satelliti-lanno/",
           "published_at": "2026-10-30T11:26:49Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +83,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-una-sfida-per-la-pubblica-amministrazione/",
           "published_at": "2026-10-30T10:41:14Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-fibra-domotica-router-wifi-7-sim-iot-smart-home/",
           "published_at": "2026-10-30T10:39:48Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/sudditi-digitali-quando-il-potere-non-ha-piu-un-palazzo/",
           "published_at": "2026-10-30T10:32:02Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +113,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/tim-acquisisce-voismart-e-si-rafforza-sulla-sovranita-digitale/",
           "published_at": "2026-10-30T10:27:06Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/accordo-asstel-sindacati-sulla-previdenza-complementare-rafforzato-il-fondo-telemaco/",
           "published_at": "2026-10-30T10:10:00Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +133,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/spaceconomy/space-economy-la-sfida-dei-materiali-apre-nuove-chance-per-la-filiera-italiana/",
           "published_at": "2026-10-30T10:00:36Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +143,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/data-center/data-center-suppia-in-italia-servono-infrastrutture-piu-efficienti-e-rapide-da-realizzare/",
           "published_at": "2026-10-30T09:44:39Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +153,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/quando-internet-si-spegne-pescape-la-resilienza-digitale-diventi-una-capacita-delle-comunita/",
           "published_at": "2026-10-30T09:32:52Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +163,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tgr-campania-si-al-piano-di-pocobelli-ragosta/",
           "published_at": "2026-10-29T18:16:13Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +173,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "published_at": "2026-10-29T17:38:34Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-mario-sconcerti-a-marco-lollobrigida/",
           "published_at": "2026-10-29T16:24:20Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/municipio-di-modica-off-limits-per-i-giornalisti/",
           "published_at": "2026-10-29T14:13:55Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +233,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-gerardo-bombonato/",
           "published_at": "2026-10-29T11:17:01Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/contributi-straordinari-alle-edicole/",
           "published_at": "2026-10-28T14:43:30Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -323,7 +383,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/consorzio-ausi-di-iglesias-cerca-giornalista/",
           "published_at": "2026-10-27T22:05:10Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +393,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/askanews-licenziato-un-giornalista/",
           "published_at": "2026-10-27T18:02:15Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -433,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/doubt-and-debate-per-pensare-con-la-propria-testa/",
           "published_at": "2026-10-26T22:13:34Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2849,7 +2909,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "published_at": "2026-10-29T17:38:34Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -2859,7 +2919,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/consorzio-ausi-di-iglesias-cerca-giornalista/",
           "published_at": "2026-10-27T22:05:10Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         }
@@ -3062,7 +3122,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/23/trasmissione-del-bando-gonfia-la-rete-vinci-sul-web-v-edizione-e-dellavviso-di-riapertura-dei-termini-del-cybercrime-film-festival-premio-lucia/",
           "published_at": "2026-10-23T14:52:07Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3132,7 +3192,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3142,7 +3202,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3152,7 +3212,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-30T11:54:28Z",
+          "last_seen_at": "2026-10-31T11:28:01Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3345,7 +3405,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 15,
+      "item_count": 14,
       "error_detail": null
     },
     {
