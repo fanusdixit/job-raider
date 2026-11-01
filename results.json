@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T11:28:01Z",
+  "generated_at": "2026-11-01T12:22:34Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,42 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.giornalistitalia.it/romagnano-sesia-e-il-cimitero-della-discordia/",
+          "title": "Romagnano Sesia e il cimitero della discordia",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/romagnano-sesia-e-il-cimitero-della-discordia/",
+          "published_at": "2026-10-31T23:39:38Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/giornalisti-aggrediti-da-coloni-e-fermati-dalla-polizia/",
+          "title": "Giornalisti aggrediti da coloni e fermati dalla polizia",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/giornalisti-aggrediti-da-coloni-e-fermati-dalla-polizia/",
+          "published_at": "2026-10-31T17:55:07Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/la-via-francigena-patrimonio-dellumanita/",
+          "title": "La Via Francigena patrimonio dell’umanità",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/la-via-francigena-patrimonio-dellumanita/",
+          "published_at": "2026-10-31T11:54:02Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-sassari-cerca-giornalista/",
           "title": "Accademia di Belle Arti di Sassari cerca giornalista",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-sassari-cerca-giornalista/",
           "published_at": "2026-10-31T10:38:26Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +53,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/geografia-amministrativa-della-calabria/",
           "published_at": "2026-10-30T17:09:27Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +63,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/festival-di-sanremo-attenzione-alle-truffe/",
           "published_at": "2026-10-30T16:14:32Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +73,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/via-libera-alle-domande-di-prepensionamento/",
           "published_at": "2026-10-30T15:47:20Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +83,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/bbva-esim-app-160-paesi/",
           "published_at": "2026-10-30T15:45:21Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +93,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/ovranita-digitale-a-milano-il-forum-sulle-strategie-per-litalia-e-leuropa/",
           "published_at": "2026-10-30T13:53:14Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +103,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/space-economy/argotec-round-da-50-milioni-con-nuo-obiettivo-80-satelliti-lanno/",
           "published_at": "2026-10-30T11:26:49Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +113,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-una-sfida-per-la-pubblica-amministrazione/",
           "published_at": "2026-10-30T10:41:14Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +123,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-fibra-domotica-router-wifi-7-sim-iot-smart-home/",
           "published_at": "2026-10-30T10:39:48Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +133,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/sudditi-digitali-quando-il-potere-non-ha-piu-un-palazzo/",
           "published_at": "2026-10-30T10:32:02Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +143,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/tim-acquisisce-voismart-e-si-rafforza-sulla-sovranita-digitale/",
           "published_at": "2026-10-30T10:27:06Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +153,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/accordo-asstel-sindacati-sulla-previdenza-complementare-rafforzato-il-fondo-telemaco/",
           "published_at": "2026-10-30T10:10:00Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +163,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/spaceconomy/space-economy-la-sfida-dei-materiali-apre-nuove-chance-per-la-filiera-italiana/",
           "published_at": "2026-10-30T10:00:36Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +173,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/data-center/data-center-suppia-in-italia-servono-infrastrutture-piu-efficienti-e-rapide-da-realizzare/",
           "published_at": "2026-10-30T09:44:39Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -153,7 +183,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/quando-internet-si-spegne-pescape-la-resilienza-digitale-diventi-una-capacita-delle-comunita/",
           "published_at": "2026-10-30T09:32:52Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -163,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tgr-campania-si-al-piano-di-pocobelli-ragosta/",
           "published_at": "2026-10-29T18:16:13Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +203,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "published_at": "2026-10-29T17:38:34Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-mario-sconcerti-a-marco-lollobrigida/",
           "published_at": "2026-10-29T16:24:20Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/municipio-di-modica-off-limits-per-i-giornalisti/",
           "published_at": "2026-10-29T14:13:55Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -233,7 +263,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-gerardo-bombonato/",
           "published_at": "2026-10-29T11:17:01Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2668,96 +2698,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/sovranita-digitale-labriola-sui-satelliti-leuropa-deve-muoversi-adesso/",
-          "title": "Sovranità digitale, Labriola: “Sui satelliti l’Europa deve muoversi adesso”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/sovranita-digitale-labriola-sui-satelliti-leuropa-deve-muoversi-adesso/",
-          "published_at": "2026-10-01T10:42:24Z",
-          "last_seen_at": "2026-10-02T11:38:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/fair-share-si-riaccende-lil-dibattito-sotto-esame-tre-articoli-del-digital-networks-act/",
-          "title": "Fair share, si riaccende lil dibattito: sotto esame tre articoli del Digital Networks Act",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/fair-share-si-riaccende-lil-dibattito-sotto-esame-tre-articoli-del-digital-networks-act/",
-          "published_at": "2026-10-01T10:30:13Z",
-          "last_seen_at": "2026-10-02T11:38:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/sovranita-dallo-spazio-alleanza-nokia-iceye/",
-          "title": "Sovranità dallo Spazio, alleanza Nokia-Iceye",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/sovranita-dallo-spazio-alleanza-nokia-iceye/",
-          "published_at": "2026-10-01T10:04:17Z",
-          "last_seen_at": "2026-10-02T11:38:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/data-center-digital-realty-apre-le-porte-del-maxi-cantiere-di-trigoria/",
-          "title": "Data center, Digital Realty apre le porte del maxi-cantiere di Trigoria",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/data-center-digital-realty-apre-le-porte-del-maxi-cantiere-di-trigoria/",
-          "published_at": "2026-10-01T10:00:00Z",
-          "last_seen_at": "2026-10-02T11:38:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/5g/dal-5g-ai-satelliti-ecco-il-piano-ue-per-la-counicazioni-di-emergenza/",
-          "title": "Dal 5G ai satelliti: ecco il piano Ue per le comunicazioni di emergenza",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/5g/dal-5g-ai-satelliti-ecco-il-piano-ue-per-la-counicazioni-di-emergenza/",
-          "published_at": "2026-10-01T09:02:44Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/cyber-security/cybersecurity-come-anticipare-le-minacce-e-rafforzare-la-difesa/",
-          "title": "Cybersecurity, come anticipare le minacce e rafforzare la difesa",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/cyber-security/cybersecurity-come-anticipare-le-minacce-e-rafforzare-la-difesa/",
-          "published_at": "2026-10-01T08:01:00Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/smart-city/ai-nelle-smart-city-cosi-nasce-la-citta-autonoma/",
-          "title": "AI nelle smart city, così nasce la città autonoma",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/smart-city/ai-nelle-smart-city-cosi-nasce-la-citta-autonoma/",
-          "published_at": "2026-10-01T07:28:00Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-supply-chain-e-sovranita-digitale-cosa-cambiera-nel-2027/",
-          "title": "AI, supply chain e sovranità digitale: cosa cambierà nel 2027",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-supply-chain-e-sovranita-digitale-cosa-cambiera-nel-2027/",
-          "published_at": "2026-10-01T06:47:00Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/5g/5g-gli-stati-ue-frenano-sulla-stretta-ai-fornitori-ad-alto-rischio/",
-          "title": "5G, gli Stati Ue frenano sulla stretta ai fornitori ad alto rischio",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/5g/5g-gli-stati-ue-frenano-sulla-stretta-ai-fornitori-ad-alto-rischio/",
-          "published_at": "2026-10-01T05:20:00Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/un-corrado-alvaro-ritrovato-dedicato-a-san-luca/",
           "title": "Un Corrado Alvaro ritrovato dedicato a San Luca",
           "source": "Giornalisti Italia",
@@ -2866,36 +2806,6 @@
           "last_seen_at": "2026-10-03T10:51:37Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/addio-elena-pero-voce-del-tennis-di-sky-sport/",
-          "title": "Addio Elena Pero voce del tennis di Sky Sport",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/addio-elena-pero-voce-del-tennis-di-sky-sport/",
-          "published_at": "2026-09-24T21:42:04Z",
-          "last_seen_at": "2026-10-02T11:38:10Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/giovan-battista-brunori-scoop-da-premio-pulitzer/",
-          "title": "Giovan Battista Brunori: scoop da Premio Pulitzer",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/giovan-battista-brunori-scoop-da-premio-pulitzer/",
-          "published_at": "2026-09-24T21:01:32Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/nord-est-multimedia-alessandro-barbano-direttore/",
-          "title": "Nord Est Multimedia: Alessandro Barbano direttore",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/nord-est-multimedia-alessandro-barbano-direttore/",
-          "published_at": "2026-09-24T18:19:09Z",
-          "last_seen_at": "2026-10-01T12:07:05Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2909,7 +2819,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "published_at": "2026-10-29T17:38:34Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -3094,16 +3004,6 @@
           "last_seen_at": "2026-10-07T12:21:57Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/09/30/scorrimento-gm26-bc02-ddg-2939-2025-regione-emilia-romagna/",
-          "title": "Scorrimento GM26 BC02 – DDG 2939/2025 – Regione Emilia Romagna",
-          "source": "USR Lazio",
-          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/09/30/scorrimento-gm26-bc02-ddg-2939-2025-regione-emilia-romagna/",
-          "published_at": "2026-09-30T11:41:24Z",
-          "last_seen_at": "2026-10-02T11:38:10Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
         }
       ]
     },
@@ -3122,7 +3022,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/23/trasmissione-del-bando-gonfia-la-rete-vinci-sul-web-v-edizione-e-dellavviso-di-riapertura-dei-termini-del-cybercrime-film-festival-premio-lucia/",
           "published_at": "2026-10-23T14:52:07Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3192,7 +3092,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3202,7 +3102,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3212,7 +3112,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-10-31T11:28:01Z",
+          "last_seen_at": "2026-11-01T12:22:34Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3405,7 +3305,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 14,
+      "item_count": 13,
       "error_detail": null
     },
     {
@@ -3429,7 +3329,7 @@
       "search_name": "Comunicazione PA e Ufficio Stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 1,
       "error_detail": null
     },
     {
