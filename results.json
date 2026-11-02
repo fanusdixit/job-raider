@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T12:22:34Z",
+  "generated_at": "2026-11-02T14:17:38Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,122 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/offerta-mobile-iliad-giga-200-5g-prezzo-bloccato/",
+          "title": "Offerta mobile iliad: 200 Giga in 5G, minuti e SMS illimitati a 9,99 euro al mese per sempre",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-mobile-iliad-giga-200-5g-prezzo-bloccato/",
+          "published_at": "2026-11-02T13:02:58Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/droni-le-reti-mobili-diventano-sensori-per-la-sicurezza/",
+          "title": "Droni, le reti mobili diventano sensori per la sicurezza",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/droni-le-reti-mobili-diventano-sensori-per-la-sicurezza/",
+          "published_at": "2026-11-02T12:05:41Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/eu-space-act-urso-regole-spazio/",
+          "title": "Spazio, Urso: “L’EU Space Act eviti inutili duplicazioni con legge italiana”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/eu-space-act-urso-regole-spazio/",
+          "published_at": "2026-11-02T11:32:26Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/lutforzzaman-alif-assassinato-per-le-sue-inchieste/",
+          "title": "Lutforzzaman Alif assassinato per le sue inchieste",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/lutforzzaman-alif-assassinato-per-le-sue-inchieste/",
+          "published_at": "2026-11-02T11:28:01Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/industria-5-0/imprese-finanziare-innovazione-2027/",
+          "title": "Innovazione e investimenti 2027, le strategie per la competitività delle imprese",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/industria-5-0/imprese-finanziare-innovazione-2027/",
+          "published_at": "2026-11-02T11:02:30Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-lenergia-frena-litalia-richieste-a-terna-per-95-gw/",
+          "title": "Data center, l’energia frena l’Italia: richieste a Terna per 95 GW",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-lenergia-frena-litalia-richieste-a-terna-per-95-gw/",
+          "published_at": "2026-11-02T10:35:02Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/leuropa-conta-satelliti-e-data-center-ma-chi-ripara-la-rete-quando-si-rompe/",
+          "title": "L’Europa conta satelliti e data center. Ma chi ripara la rete quando si rompe?",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/leuropa-conta-satelliti-e-data-center-ma-chi-ripara-la-rete-quando-si-rompe/",
+          "published_at": "2026-11-02T10:33:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/governance-intelligenza-artificiale-sfide-imprese-pa/",
+          "title": "Intelligenza artificiale, Lisi: “La sfida è governare le macchine senza perdere il controllo”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/governance-intelligenza-artificiale-sfide-imprese-pa/",
+          "published_at": "2026-11-02T09:03:33Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/vero-bella-e-i-mostri-ai-posti-di-comando/",
+          "title": "Vero Bella e i mostri ai posti di comando",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/vero-bella-e-i-mostri-ai-posti-di-comando/",
+          "published_at": "2026-11-02T08:44:51Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-ricavi-sotto-pressione-si-investe-su-reti-ai-e-qualita-dei-servizi/",
+          "title": "Telco, ricavi sotto pressione: si investe su reti, AI e qualità dei servizi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telco-ricavi-sotto-pressione-si-investe-su-reti-ai-e-qualita-dei-servizi/",
+          "published_at": "2026-11-02T07:00:00Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/natuzza-evolo-il-chiarore-sottile-della-santita/",
+          "title": "Natuzza Evolo: il chiarore sottile della santità",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/natuzza-evolo-il-chiarore-sottile-della-santita/",
+          "published_at": "2026-11-01T19:10:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/romagnano-sesia-e-il-cimitero-della-discordia/",
           "title": "Romagnano Sesia e il cimitero della discordia",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/romagnano-sesia-e-il-cimitero-della-discordia/",
           "published_at": "2026-10-31T23:39:38Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +133,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giornalisti-aggrediti-da-coloni-e-fermati-dalla-polizia/",
           "published_at": "2026-10-31T17:55:07Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +143,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-via-francigena-patrimonio-dellumanita/",
           "published_at": "2026-10-31T11:54:02Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-sassari-cerca-giornalista/",
           "published_at": "2026-10-31T10:38:26Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +163,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/geografia-amministrativa-della-calabria/",
           "published_at": "2026-10-30T17:09:27Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -63,7 +173,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/festival-di-sanremo-attenzione-alle-truffe/",
           "published_at": "2026-10-30T16:14:32Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -73,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/via-libera-alle-domande-di-prepensionamento/",
           "published_at": "2026-10-30T15:47:20Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -83,7 +193,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/bbva-esim-app-160-paesi/",
           "published_at": "2026-10-30T15:45:21Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -93,7 +203,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/ovranita-digitale-a-milano-il-forum-sulle-strategie-per-litalia-e-leuropa/",
           "published_at": "2026-10-30T13:53:14Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/ia-una-sfida-per-la-pubblica-amministrazione/",
           "published_at": "2026-10-30T10:41:14Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -193,7 +303,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tgr-campania-si-al-piano-di-pocobelli-ragosta/",
           "published_at": "2026-10-29T18:16:13Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -203,7 +313,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "published_at": "2026-10-29T17:38:34Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -213,7 +323,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/premio-mario-sconcerti-a-marco-lollobrigida/",
           "published_at": "2026-10-29T16:24:20Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2776,36 +2886,6 @@
           "last_seen_at": "2026-10-04T11:34:15Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/dirigente-giornalista-3-risorse-da-non-perdere/",
-          "title": "Dirigente giornalista: 3 risorse da non perdere",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/dirigente-giornalista-3-risorse-da-non-perdere/",
-          "published_at": "2026-09-26T16:37:35Z",
-          "last_seen_at": "2026-10-03T10:51:37Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/chi-custodisce-luomo-mentre-lia-accelera/",
-          "title": "Chi custodisce l’uomo mentre l’IA accelera?",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/chi-custodisce-luomo-mentre-lia-accelera/",
-          "published_at": "2026-09-25T21:21:02Z",
-          "last_seen_at": "2026-10-03T10:51:37Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/rai-parlamento-de-martino-col-vento-in-poppa/",
-          "title": "Rai Parlamento: De Martino col vento in poppa",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/rai-parlamento-de-martino-col-vento-in-poppa/",
-          "published_at": "2026-09-25T16:04:33Z",
-          "last_seen_at": "2026-10-03T10:51:37Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2819,7 +2899,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "published_at": "2026-10-29T17:38:34Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "comunicazione_pa",
           "search_name": "Comunicazione PA e Ufficio Stampa"
         },
@@ -3017,12 +3097,32 @@
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
         {
+          "dedupe_id": "https://www.liceoterracina.edu.it/pagine/certificato-di-regolare-esecuzione-relativo-alla-fornitura-di-n-1-targa-pubblicitaria-ed-etichette-per-il-progetto-di-cui-allavviso-pubblico-prot-n-95450-del-24-aprile-2026-dm-382026-",
+          "title": "Certificato di regolare esecuzione relativo alla fornitura di n. 1 targa pubblicitaria ed etichette per il progetto di cui all’Avviso Pubblico Prot. n. 95450 del 24 aprile 2026 (D.M. 38/2026)",
+          "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
+          "url": "https://www.liceoterracina.edu.it/pagine/certificato-di-regolare-esecuzione-relativo-alla-fornitura-di-n-1-targa-pubblicitaria-ed-etichette-per-il-progetto-di-cui-allavviso-pubblico-prot-n-95450-del-24-aprile-2026-dm-382026-",
+          "published_at": "2026-11-02T00:00:00Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
+          "dedupe_id": "https://www.liceoterracina.edu.it/pagine/certificato-di-regolare-esecuzione-relativo-alla-fornitura-di-n-14-notebook-professionali-nellambito-del-progetto-dm-382026",
+          "title": "Certificato di regolare esecuzione relativo alla fornitura di n. 14 notebook professionali di cui all’Avviso Pubblico Prot. n. 95450 del 24 aprile 2026 (D.M. 38/2026)",
+          "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
+          "url": "https://www.liceoterracina.edu.it/pagine/certificato-di-regolare-esecuzione-relativo-alla-fornitura-di-n-14-notebook-professionali-nellambito-del-progetto-dm-382026",
+          "published_at": "2026-11-02T00:00:00Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/23/trasmissione-del-bando-gonfia-la-rete-vinci-sul-web-v-edizione-e-dellavviso-di-riapertura-dei-termini-del-cybercrime-film-festival-premio-lucia/",
           "title": "Trasmissione del bando “Gonfia la rete, vinci sul web” – V edizione e dell’avviso di riapertura dei termini del “Cybercrime Film Festival – Premio Lucia Abiuso",
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/23/trasmissione-del-bando-gonfia-la-rete-vinci-sul-web-v-edizione-e-dellavviso-di-riapertura-dei-termini-del-cybercrime-film-festival-premio-lucia/",
           "published_at": "2026-10-23T14:52:07Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3092,7 +3192,7 @@
           "source": "IC Largo San Pio V (Roma)",
           "url": "https://comprensivosanpiov.edu.it/avviso-di-selezione-pubblica-per-la-selezione-della-figura-professionaleinterna-docenti-interni-nellambito-del-progetto-scuole-aperte-ilpomeriggio-la-sera-e-il-fine-settimana/",
           "published_at": "2026-09-17T14:10:40Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3102,7 +3202,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3112,7 +3212,7 @@
           "source": "IC Daniele Manin (Roma)",
           "url": "https://danielemanin.edu.it/buoni-libro-2/",
           "published_at": "2026-08-10T13:48:56Z",
-          "last_seen_at": "2026-11-01T12:22:34Z",
+          "last_seen_at": "2026-11-02T14:17:38Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3177,7 +3277,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Leonardo da Vinci — Terracina (ultime news)",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 2,
       "error_detail": null
     },
     {
@@ -3305,7 +3405,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 13,
+      "item_count": 14,
       "error_detail": null
     },
     {
