@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T12:30:56Z",
+  "generated_at": "2026-11-09T14:45:33Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,162 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.giornalistitalia.it/scuola-di-perugia-lorenzo-ottolenghi-direttore/",
+          "title": "Scuola di Perugia: Lorenzo Ottolenghi direttore",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/scuola-di-perugia-lorenzo-ottolenghi-direttore/",
+          "published_at": "2026-11-09T10:30:54Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-lai-spinge-la-corsa-a-energia-e-raffreddamento/",
+          "title": "Data center, l’AI spinge la corsa a energia e raffreddamento",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-lai-spinge-la-corsa-a-energia-e-raffreddamento/",
+          "published_at": "2026-11-09T10:10:42Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/digital-value-ibarra-ad-e-nasi-presidente-obiettivo-diventare-campione-nazionale/",
+          "title": "Digital Value, Ibarra Ad e Nasi presidente. Obiettivo: diventare campione nazionale",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/digital-value-ibarra-ad-e-nasi-presidente-obiettivo-diventare-campione-nazionale/",
+          "published_at": "2026-11-09T09:35:53Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/6g-il-calcolo-entra-nella-rete-la-sfida-delle-telco-sui-nuovi-servizi/",
+          "title": "6G, il calcolo entra nella rete: la sfida delle telco sui nuovi servizi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/6g-il-calcolo-entra-nella-rete-la-sfida-delle-telco-sui-nuovi-servizi/",
+          "published_at": "2026-11-09T09:00:00Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/computer-quantistici-fibercop-sperimenta-le-chiavi-di-sicurezza-del-futuro/",
+          "title": "Computer quantistici, FiberCop sperimenta le chiavi di sicurezza del futuro",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/computer-quantistici-fibercop-sperimenta-le-chiavi-di-sicurezza-del-futuro/",
+          "published_at": "2026-11-09T09:00:00Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-le-imprese-ue-accelerano-il-64-punta-a-ridurre-le-dipendenze/",
+          "title": "Sovranità digitale, le imprese Ue accelerano: il 64% punta a ridurre le dipendenze",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-le-imprese-ue-accelerano-il-64-punta-a-ridurre-le-dipendenze/",
+          "published_at": "2026-11-09T08:51:18Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/tim-full-fibra-business-promo-online-19-90-euro-wifi-7/",
+          "title": "Promo TIM Full Fibra per Partite IVA e PMI: connessione a 2,5 Giga, modem Wi-Fi 7 incluso e canone online a 19,90 euro al mese solo per le attivazioni online",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/tim-full-fibra-business-promo-online-19-90-euro-wifi-7/",
+          "published_at": "2026-11-09T08:47:13Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/pa-digitale/servizi-comunali-promossi-per-il-637-dei-cittadini-ora-si-chiede-piu-semplicita/",
+          "title": "Servizi comunali promossi per il 63,7% dei cittadini: ora si chiede più semplicità",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/pa-digitale/servizi-comunali-promossi-per-il-637-dei-cittadini-ora-si-chiede-piu-semplicita/",
+          "published_at": "2026-11-09T08:30:00Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-lautomazione-taglia-i-costi-operativi-del-95/",
+          "title": "Data center: l’automazione taglia i costi operativi del 9,5%",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-lautomazione-taglia-i-costi-operativi-del-95/",
+          "published_at": "2026-11-09T08:00:00Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/tariffe-telco-energia-ricavi-idc-2026/",
+          "title": "ll caro energia spinge le tariffe Tlc e i ricavi crescono. Ma meno dell’inflazione",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/tariffe-telco-energia-ricavi-idc-2026/",
+          "published_at": "2026-11-09T07:30:00Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-pietro-balzi/",
+          "title": "Addio al giornalista Pietro Balzi",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-al-giornalista-pietro-balzi/",
+          "published_at": "2026-11-08T22:03:22Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/il-legno-come-arte-spontanea-e-visionaria/",
+          "title": "Il legno come arte spontanea e visionaria",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/il-legno-come-arte-spontanea-e-visionaria/",
+          "published_at": "2026-11-08T19:38:17Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/traversate-dello-stretto-sport-che-muove-il-turismo/",
+          "title": "Traversate dello Stretto: sport che muove il turismo",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/traversate-dello-stretto-sport-che-muove-il-turismo/",
+          "published_at": "2026-11-08T18:50:15Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-luciano-rapa/",
+          "title": "Addio al giornalista Luciano Rapa",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-al-giornalista-luciano-rapa/",
+          "published_at": "2026-11-08T17:53:08Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/xii-edizione-del-premio-nazionale-giovanni-grillo/",
+          "title": "XII edizione del Premio nazionale Giovanni Grillo",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/xii-edizione-del-premio-nazionale-giovanni-grillo/",
+          "published_at": "2026-11-08T15:57:48Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/la-rai-e-la-sua-immagine/",
           "title": "La Rai e la sua immagine",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/la-rai-e-la-sua-immagine/",
           "published_at": "2026-11-07T09:46:20Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +173,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-tito-cortese-un-faro-sui-diritti-dei-cittadini/",
           "published_at": "2026-11-07T08:16:51Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +183,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/bob-dylan-da-papa-leone-larte-incontra-la-fede/",
           "published_at": "2026-11-06T21:30:27Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +193,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/allarme-bomba-evacuati-rte-e-irish-independent/",
           "published_at": "2026-11-06T15:25:49Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +203,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/agenti-ai-nelle-operations-per-le-telco-la-sfida-dei-costi-nascosti/",
           "published_at": "2026-11-06T12:48:51Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/qn-un-patto-coi-lettori-liberi-di-darci-torto/",
           "published_at": "2026-11-05T22:39:44Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +293,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giornalista-salva-la-vita-ad-una-passeggera-in-volo/",
           "published_at": "2026-11-05T16:47:44Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -263,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/fiera-di-san-martino-un-viaggio-nella-memoria/",
           "published_at": "2026-11-04T10:16:51Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/minacce-di-matrice-islamista-a-tommaso-cerno/",
           "published_at": "2026-11-03T18:25:18Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/rai-condannata-per-demansionamento/",
           "published_at": "2026-11-03T15:40:45Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2736,16 +2886,6 @@
           "last_seen_at": "2026-10-12T13:57:47Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/switzerland-literary-prize-a-marcello-foa/",
-          "title": "Switzerland Literary Prize a Marcello Foa",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/switzerland-literary-prize-a-marcello-foa/",
-          "published_at": "2026-10-03T21:00:30Z",
-          "last_seen_at": "2026-10-10T11:38:09Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2785,12 +2925,22 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/09/iniziative-e-progetti-per-la-s-2026-27-fip-comitato-regionale-lazio-ix-edizione-nba-jr-school-cup-league/",
+          "title": "Iniziative e Progetti per l’a.s. 2026/27. FIP Comitato Regionale Lazio IX Edizione “NBA Jr School Cup League”",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/09/iniziative-e-progetti-per-la-s-2026-27-fip-comitato-regionale-lazio-ix-edizione-nba-jr-school-cup-league/",
+          "published_at": "2026-11-09T07:47:43Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/06/avviso-pubblico-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta/",
           "title": "Avviso pubblico: Progetto-concorso “Campagna per la promozione della filiera della pasta”",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/06/avviso-pubblico-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta/",
           "published_at": "2026-11-06T16:44:57Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2951,7 +3101,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/06/avviso-pubblico-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta/",
           "published_at": "2026-11-06T16:44:57Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3051,7 +3201,7 @@
           "source": "IC Donati (Roma)",
           "url": "https://www.icdonati.edu.it/2026/08/19/selezione-per-lassegnazione-e-lutilizzo-dei-locali-per-il-servizio-di-pre-e-post-scuola/",
           "published_at": "2026-08-19T16:15:22Z",
-          "last_seen_at": "2026-11-08T12:30:56Z",
+          "last_seen_at": "2026-11-09T14:45:33Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3110,7 +3260,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Daniele Manin (Roma)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3157,9 +3307,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Montale (Roma)",
-      "status": "error",
+      "status": "ok",
       "item_count": 0,
-      "error_detail": "Liceo Montale (Roma): HTTP error fetching 'https://www.liceomontale.edu.it/feed/': Response ended prematurely"
+      "error_detail": null
     },
     {
       "search_id": "pnrr_orientamento",
@@ -3206,7 +3356,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Largo San Pio V (Roma)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3254,7 +3404,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 14,
+      "item_count": 15,
       "error_detail": null
     },
     {
