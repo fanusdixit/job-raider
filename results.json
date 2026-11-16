@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T13:12:30Z",
+  "generated_at": "2026-11-16T14:21:53Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,132 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-affidabile-e-sostenibile-nasce-il-consorzio-europeo-ai-gigafactory-northern/",
+          "title": "AI affidabile e sostenibile, nasce il consorzio europeo AI Gigafactory Northern",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-affidabile-e-sostenibile-nasce-il-consorzio-europeo-ai-gigafactory-northern/",
+          "published_at": "2026-11-16T13:56:32Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fibra-il-sorpasso-sul-misto-rame-si-avvicina-distacco-a-14-punti/",
+          "title": "Fibra, il sorpasso sul misto rame si avvicina: distacco a 1,4 punti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fibra-il-sorpasso-sul-misto-rame-si-avvicina-distacco-a-14-punti/",
+          "published_at": "2026-11-16T13:22:55Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud/cloud-italia-2027-2029-via-libera-alla-strategia-sovranita-e-ai-per-la-pa/",
+          "title": "Cloud Italia 2027-2029, via libera alla strategia: sovranità e AI per la PA",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud/cloud-italia-2027-2029-via-libera-alla-strategia-sovranita-e-ai-per-la-pa/",
+          "published_at": "2026-11-16T12:52:46Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-lai-spinge-il-mercato-della-gestione-delle-infrastrutture/",
+          "title": "Data center, l’AI spinge il mercato della gestione delle infrastrutture",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-lai-spinge-il-mercato-della-gestione-delle-infrastrutture/",
+          "published_at": "2026-11-16T12:06:06Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telco-e-ai-piu-valore-dalle-reti-ottiche-ma-attenzione-a-sicurezza-e-costi/",
+          "title": "Telco e AI, più valore dalle reti ottiche ma attenzione a sicurezza e costi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telco-e-ai-piu-valore-dalle-reti-ottiche-ma-attenzione-a-sicurezza-e-costi/",
+          "published_at": "2026-11-16T11:52:33Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/digital-divide-nel-mediterraneo-permane-il-divario-su-accesso-a-internet-e-competenze/",
+          "title": "Digital divide, nel Mediterraneo permane il divario su accesso a Internet e competenze",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/digital-divide-nel-mediterraneo-permane-il-divario-su-accesso-a-internet-e-competenze/",
+          "published_at": "2026-11-16T11:48:29Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/saverio-occhiuto-racconta-il-sistema-ndrangheta/",
+          "title": "Saverio Occhiuto racconta il sistema ’ndrangheta",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/saverio-occhiuto-racconta-il-sistema-ndrangheta/",
+          "published_at": "2026-11-16T11:02:47Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/iliad-e-fastwebvodafone-entrano-in-gsma-open-gateway/",
+          "title": "Iliad e Fastweb+Vodafone entrano in Gsma Open Gateway",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/iliad-e-fastwebvodafone-entrano-in-gsma-open-gateway/",
+          "published_at": "2026-11-16T10:24:52Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-le-telco-alla-sfida-dei-nuovi-servizi-cloud-edge-e-reti-intelligenti/",
+          "title": "Intelligenza artificiale, le telco alla sfida dei nuovi servizi: cloud, edge e reti smart",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/intelligenza-artificiale-le-telco-alla-sfida-dei-nuovi-servizi-cloud-edge-e-reti-intelligenti/",
+          "published_at": "2026-11-16T10:08:59Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/incendiate-la-casa-e-due-auto-di-un-giornalista/",
+          "title": "Incendiate la casa e due auto di un giornalista",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/incendiate-la-casa-e-due-auto-di-un-giornalista/",
+          "published_at": "2026-11-15T19:33:24Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/amici-di-tutti-e-sudditi-di-nessuno/",
+          "title": "Amici di tutti e sudditi di nessuno",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/amici-di-tutti-e-sudditi-di-nessuno/",
+          "published_at": "2026-11-15T15:55:48Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/cosa-resta-dellumano-accanto-alla-tecnica-e-allia/",
+          "title": "Cosa resta dell’umano accanto alla tecnica e all’IA?",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/cosa-resta-dellumano-accanto-alla-tecnica-e-allia/",
+          "published_at": "2026-11-14T22:21:04Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/romania-gaspare-borsellino-console-onorario/",
           "title": "Gaspare Borsellino Console Onorario della Romania",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/romania-gaspare-borsellino-console-onorario/",
           "published_at": "2026-11-14T03:00:01Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -23,7 +143,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/michl-ebner-nuovo-direttore-di-dolomiten/",
           "published_at": "2026-11-13T21:49:00Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -33,7 +153,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/rangone-tim-poste-la-piattaforma-di-innovazione-sovrana-italiana/",
           "published_at": "2026-11-13T18:52:03Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -43,7 +163,7 @@
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/space-economy/tyvak-porta-il-5g-nello-spazio-riusciti-i-test-tra-satellite-e-terra/",
           "published_at": "2026-11-13T15:40:47Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -103,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/toni-capuozzo-un-uomo-libero-senza-bandiere/",
           "published_at": "2026-11-13T12:41:09Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -143,7 +263,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-giornalismo-perde-un-grande-addio-toni-capuozzo/",
           "published_at": "2026-11-12T16:51:21Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -173,7 +293,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-milena-boccadoro/",
           "published_at": "2026-11-12T13:41:15Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -263,7 +383,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/giornalismo-sotto-attacco-svizzera-in-piazza/",
           "published_at": "2026-11-11T15:50:55Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +413,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/lella-beretta-il-bello-in-bene-in-uno-scatto/",
           "published_at": "2026-11-11T12:18:26Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -363,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/comune-di-salerno-cerca-2-giornalisti/",
           "published_at": "2026-11-10T19:39:17Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -373,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/tomas-beltran-un-omicidio-annunciato/",
           "published_at": "2026-11-10T16:30:16Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +593,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/umbria24-e-figec-al-fianco-di-marta-rosati/",
           "published_at": "2026-11-09T19:02:06Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -483,7 +603,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/delta-center-e-italpress-per-investment-africa/",
           "published_at": "2026-11-09T14:51:28Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2716,16 +2836,6 @@
           "last_seen_at": "2026-10-18T10:08:03Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/rai-2-il-debutto-di-patu-accende-il-dibattito/",
-          "title": "Rai 2: il debutto di Patù accende il dibattito",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/rai-2-il-debutto-di-patu-accende-il-dibattito/",
-          "published_at": "2026-10-09T07:09:01Z",
-          "last_seen_at": "2026-10-17T09:56:09Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2770,7 +2880,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/12/diffusione-programma-del-mim-al-salone-dello-studente-e-del-prof-di-roma/",
           "published_at": "2026-11-12T16:22:41Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2780,7 +2890,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/12/competizione-matematica-senza-frontiere-anno-scolastico-2026-2027-concorso-logo-msf-2027/",
           "published_at": "2026-11-12T14:45:31Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2790,7 +2900,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/12/concorso-nazionale-larte-come-veicolo-di-verita-giuridica-e-sociale-a-s-2026-2027/",
           "published_at": "2026-11-12T12:31:24Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2800,7 +2910,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/12/mim-mail-massive-alle-scuole/",
           "published_at": "2026-11-12T11:49:09Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2961,7 +3071,7 @@
           "source": "IC Via Aretusa (Roma)",
           "url": "https://www.icaretusa.edu.it/uncategorized/avviso-di-malfunzionamento-servizio-email-dellistituto/",
           "published_at": "2026-11-13T10:02:10Z",
-          "last_seen_at": "2026-11-14T12:45:27Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -2981,7 +3091,7 @@
           "source": "IC Ceneda (Roma)",
           "url": "https://www.comprensivoceneda.edu.it/2026/11/12/avviso-allerta-meteo/",
           "published_at": "2026-11-12T14:00:56Z",
-          "last_seen_at": "2026-11-15T13:12:30Z",
+          "last_seen_at": "2026-11-16T14:21:53Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3206,7 +3316,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Ceneda (Roma)",
       "status": "ok",
-      "item_count": 2,
+      "item_count": 1,
       "error_detail": null
     },
     {
@@ -3261,9 +3371,9 @@
       "search_id": "pnrr_orientamento",
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "IC Via Aretusa (Roma)",
-      "status": "error",
-      "item_count": 0,
-      "error_detail": "IC Via Aretusa (Roma): malformed feed (<unknown>:94:2: mismatched tag)"
+      "status": "ok",
+      "item_count": 1,
+      "error_detail": null
     },
     {
       "search_id": "pnrr_orientamento",
@@ -3294,7 +3404,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 16,
+      "item_count": 15,
       "error_detail": null
     },
     {
