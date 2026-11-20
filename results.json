@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T14:57:47Z",
+  "generated_at": "2026-11-20T14:39:17Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,112 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/iceye-avio-la-guerra-dei-minuti-chi-controlla-i-dati-mentre-litalia-prepara-i-razzi/",
+          "title": "Iceye-Avio, la guerra dei minuti: chi controlla i dati mentre l’Italia prepara i razzi?",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/iceye-avio-la-guerra-dei-minuti-chi-controlla-i-dati-mentre-litalia-prepara-i-razzi/",
+          "published_at": "2026-11-20T12:27:51Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fibra-ottica-fibercop-porta-a-torino-la-tecnologia-hfc/",
+          "title": "Fibra ottica, FiberCop porta a Torino la tecnologia Hfc",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/banda-ultralarga/fibra-ottica-fibercop-porta-a-torino-la-tecnologia-hfc/",
+          "published_at": "2026-11-20T11:42:12Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/smartphone-via-satellite-per-leuropa-la-sfida-e-farne-un-mercato/",
+          "title": "Smartphone via satellite, per l’Europa la sfida è farne un mercato",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/smartphone-via-satellite-per-leuropa-la-sfida-e-farne-un-mercato/",
+          "published_at": "2026-11-20T09:36:34Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/mazzitelli-open-fiber-lai-cambia-internet-servono-infrastrutture-piu-potenti-e-nuovi-modelli-di-business/",
+          "title": "Mazzitelli, Open Fiber: “L’AI cambia Internet. Servono infrastrutture più potenti e nuovi modelli di business”",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/mazzitelli-open-fiber-lai-cambia-internet-servono-infrastrutture-piu-potenti-e-nuovi-modelli-di-business/",
+          "published_at": "2026-11-20T09:06:26Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-lue-accelera-297-milioni-per-le-tecnologie-strategiche-e-33-miliardi-sui-chip/",
+          "title": "Sovranità digitale, l’Ue accelera: 297 milioni per le tecnologie strategiche e 33 miliardi sui chip",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/sovranita-digitale-lue-accelera-297-milioni-per-le-tecnologie-strategiche-e-33-miliardi-sui-chip/",
+          "published_at": "2026-11-20T08:47:57Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/space-e-blue-economy-un-motore-da-463-miliardi-per-litalia-digitale-e-infrastrutture-al-centro/",
+          "title": "Space e Blue Economy, un motore da 46,3 miliardi per l’Italia: digitale e infrastrutture al centro",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/space-e-blue-economy-un-motore-da-463-miliardi-per-litalia-digitale-e-infrastrutture-al-centro/",
+          "published_at": "2026-11-20T08:37:58Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/digital-networks-act-fibra-spettro-e-nuove-regole-ue/",
+          "title": "Capacità di calcolo per l’AI, la scommessa delle telco è venderla insieme alla connettività",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/digital-networks-act-fibra-spettro-e-nuove-regole-ue/",
+          "published_at": "2026-11-20T08:00:00Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/offerta-disney-plus-24-novembre-2-mesi-promo-piani-mensili/",
+          "title": "Offerta Disney+ valida fino al 24 novembre 2026: 2 mesi di abbonamento in promozione su tutti i piani mensili per nuovi ed ex iscritti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-disney-plus-24-novembre-2-mesi-promo-piani-mensili/",
+          "published_at": "2026-11-20T07:01:00Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/comunicazioni-lunari-nuovo-sito-in-spagna-grazie-alla-partnership-di-esa-ksat-e-inta/",
+          "title": "Comunicazioni lunari, nuovo sito in Spagna grazie alla partnership di Esa, Ksat e Inta",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/comunicazioni-lunari-nuovo-sito-in-spagna-grazie-alla-partnership-di-esa-ksat-e-inta/",
+          "published_at": "2026-11-20T07:00:00Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-corrado-augias/",
+          "title": "Addio al giornalista Corrado Augias",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-al-giornalista-corrado-augias/",
+          "published_at": "2026-11-19T19:12:38Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/telco/connettivita-potenziata-per-ai-e-cloud-tecnologia-nokia-nel-nuovo-corridoio-europa-africa/",
           "title": "Connettività potenziata per Ai e cloud, tecnologia Nokia nel nuovo corridoio Europa-Africa",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/telco/connettivita-potenziata-per-ai-e-cloud-tecnologia-nokia-nel-nuovo-corridoio-europa-africa/",
           "published_at": "2026-11-19T12:31:20Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -53,7 +153,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-piero-vigorelli-uno-di-noi/",
           "published_at": "2026-11-19T11:54:22Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +213,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/conservatorio-cerca-fotografo-giornalista-ma/",
           "published_at": "2026-11-18T16:25:59Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/mediterraneo-pedagogia-del-mare-e-del-viaggio/",
           "published_at": "2026-11-18T15:03:03Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -133,7 +233,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/san-luca-consegna-il-xiv-premio-corrado-alvaro/",
           "published_at": "2026-11-18T13:51:17Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -183,7 +283,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-77-degli-italiani-ritiene-i-giornalisti-inaffidabili/",
           "published_at": "2026-11-18T10:05:33Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -273,7 +373,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/assassinato-il-giornalista-camilo-rodriguez/",
           "published_at": "2026-11-17T11:58:04Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +433,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-al-business-care-international-award/",
           "published_at": "2026-11-17T09:29:32Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -423,7 +523,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/saverio-occhiuto-racconta-il-sistema-ndrangheta/",
           "published_at": "2026-11-16T11:02:47Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -453,7 +553,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/incendiate-la-casa-e-due-auto-di-un-giornalista/",
           "published_at": "2026-11-15T19:33:24Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -463,7 +563,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/amici-di-tutti-e-sudditi-di-nessuno/",
           "published_at": "2026-11-15T15:55:48Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -473,7 +573,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/cosa-resta-dellumano-accanto-alla-tecnica-e-allia/",
           "published_at": "2026-11-14T22:21:04Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -483,7 +583,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/romania-gaspare-borsellino-console-onorario/",
           "published_at": "2026-11-14T03:00:01Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -493,7 +593,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/michl-ebner-nuovo-direttore-di-dolomiten/",
           "published_at": "2026-11-13T21:49:00Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2638,56 +2738,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/industria-4-0/iot/1nce-davide-brandini-e-svp-southeast-europe-sales-la-carriera/",
-          "title": "1NCE, Davide Brandini è SVP Southeast Europe Sales: la carriera",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/industria-4-0/iot/1nce-davide-brandini-e-svp-southeast-europe-sales-la-carriera/",
-          "published_at": "2026-10-21T09:13:15Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-fibra-ottica-ai-domanda-banda/",
-          "title": "Data center, senza fibra a rischio la corsa all’AI: domanda di banda verso il +500%",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-fibra-ottica-ai-domanda-banda/",
-          "published_at": "2026-10-21T09:08:26Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/la-tecnologia-di-nokia-e-ericsson-alla-conquista-del-mondo-gli-accordi-con-softbank-e-telstra/",
-          "title": "La tecnologia di Nokia e Ericsson alla conquista del mondo: gli accordi con Softbank e Telstra",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/la-tecnologia-di-nokia-e-ericsson-alla-conquista-del-mondo-gli-accordi-con-softbank-e-telstra/",
-          "published_at": "2026-10-21T08:28:51Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/fibercop-edge-data-center-ai/",
-          "title": "FiberCop, oltre la fibra: la strategia dei 100 data center per l’AI",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/data-center/fibercop-edge-data-center-ai/",
-          "published_at": "2026-10-21T08:18:36Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/cessione-sparkle-tim-e-retelit-confermano-limpegno-a-chiudere/",
-          "title": "Cessione Sparkle, Tim e Retelit confermano l’impegno a chiudere",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/cessione-sparkle-tim-e-retelit-confermano-limpegno-a-chiudere/",
-          "published_at": "2026-10-21T08:04:03Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/the-world-gate-i-muri-che-uniscono-i-continenti/",
           "title": "The World Gate: i muri che uniscono i continenti",
           "source": "Giornalisti Italia",
@@ -2704,46 +2754,6 @@
           "url": "https://www.giornalistitalia.it/stati-generali-contro-i-femminicidi/",
           "published_at": "2026-10-20T16:42:28Z",
           "last_seen_at": "2026-10-27T11:19:15Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ho-mobile-offerta-scadenza-100-giga-mese-omaggio/",
-          "title": "Offerta ho. mobile in scadenza: 100 Giga a 5,95 euro al mese con primo mese in omaggio solo online",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/ho-mobile-offerta-scadenza-100-giga-mese-omaggio/",
-          "published_at": "2026-10-20T14:31:03Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/direct-to-device-globalstar-ha-il-via-libera-a-operare-negli-usa/",
-          "title": "Direct-to-device, Globalstar ha il via libera a operare negli Usa",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/direct-to-device-globalstar-ha-il-via-libera-a-operare-negli-usa/",
-          "published_at": "2026-10-20T14:18:54Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/media/dalla-tv-alle-piattaforme-il-nuovo-ecosistema-digitale-delle-comunicazioni-audiovisive/",
-          "title": "Dalla TV alle piattaforme: il nuovo ecosistema digitale delle comunicazioni audiovisive",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/media/dalla-tv-alle-piattaforme-il-nuovo-ecosistema-digitale-delle-comunicazioni-audiovisive/",
-          "published_at": "2026-10-20T13:56:28Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ai-sovrana-allarme-garanzie-provider/",
-          "title": "AI sovrana, allarme sulle garanzie dei provider: il 28% non è verificabile",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/ai-sovrana-allarme-garanzie-provider/",
-          "published_at": "2026-10-20T11:05:37Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2836,46 +2846,6 @@
           "last_seen_at": "2026-10-22T10:54:11Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/secondamano-le-storiche-testate-passano-al-digitale/",
-          "title": "Secondamano: le storiche testate passano al digitale",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/secondamano-le-storiche-testate-passano-al-digitale/",
-          "published_at": "2026-10-14T21:22:38Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/spu26-giovani-e-universita-per-la-cultura-della-pace/",
-          "title": "SPU26: giovani e università per la cultura della pace",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/spu26-giovani-e-universita-per-la-cultura-della-pace/",
-          "published_at": "2026-10-14T18:36:05Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/addio-al-giornalista-agazio-a-loiero/",
-          "title": "Addio al giornalista Agazio A. Loiero",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/addio-al-giornalista-agazio-a-loiero/",
-          "published_at": "2026-10-13T20:56:05Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/un-tesoro-chiamato-fede-il-segreto-della-felicita/",
-          "title": "Un tesoro chiamato Fede: il segreto della felicità",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/un-tesoro-chiamato-fede-il-segreto-della-felicita/",
-          "published_at": "2026-10-13T12:06:01Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2915,12 +2885,22 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/20/agridays-il-salone-dellorientamento-agraria-enogastronomia-e-turismo-roma-2-dicembre-2026/",
+          "title": "Agridays – Il Salone dell’Orientamento. Agraria, Enogastronomia e Turismo – Roma, 2 dicembre 2026",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/20/agridays-il-salone-dellorientamento-agraria-enogastronomia-e-turismo-roma-2-dicembre-2026/",
+          "published_at": "2026-11-20T14:34:31Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/19/rilevazione-dati-e-informazioni-su-misure-di-trasparenza-e-anticorruzione-sollecito-compilazione-form-2/",
           "title": "Rilevazione dati e informazioni su misure di trasparenza e anticorruzione. Sollecito compilazione form",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/19/rilevazione-dati-e-informazioni-su-misure-di-trasparenza-e-anticorruzione-sollecito-compilazione-form-2/",
           "published_at": "2026-11-19T14:12:37Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2930,7 +2910,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/18/assemblee-sindacali-anp-lazio/",
           "published_at": "2026-11-18T09:16:03Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -3083,26 +3063,6 @@
           "last_seen_at": "2026-10-22T10:54:11Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/21/assemblea-sindacale-dirigentiscuola-di-s-conf-lazio-5-novembre-2026/",
-          "title": "Assemblea Sindacale Dirigentiscuola Di.S.Conf. Lazio – 5 novembre 2026",
-          "source": "USR Lazio",
-          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/21/assemblea-sindacale-dirigentiscuola-di-s-conf-lazio-5-novembre-2026/",
-          "published_at": "2026-10-21T09:28:28Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
-        },
-        {
-          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/10/19/avviso-di-consultazione-pubblica-del-piano-triennale-della-prevenzione-della-corruzione-e-per-la-trasparenza-ptpct-per-le-istituzioni-scolastiche-della-regione-lazio-aggiornamento-triennio/",
-          "title": "Avviso di consultazione pubblica del Piano Triennale della Prevenzione della Corruzione e per la Trasparenza (PTPCT) per le Istituzioni Scolastiche della regione Lazio – Aggiornamento triennio 2026/2028",
-          "source": "USR Lazio",
-          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/10/19/avviso-di-consultazione-pubblica-del-piano-triennale-della-prevenzione-della-corruzione-e-per-la-trasparenza-ptpct-per-le-istituzioni-scolastiche-della-regione-lazio-aggiornamento-triennio/",
-          "published_at": "2026-10-19T12:51:37Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "concorsi_pa",
-          "search_name": "Concorsi PA — Lazio e Campania"
         }
       ]
     },
@@ -3121,7 +3081,7 @@
           "source": "IC Via Aretusa (Roma)",
           "url": "https://www.icaretusa.edu.it/uncategorized/avviso-di-malfunzionamento-servizio-email-dellistituto/",
           "published_at": "2026-11-13T10:02:10Z",
-          "last_seen_at": "2026-11-19T14:57:47Z",
+          "last_seen_at": "2026-11-20T14:39:17Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3236,16 +3196,6 @@
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
         {
-          "dedupe_id": "https://www.liceoterracina.edu.it/pagine/usr-lazio---avviso-di-consultazione-pubblica-del-piano-triennale-della-prevenzione-della-corruzione-e-per-la-trasparenza-ptpct-per-le-iiss-della-regione-lazio--aggiornamento-triennio-202628",
-          "title": "Usr Lazio - Avviso di consultazione pubblica del Piano Triennale della Prevenzione della Corruzione e per la Trasparenza (PTPCT) per le II.SS. della regione Lazio – Aggiornamento triennio 2026/28",
-          "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
-          "url": "https://www.liceoterracina.edu.it/pagine/usr-lazio---avviso-di-consultazione-pubblica-del-piano-triennale-della-prevenzione-della-corruzione-e-per-la-trasparenza-ptpct-per-le-iiss-della-regione-lazio--aggiornamento-triennio-202628",
-          "published_at": "2026-10-19T00:00:00Z",
-          "last_seen_at": "2026-10-21T10:53:16Z",
-          "search_id": "pnrr_orientamento",
-          "search_name": "PNRR — Orientatrice / Esperto esterno"
-        },
-        {
           "dedupe_id": "https://www.liceoterracina.edu.it/pvw2/app/default/index.php?id=3590&tipo=pagine&",
           "title": "Regione Lazio - Avviso pubblico per sostegno agli studenti per la partecipazione a viaggi e a eventi di premiazione per la valorizzazione delle eccellenze, organizzati da Istituti scolastici laziali",
           "source": "Liceo Leonardo da Vinci — Terracina (ultime news)",
@@ -3326,7 +3276,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "Liceo Leonardo da Vinci — Terracina (ultime news)",
       "status": "ok",
-      "item_count": 1,
+      "item_count": 0,
       "error_detail": null
     },
     {
@@ -3446,7 +3396,7 @@
       "search_name": "Concorsi PA — Lazio e Campania",
       "source_label": "USR Lazio",
       "status": "ok",
-      "item_count": 4,
+      "item_count": 3,
       "error_detail": null
     },
     {
