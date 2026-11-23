@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T13:49:33Z",
+  "generated_at": "2026-11-23T16:55:05Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,122 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/jensen-huang-torna-alla-guida-di-nvidia-il-titolo-balza-a-wall-street/",
+          "title": "Jensen Huang torna alla guida di Nvidia, il titolo balza a Wall Street",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/jensen-huang-torna-alla-guida-di-nvidia-il-titolo-balza-a-wall-street/",
+          "published_at": "2026-11-23T15:25:29Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-butti-dovranno-essere-classificati-in-base-alla-rilevanza-strategica-dei-servizi/",
+          "title": "Data center, Butti: dovranno essere classificati in base alla rilevanza strategica dei servizi",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-butti-dovranno-essere-classificati-in-base-alla-rilevanza-strategica-dei-servizi/",
+          "published_at": "2026-11-23T14:59:35Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/lavoro-carriere/digital-value-luca-donna-e-il-nuovo-cfo/",
+          "title": "Digital Value, Luca Donna è il nuovo Cfo",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/lavoro-carriere/digital-value-luca-donna-e-il-nuovo-cfo/",
+          "published_at": "2026-11-23T11:46:27Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/offerta-iliad-top-30-mondo-300-gb-5g-estero-12-99-euro/",
+          "title": "Iliad TOP 30 MONDO: 300 GB in 5G, minuti e SMS illimitati a 12,99 euro al mese per sempre con 30 GB extra all’estero",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/offerta-iliad-top-30-mondo-300-gb-5g-estero-12-99-euro/",
+          "published_at": "2026-11-23T11:35:36Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-trump-minacca-di-tassare-chi-investe-fuori-dagli-usa/",
+          "title": "Data center, Trump minacca di tassare chi investe fuori dagli Usa",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-trump-minacca-di-tassare-chi-investe-fuori-dagli-usa/",
+          "published_at": "2026-11-23T11:32:45Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/banda-larga-negli-stati-uniti-il-satellite-insidia-lfwa/",
+          "title": "Banda larga, negli Stati Uniti il satellite insidia l’Fwa",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/banda-larga-negli-stati-uniti-il-satellite-insidia-lfwa/",
+          "published_at": "2026-11-23T11:12:27Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/telefonia-via-internet-braccio-di-ferro-usa-cina/",
+          "title": "Telefonia via Internet, braccio di ferro Usa-Cina",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/telefonia-via-internet-braccio-di-ferro-usa-cina/",
+          "published_at": "2026-11-23T10:29:01Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/data-center/data-center-per-lai-la-rete-elettrica-detta-i-tempi-dei-cantieri/",
+          "title": "Data center per l’AI, la rete elettrica detta i tempi dei cantieri",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/data-center/data-center-per-lai-la-rete-elettrica-detta-i-tempi-dei-cantieri/",
+          "published_at": "2026-11-23T09:49:22Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/cyber-security/sicurezza-informatica-nella-pa-come-garantire-la-continuita-dei-servizi-pubblici/",
+          "title": "Sicurezza informatica nella PA: come garantire la continuità dei servizi pubblici",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/cyber-security/sicurezza-informatica-nella-pa-come-garantire-la-continuita-dei-servizi-pubblici/",
+          "published_at": "2026-11-23T09:41:54Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/autonomous-network-il-percorso-degli-operatori-italiani-verso-reti-piu-intelligenti/",
+          "title": "Autonomous Network: il percorso degli operatori italiani verso reti più intelligenti",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/autonomous-network-il-percorso-degli-operatori-italiani-verso-reti-piu-intelligenti/",
+          "published_at": "2026-11-23T08:00:00Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-alla-giornalista-federica-curletta/",
+          "title": "Addio alla giornalista Federica Curletta",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-alla-giornalista-federica-curletta/",
+          "published_at": "2026-11-22T15:36:21Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/non-facciamo-sparire-la-carta-stampata/",
           "title": "“Non facciamo sparire la carta stampata”",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/non-facciamo-sparire-la-carta-stampata/",
           "published_at": "2026-11-20T18:21:15Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -113,7 +223,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-corrado-augias/",
           "published_at": "2026-11-19T19:12:38Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -163,7 +273,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-piero-vigorelli-uno-di-noi/",
           "published_at": "2026-11-19T11:54:22Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -223,7 +333,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/conservatorio-cerca-fotografo-giornalista-ma/",
           "published_at": "2026-11-18T16:25:59Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -233,7 +343,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/mediterraneo-pedagogia-del-mare-e-del-viaggio/",
           "published_at": "2026-11-18T15:03:03Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -243,7 +353,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/san-luca-consegna-il-xiv-premio-corrado-alvaro/",
           "published_at": "2026-11-18T13:51:17Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -293,7 +403,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-77-degli-italiani-ritiene-i-giornalisti-inaffidabili/",
           "published_at": "2026-11-18T10:05:33Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -383,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/assassinato-il-giornalista-camilo-rodriguez/",
           "published_at": "2026-11-17T11:58:04Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -443,7 +553,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/italpress-al-business-care-international-award/",
           "published_at": "2026-11-17T09:29:32Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -533,7 +643,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/saverio-occhiuto-racconta-il-sistema-ndrangheta/",
           "published_at": "2026-11-16T11:02:47Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -563,7 +673,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/incendiate-la-casa-e-due-auto-di-un-giornalista/",
           "published_at": "2026-11-15T19:33:24Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -573,7 +683,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/amici-di-tutti-e-sudditi-di-nessuno/",
           "published_at": "2026-11-15T15:55:48Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2716,16 +2826,6 @@
           "last_seen_at": "2026-10-25T10:26:56Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/italy-now-litalia-a-new-york-oltre-la-cartolina/",
-          "title": "Italy Now: l’Italia a New York oltre la cartolina",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/italy-now-litalia-a-new-york-oltre-la-cartolina/",
-          "published_at": "2026-10-15T19:10:15Z",
-          "last_seen_at": "2026-10-24T10:01:36Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2765,12 +2865,32 @@
       "name": "Concorsi PA — Lazio e Campania",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/concorso-siemens-school-tech-awards-edizione-2027-xviii-edizione/",
+          "title": "Concorso Siemens “School Tech Awards – Edizione 2027”. XVIII edizione.",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/concorso-siemens-school-tech-awards-edizione-2027-xviii-edizione/",
+          "published_at": "2026-11-23T12:56:53Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/proroga-dei-termini-di-presentazione-delle-candidature-a-s-2026-2027-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta-avviso-pubblico-dell/",
+          "title": "Proroga dei termini di presentazione delle candidature – A.S. 2026/2027 – Progetto-Concorso “Campagna per la promozione della filiera della pasta”. Avviso pubblico dell’USR Lazio prot. n. 112830 del 6.11.2026",
+          "source": "USR Lazio",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/proroga-dei-termini-di-presentazione-delle-candidature-a-s-2026-2027-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta-avviso-pubblico-dell/",
+          "published_at": "2026-11-23T10:37:06Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "concorsi_pa",
+          "search_name": "Concorsi PA — Lazio e Campania"
+        },
+        {
           "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/20/agridays-il-salone-dellorientamento-agraria-enogastronomia-e-turismo-roma-2-dicembre-2026/",
           "title": "Agridays – Il Salone dell’Orientamento. Agraria, Enogastronomia e Turismo – Roma, 2 dicembre 2026",
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/20/agridays-il-salone-dellorientamento-agraria-enogastronomia-e-turismo-roma-2-dicembre-2026/",
           "published_at": "2026-11-20T14:34:31Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2926,12 +3046,22 @@
       "name": "PNRR — Orientatrice / Esperto esterno",
       "items": [
         {
+          "dedupe_id": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/proroga-dei-termini-di-presentazione-delle-candidature-a-s-2026-2027-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta-avviso-pubblico-dell/",
+          "title": "Proroga dei termini di presentazione delle candidature – A.S. 2026/2027 – Progetto-Concorso “Campagna per la promozione della filiera della pasta”. Avviso pubblico dell’USR Lazio prot. n. 112830 del 6.11.2026",
+          "source": "USR Lazio — Aree tematiche",
+          "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/proroga-dei-termini-di-presentazione-delle-candidature-a-s-2026-2027-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta-avviso-pubblico-dell/",
+          "published_at": "2026-11-23T10:37:06Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
+          "search_id": "pnrr_orientamento",
+          "search_name": "PNRR — Orientatrice / Esperto esterno"
+        },
+        {
           "dedupe_id": "https://www.icaretusa.edu.it/uncategorized/avviso-di-malfunzionamento-servizio-email-dellistituto/",
           "title": "AVVISO DI MALFUNZIONAMENTO SERVIZIO EMAIL DELL’ISTITUTO",
           "source": "IC Via Aretusa (Roma)",
           "url": "https://www.icaretusa.edu.it/uncategorized/avviso-di-malfunzionamento-servizio-email-dellistituto/",
           "published_at": "2026-11-13T10:02:10Z",
-          "last_seen_at": "2026-11-22T13:49:33Z",
+          "last_seen_at": "2026-11-23T16:55:05Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3188,7 +3318,7 @@
       "search_name": "PNRR — Orientatrice / Esperto esterno",
       "source_label": "USR Lazio — Aree tematiche",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 1,
       "error_detail": null
     },
     {
