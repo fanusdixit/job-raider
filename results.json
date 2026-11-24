@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T16:55:05Z",
+  "generated_at": "2026-11-24T16:45:17Z",
   "tool_version": "0.1.0",
   "searches": [
     {
@@ -8,12 +8,132 @@
       "name": "Comunicazione e uffici stampa",
       "items": [
         {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/space-act-europeo-non-basta-ridurre-le-regole-la-competitivita-si-misura-in-lanci/",
+          "title": "Space Act europeo, non basta ridurre le regole: la competitività si misura in lanci",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/space-act-europeo-non-basta-ridurre-le-regole-la-competitivita-si-misura-in-lanci/",
+          "published_at": "2026-11-24T13:40:50Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/infobip-rafforza-la-partnership-con-anthropic-e-porta-la-messaggistica-globale-dentro-claude/",
+          "title": "Infobip rafforza la partnership con Anthropic e porta la messaggistica globale dentro Claude",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/infobip-rafforza-la-partnership-con-anthropic-e-porta-la-messaggistica-globale-dentro-claude/",
+          "published_at": "2026-11-24T11:19:17Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/tim-business-start-fwa-5g-300-mega-kit-19-90-euro/",
+          "title": "TIM Business Start FWA 5G fino a 300 Mega: connessione internet a 19,90 euro al mese con kit indoor incluso e Telepass Business gratis",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/tim-business-start-fwa-5g-300-mega-kit-19-90-euro/",
+          "published_at": "2026-11-24T10:45:41Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/ict-verso-i-70-miliardi-ciclone-ai-a-40-ma-le-telco-arretrano-e-ce-uno-skill-gap/",
+          "title": "ICT verso i 70 miliardi: ciclone AI a +40%, ma le telco arretrano (e c’è uno skill gap)",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/digital-economy/ict-verso-i-70-miliardi-ciclone-ai-a-40-ma-le-telco-arretrano-e-ce-uno-skill-gap/",
+          "published_at": "2026-11-24T10:16:00Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/addio-alla-giornalista-francesca-pinochi/",
+          "title": "Addio alla giornalista Francesca Pinochi",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/addio-alla-giornalista-francesca-pinochi/",
+          "published_at": "2026-11-24T09:58:24Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/unidata-da-telco-a-tech-company-piu-servizi-ict-piu-b2b-piu-territori/",
+          "title": "Unidata, da telco a tech company: più servizi ICT, più B2B, più territori",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/unidata-da-telco-a-tech-company-piu-servizi-ict-piu-b2b-piu-territori/",
+          "published_at": "2026-11-24T09:08:00Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/thales-alenia-space-firma-un-contratto-da-oltre-240-milioni-per-gli-altimetri-di-copernicus/",
+          "title": "Thales Alenia Space firma un contratto da oltre 240 milioni per gli altimetri di Copernicus",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/spaceconomy/thales-alenia-space-firma-un-contratto-da-oltre-240-milioni-per-gli-altimetri-di-copernicus/",
+          "published_at": "2026-11-24T08:30:00Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/__trashed-3/",
+          "title": "Customer care & AI, ecco i costi nascosti dell’interazione coi bot",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/telco/__trashed-3/",
+          "published_at": "2026-11-24T08:19:00Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/boom-di-comunicazioni-satellitari-ma-occhio-alla-resilienza-cyber/",
+          "title": "Boom di comunicazioni satellitari, ma occhio alla resilienza cyber",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/boom-di-comunicazioni-satellitari-ma-occhio-alla-resilienza-cyber/",
+          "published_at": "2026-11-24T08:02:00Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.corrierecomunicazioni.it/space-economy/aerospazio-e-difesa-i-margini-si-spostano-su-software-e-dati/",
+          "title": "Aerospazio e difesa, i margini si spostano su software e dati",
+          "source": "Corriere Comunicazioni",
+          "url": "https://www.corrierecomunicazioni.it/space-economy/aerospazio-e-difesa-i-margini-si-spostano-su-software-e-dati/",
+          "published_at": "2026-11-24T08:00:00Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/ansa-5-giorni-di-sciopero-dei-giornalisti/",
+          "title": "Ansa: 5 giorni di sciopero dei giornalisti",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/ansa-5-giorni-di-sciopero-dei-giornalisti/",
+          "published_at": "2026-11-23T21:38:07Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/digitale-la-trasformazione-accelera/",
+          "title": "Digitale: la trasformazione accelera",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/digitale-la-trasformazione-accelera/",
+          "published_at": "2026-11-23T20:00:07Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/jensen-huang-torna-alla-guida-di-nvidia-il-titolo-balza-a-wall-street/",
           "title": "Jensen Huang torna alla guida di Nvidia, il titolo balza a Wall Street",
           "source": "Corriere Comunicazioni",
           "url": "https://www.corrierecomunicazioni.it/digital-economy/jensen-huang-torna-alla-guida-di-nvidia-il-titolo-balza-a-wall-street/",
           "published_at": "2026-11-23T15:25:29Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -108,12 +228,42 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
+          "dedupe_id": "https://www.giornalistitalia.it/comune-di-tivoli-cerca-giornalista/",
+          "title": "Comune di Tivoli cerca giornalista",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/comune-di-tivoli-cerca-giornalista/",
+          "published_at": "2026-11-22T22:46:03Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
           "dedupe_id": "https://www.giornalistitalia.it/addio-alla-giornalista-federica-curletta/",
           "title": "Addio alla giornalista Federica Curletta",
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-alla-giornalista-federica-curletta/",
           "published_at": "2026-11-22T15:36:21Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/le-storie-silenziose-della-croce-rossa-italiana/",
+          "title": "Le storie silenziose della Croce Rossa Italiana",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/le-storie-silenziose-della-croce-rossa-italiana/",
+          "published_at": "2026-11-21T22:31:20Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione",
+          "search_name": "Comunicazione e uffici stampa"
+        },
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/il-pane-cultura-e-storia-di-un-bene-essenziale/",
+          "title": "Il pane: cultura e storia di un bene essenziale",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/il-pane-cultura-e-storia-di-un-bene-essenziale/",
+          "published_at": "2026-11-21T18:54:19Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -123,7 +273,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/non-facciamo-sparire-la-carta-stampata/",
           "published_at": "2026-11-20T18:21:15Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -223,7 +373,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-al-giornalista-corrado-augias/",
           "published_at": "2026-11-19T19:12:38Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -273,7 +423,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/addio-piero-vigorelli-uno-di-noi/",
           "published_at": "2026-11-19T11:54:22Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -333,7 +483,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/conservatorio-cerca-fotografo-giornalista-ma/",
           "published_at": "2026-11-18T16:25:59Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -343,7 +493,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/mediterraneo-pedagogia-del-mare-e-del-viaggio/",
           "published_at": "2026-11-18T15:03:03Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -353,7 +503,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/san-luca-consegna-il-xiv-premio-corrado-alvaro/",
           "published_at": "2026-11-18T13:51:17Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -403,7 +553,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/il-77-degli-italiani-ritiene-i-giornalisti-inaffidabili/",
           "published_at": "2026-11-18T10:05:33Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -493,7 +643,7 @@
           "source": "Giornalisti Italia",
           "url": "https://www.giornalistitalia.it/assassinato-il-giornalista-camilo-rodriguez/",
           "published_at": "2026-11-17T11:58:04Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
         },
@@ -2628,66 +2778,6 @@
           "search_name": "Comunicazione e uffici stampa"
         },
         {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/in-europa-la-corsa-alla-sovranita-tecnologica-rischia-di-incepparsi-ecco-perche/",
-          "title": "In Europa la corsa alla sovranità tecnologica rischia di incepparsi: ecco perché",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/in-europa-la-corsa-alla-sovranita-tecnologica-rischia-di-incepparsi-ecco-perche/",
-          "published_at": "2026-10-23T09:24:22Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/cloud-masera-senza-governance-lai-nei-processi-rimane-un-esperimento/",
-          "title": "Cloud, Masera: “Senza governance l’AI nei processi rimane un esperimento”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/cloud-masera-senza-governance-lai-nei-processi-rimane-un-esperimento/",
-          "published_at": "2026-10-23T08:53:40Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/spaceconomy/spacex-rete-cellulare-80mila-siti-fusione-tesla/",
-          "title": "SpaceX prepara la sfida ad AT&T, Verizon e T-Mobile: 80mila siti per la rete cellulare",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/spaceconomy/spacex-rete-cellulare-80mila-siti-fusione-tesla/",
-          "published_at": "2026-10-23T08:36:05Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/tlc-i-sindacati-per-salvare-lindustria-e-i-suoi-lavoratori-serve-limpegno-della-politica/",
-          "title": "Tlc, i sindacati: “Per salvare l’industria e i suoi lavoratori serve l’impegno della politica”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/tlc-i-sindacati-per-salvare-lindustria-e-i-suoi-lavoratori-serve-limpegno-della-politica/",
-          "published_at": "2026-10-23T07:25:34Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/digital-economy/dna-henna-virkkunen-a-parlamento-e-consiglio-ue-preservare-i-cardini-della-proposta/",
-          "title": "Virkkunen: “Digital Networks Act cruciale per investimenti e mercato unico europeo”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/digital-economy/dna-henna-virkkunen-a-parlamento-e-consiglio-ue-preservare-i-cardini-della-proposta/",
-          "published_at": "2026-10-22T13:31:27Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.corrierecomunicazioni.it/telco/rinnovo-frequenze-tlc-2029-urso/",
-          "title": "Frequenze, Urso apre sul rinnovo: “Forse si è preteso troppo”",
-          "source": "Corriere Comunicazioni",
-          "url": "https://www.corrierecomunicazioni.it/telco/rinnovo-frequenze-tlc-2029-urso/",
-          "published_at": "2026-10-22T13:30:17Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
           "dedupe_id": "https://www.giornalistitalia.it/summer-peace-university-la-pace-oltre-le-parole/",
           "title": "Summer Peace University: la pace oltre le parole",
           "source": "Giornalisti Italia",
@@ -2776,56 +2866,6 @@
           "last_seen_at": "2026-10-26T11:55:53Z",
           "search_id": "comunicazione",
           "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/addio-alla-giornalista-christiana-ruggeri/",
-          "title": "Addio alla giornalista Christiana Ruggeri",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/addio-alla-giornalista-christiana-ruggeri/",
-          "published_at": "2026-10-18T20:53:44Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/premi-sassoli-e-ceccatelli-ai-giornalisti-under-40/",
-          "title": "Premi Sassoli e Ceccatelli ai giornalisti under 40",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/premi-sassoli-e-ceccatelli-ai-giornalisti-under-40/",
-          "published_at": "2026-10-18T17:07:48Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/e-claudio-bottan-il-primo-ex-detenuto-giornalista/",
-          "title": "È Claudio Bottan il primo ex detenuto giornalista",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/e-claudio-bottan-il-primo-ex-detenuto-giornalista/",
-          "published_at": "2026-10-17T19:30:01Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/un-caffe-amarissimo-per-massimo-gramellini/",
-          "title": "Un caffè amarissimo per Massimo Gramellini",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/un-caffe-amarissimo-per-massimo-gramellini/",
-          "published_at": "2026-10-16T21:32:17Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
-        },
-        {
-          "dedupe_id": "https://www.giornalistitalia.it/il-servizio-pubblico-non-si-misura-con-lo-share/",
-          "title": "Il servizio pubblico non si misura con lo share",
-          "source": "Giornalisti Italia",
-          "url": "https://www.giornalistitalia.it/il-servizio-pubblico-non-si-misura-con-lo-share/",
-          "published_at": "2026-10-16T07:01:32Z",
-          "last_seen_at": "2026-10-25T10:26:56Z",
-          "search_id": "comunicazione",
-          "search_name": "Comunicazione e uffici stampa"
         }
       ]
     },
@@ -2833,6 +2873,16 @@
       "id": "comunicazione_pa",
       "name": "Comunicazione PA e Ufficio Stampa",
       "items": [
+        {
+          "dedupe_id": "https://www.giornalistitalia.it/comune-di-tivoli-cerca-giornalista/",
+          "title": "Comune di Tivoli cerca giornalista",
+          "source": "Giornalisti Italia",
+          "url": "https://www.giornalistitalia.it/comune-di-tivoli-cerca-giornalista/",
+          "published_at": "2026-11-22T22:46:03Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
+          "search_id": "comunicazione_pa",
+          "search_name": "Comunicazione PA e Ufficio Stampa"
+        },
         {
           "dedupe_id": "https://www.giornalistitalia.it/accademia-di-belle-arti-di-napoli-cerca-giornalista/",
           "title": "Accademia di Belle Arti di Napoli cerca giornalista",
@@ -2870,7 +2920,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/concorso-siemens-school-tech-awards-edizione-2027-xviii-edizione/",
           "published_at": "2026-11-23T12:56:53Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2880,7 +2930,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/proroga-dei-termini-di-presentazione-delle-candidature-a-s-2026-2027-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta-avviso-pubblico-dell/",
           "published_at": "2026-11-23T10:37:06Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -2890,7 +2940,7 @@
           "source": "USR Lazio",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/20/agridays-il-salone-dellorientamento-agraria-enogastronomia-e-turismo-roma-2-dicembre-2026/",
           "published_at": "2026-11-20T14:34:31Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "concorsi_pa",
           "search_name": "Concorsi PA — Lazio e Campania"
         },
@@ -3051,7 +3101,7 @@
           "source": "USR Lazio — Aree tematiche",
           "url": "https://www.ufficioscolasticoregionalelazio.it/2026/11/23/proroga-dei-termini-di-presentazione-delle-candidature-a-s-2026-2027-progetto-concorso-campagna-per-la-promozione-della-filiera-della-pasta-avviso-pubblico-dell/",
           "published_at": "2026-11-23T10:37:06Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3061,7 +3111,7 @@
           "source": "IC Via Aretusa (Roma)",
           "url": "https://www.icaretusa.edu.it/uncategorized/avviso-di-malfunzionamento-servizio-email-dellistituto/",
           "published_at": "2026-11-13T10:02:10Z",
-          "last_seen_at": "2026-11-23T16:55:05Z",
+          "last_seen_at": "2026-11-24T16:45:17Z",
           "search_id": "pnrr_orientamento",
           "search_name": "PNRR — Orientatrice / Esperto esterno"
         },
@@ -3374,7 +3424,7 @@
       "search_name": "Comunicazione e uffici stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 13,
+      "item_count": 15,
       "error_detail": null
     },
     {
@@ -3398,7 +3448,7 @@
       "search_name": "Comunicazione PA e Ufficio Stampa",
       "source_label": "Giornalisti Italia",
       "status": "ok",
-      "item_count": 0,
+      "item_count": 1,
       "error_detail": null
     },
     {
